@@ -1,0 +1,97 @@
+// 色彩
+@accentColor: #1890ff; // 全局颜色主题
+@textColor: #3a3737; // 文字主颜色
+@borderColor: #eaecef; // 边框颜色
+@codeBgColor: #f7f8f9; // 代码块背景颜色
+@arrowBgColor: #ccc; // 箭头背景颜色
+@badgeTipColor: #19be6b; // 提示徽标背景颜色
+@badgeWarningColor: #ff9900; // 警告标背景颜色
+@badgeErrorColor: #ed4014; // 危险徽标背景颜色
+
+// 布局
+@navbarHeight: 4.125rem; // 导航栏高度
+@sidebarWidth: 25rem; // 侧边栏宽度
+@contentWidth: unset; // 内容区域宽度
+@homePageWidth: 1000px; // 主页宽度
+
+// 标题颜色样式
+h2, h3, h4, h5, h6 {
+    margin-top: 0;
+    margin-bottom: 0.5em;
+    color: #40a0f9;
+    font-weight: 500;
+}
+
+// 代码块样式
+.token.keyword {
+    color: #8959a8;
+}
+.token.string {
+    color: #91b859;
+}
+.token.operator {
+    color: #f76d47;
+}
+
+// 正文样式
+body {
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.8);
+}
+
+// 图标按钮样式
+.ant-checkbox-checked .ant-checkbox-inner {
+    background-color: #25b864;
+    border-color: #25b864;
+}
+
+.ant-checkbox-checked .ant-checkbox-inner:after {
+    position: absolute;
+    display: table;
+    border: 2px solid #fff;
+    border-top: 0;
+    border-left: 0;
+    transform: rotate(45deg) scale(1) translate(-50%,-50%);
+    opacity: 1;
+    transition: all .2s cubic-bezier(.12,.4,.29,1.46) .1s;
+    content: " ";
+}
+
+// 按钮与文字间隔
+.ant-checkbox {
+    margin-left: 2px;
+    padding-right: 0px;
+}
+
+// 图标按钮文字样式
+.ant-checkbox-wrapper {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color: #3a3737;
+    font-size: 16px;
+    font-variant: tabular-nums;
+    line-height: 1.5;
+    list-style: none;
+    font-feature-settings: 'tnum';
+    display: inline-block;
+    line-height: unset;
+    cursor: pointer;
+}
+
+// 测绘按钮颜色
+.ant-btn {
+    color: #1890ff;
+    background-color: #fff;
+    border-color: #1890ff;
+}
+
+// 阅读进度条插件 样式
+.reading-progress .progress[data-v-3515b409] {
+    width: 100%;
+    height: 100%;
+    background: #83bef5;
+    background-image: none;
+    transform-origin: 0% 0%;
+    transition: transform 0.2s ease-out;
+}
