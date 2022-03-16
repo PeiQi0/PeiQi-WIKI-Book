@@ -8,7 +8,7 @@ PbootCMS 搜索模块存在SQL注入漏洞。通过漏洞可获取数据库敏�
 
 <a-checkbox checked>PbootCMS < 1.2.1</a-checkbox></br>
 
-## FOFA 
+## 网络测绘 
 
 <a-checkbox checked>app="PBOOTCMS"</a-checkbox></br>
 

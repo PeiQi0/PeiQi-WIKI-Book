@@ -8,7 +8,7 @@ OpenSNS 存在远程命令执行漏洞，攻击者通过漏洞发送特定的请
 
 <a-checkbox checked>OpenSNS</a-checkbox></br>
 
-## FOFA
+## 网络测绘
 
 <a-checkbox checked>icon_hash="1167011145"</a-checkbox></br>
 

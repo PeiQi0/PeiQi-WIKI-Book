@@ -8,7 +8,7 @@
 
 <a-checkbox checked>中科网威 下一代防火墙控制系统</a-checkbox></br>
 
-## FOFA
+## 网络测绘
 
 <a-checkbox checked>body="Get_Verify_Info(hex_md5(user_string)."</a-checkbox></br>
 

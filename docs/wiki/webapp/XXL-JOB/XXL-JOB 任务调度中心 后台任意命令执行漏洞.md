@@ -8,7 +8,7 @@ XXL-JOB 任务调度中心攻击者可以在后台可以通过写入shell命令�
 
 <a-checkbox checked>XXL-JOB</a-checkbox></br>
 
-## FOFA
+## 网络测绘
 
 <a-checkbox checked>app="XXL-JOB" || title="任务调度中心"</a-checkbox></br>
 

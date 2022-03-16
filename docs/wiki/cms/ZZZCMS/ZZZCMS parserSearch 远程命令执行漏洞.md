@@ -8,7 +8,7 @@ ZZZCMS parserSearch 存在模板注入导致远程命令执行漏洞
 
 <a-checkbox checked>ZZZCMS</a-checkbox></br>	
 
-## FOFA
+## 网络测绘
 
 <a-checkbox checked>app="zzzcms"</a-checkbox></br>
 

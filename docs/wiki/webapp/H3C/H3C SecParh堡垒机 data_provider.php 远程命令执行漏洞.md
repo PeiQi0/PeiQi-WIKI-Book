@@ -10,7 +10,7 @@ H3C SecParh堡垒机 get_detail_view.php 存在任意用户登录漏洞
 
 <a-checkbox checked>H3C SecParh堡垒机</a-checkbox></br>
 
-## FOFA
+## 网络测绘
 
 <a-checkbox checked>app="H3C-SecPath-运维审计系统" && body="2018"</a-checkbox></br>
 

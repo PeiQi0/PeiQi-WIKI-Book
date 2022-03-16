@@ -8,7 +8,7 @@ rConfig ajaxArchiveFiles.php文件中由于对path参数和ext参数进行命令
 
 <a-checkbox checked>rConfig</a-checkbox></br>
 
-## FOFA
+## 网络测绘
 
 <a-checkbox checked>app="rConfig"</a-checkbox></br>
 

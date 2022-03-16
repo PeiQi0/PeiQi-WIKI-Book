@@ -8,7 +8,7 @@
 
 <a-checkbox checked>信诺瑞得 WiseGrid慧敏应用交付网关</a-checkbox></br>
 
-## FOFA
+## 网络测绘
 
 <a-checkbox checked>app="WiseGrid慧敏应用交付网关"</a-checkbox></br>
 

@@ -8,7 +8,7 @@ Weiphp5.0 所有使用了 wp_where() 函数并且参数可控的SQL查询均受�
 
   <a-checkbox checked>Weiphp5.0</a-checkbox></br>
 
-## FOFA
+## 网络测绘
 
   <a-checkbox checked>app="WeiPHP"</a-checkbox></br>
 

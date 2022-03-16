@@ -8,7 +8,7 @@ HIKVISION 流媒体管理服务器配置文件未做鉴权，攻击者通过漏�
 
 <a-checkbox checked>HIKVISION 流媒体管理服务器</a-checkbox></br>
 
-## FOFA
+## 网络测绘
 
 <a-checkbox checked>"杭州海康威视系统技术有限公司 版权所有"</a-checkbox></br>
 

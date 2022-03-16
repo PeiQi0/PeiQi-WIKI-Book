@@ -8,7 +8,7 @@ Gerapy gerapy/server/core/views.py 中的 project_file_read 方法存在任意�
 
 <a-checkbox checked>Gerapy <= 0.9.6</a-checkbox></br>
 
-## FOFA
+## 网络测绘
 
 <a-checkbox checked>title="Gerapy"</a-checkbox></br>
 

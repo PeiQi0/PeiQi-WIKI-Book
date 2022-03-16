@@ -8,7 +8,7 @@ Cerebro是使用Scala、Play Framework、AngularJS和Bootstrap构建的开源的
 
 <a-checkbox checked>Cerebro</a-checkbox></br>
 
-## FOFA
+## 网络测绘
 
 <a-checkbox checked>app="Cerebro"</a-checkbox></br>
 

@@ -8,7 +8,7 @@ AspCMS commentList.asp 存在SQL注入漏洞，攻击者通过漏洞可以获取
 
 <a-checkbox checked>AspCMS</a-checkbox></br>
 
-## FOFA
+## 网络测绘
 
 <a-checkbox checked>app="ASPCMS"</a-checkbox></br>
 

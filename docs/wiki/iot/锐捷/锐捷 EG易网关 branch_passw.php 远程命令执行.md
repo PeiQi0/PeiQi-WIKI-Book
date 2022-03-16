@@ -8,7 +8,7 @@
 
 <a-checkbox checked>锐捷EG易网关</a-checkbox></br>
 
-## FOFA
+## 网络测绘
 
 <a-checkbox checked>app="Ruijie-EG易网关"</a-checkbox></br>
 

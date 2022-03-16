@@ -8,7 +8,7 @@ FLIR-AX8 download.php文件过滤不全 存在任意文件下载漏洞
 
 <a-checkbox checked>FLIR-AX8</a-checkbox></br>
 
-## FOFA
+## 网络测绘
 
 <a-checkbox checked>app="FLIR-FLIR-AX8"</a-checkbox></br>
 

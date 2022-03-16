@@ -24,7 +24,7 @@ Selea OCR-ANPR摄像机 get_file.php存在 任意文件读取漏洞，通过构�
 
 <a-checkbox checked>Selea Selea Targa IP OCR-ANPR Camera Targa 704 ILB</a-checkbox></br>
 
-## FOFA
+## 网络测绘
 
 <a-checkbox checked>"selea_httpd"</a-checkbox></br>
 

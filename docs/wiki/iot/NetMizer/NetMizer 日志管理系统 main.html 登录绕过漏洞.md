@@ -8,7 +8,7 @@ NetMizer 日志管理系统存在登录绕过漏洞，通过限制某个请求�
 
 <a-checkbox checked>NetMizer 日志管理系统</a-checkbox></br>
 
-## FOFA
+## 网络测绘
 
 <a-checkbox checked>title="NetMizer 日志管理系统"</a-checkbox></br>
 

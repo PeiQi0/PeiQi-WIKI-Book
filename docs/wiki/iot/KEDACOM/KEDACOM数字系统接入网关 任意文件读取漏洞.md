@@ -8,7 +8,7 @@ KEDACOM 数字系统接入网关 存在任意文件读取漏洞，攻击者通�
 
 <a-checkbox checked>KEDACOM 数字系统接入网关</a-checkbox></br>
 
-## FOFA
+## 网络测绘
 
 <a-checkbox checked>(app="KEDACOM-DVR接入网关") && (is_honeypot=false && is_fraud=false)</a-checkbox></br>
 

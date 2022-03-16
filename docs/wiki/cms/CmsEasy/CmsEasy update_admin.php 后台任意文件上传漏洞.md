@@ -8,7 +8,7 @@ CmsEasy 后台存在任意文件上传漏洞，通过文件 service.php 加密Ur
 
 <a-checkbox checked>CmsEasy V7.7.5_20210919</a-checkbox></br>
 
-## FOFA
+## 网络测绘
 
 <a-checkbox checked>body="cmseasyedit" </a-checkbox></br>
 

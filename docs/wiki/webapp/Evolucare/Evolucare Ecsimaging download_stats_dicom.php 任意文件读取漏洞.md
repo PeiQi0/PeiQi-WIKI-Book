@@ -8,7 +8,7 @@ Evolucare Ecsimaging download_stats_dicom.php 存在文件读取漏洞,攻击者
 
 <a-checkbox checked>EVOLUCARE Evolucare Ecsimaging 6.21.5</a-checkbox></br>
 
-## FOFA
+## 网络测绘
 
 <a-checkbox checked>body="ECSimaging"</a-checkbox></br>
 

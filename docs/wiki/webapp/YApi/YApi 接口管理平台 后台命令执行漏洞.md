@@ -8,7 +8,7 @@ YApi 接口管理平台 后台存在命令执行漏洞，攻击者通过发送�
 
 <a-checkbox checked>YApi 接口管理平台</a-checkbox></br>
 
-## FOFA
+## 网络测绘
 
 <a-checkbox checked>app="YApi"</a-checkbox></br>
 

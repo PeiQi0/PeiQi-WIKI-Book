@@ -8,7 +8,7 @@ CmsEasy 存在SQL注入漏洞，通过文件 service.php 加密SQL语句执行�
 
 <a-checkbox checked>CmsEasy V7.7.5_20210919</a-checkbox></br>
 
-## FOFA
+## 网络测绘
 
 <a-checkbox checked>body="cmseasyedit" </a-checkbox></br>
 

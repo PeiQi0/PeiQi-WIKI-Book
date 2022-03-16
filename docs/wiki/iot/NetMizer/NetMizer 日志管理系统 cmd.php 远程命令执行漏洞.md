@@ -8,7 +8,7 @@ NetMizer 日志管理系统 cmd.php中存在远程命令执行漏洞，攻击者
 
 <a-checkbox checked>NetMizer 日志管理系统</a-checkbox></br>
 
-## FOFA
+## 网络测绘
 
 <a-checkbox checked>title="NetMizer 日志管理系统"</a-checkbox></br>
 

@@ -8,7 +8,7 @@ MSA 互联网管理网关存在任意文件读取漏洞，攻击者通过漏洞�
 
 <a-checkbox checked>MSA 互联网管理网关</a-checkbox></br>
 
-## FOFA
+## 网络测绘
 
 <a-checkbox checked>"互联网管理网关"</a-checkbox></br>
 

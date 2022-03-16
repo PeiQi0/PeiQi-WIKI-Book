@@ -9,6 +9,12 @@ title: 更新日志
 <template>
   <a-timeline>
     <a-timeline-item>
+      2022.3.16
+      <p>
+        - <a-tag color="purple">文库动态</a-tag>开源文库至Github<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
       2022.3.14
       <p>
         - <a-tag color="purple">文库动态</a-tag>制作文库Docker镜像让文库更容易部署<br/>

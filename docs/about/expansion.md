@@ -21,6 +21,7 @@ title: 个人扩展
 ```shell
 git clone https://github.com/PeiQi0/PeiQi-WIKI-Book.git
 cd PeiQi-WIKI-Book
+yarn add vuepress-theme-antdocs -d
 yarn install
 yarn run dev
 ```

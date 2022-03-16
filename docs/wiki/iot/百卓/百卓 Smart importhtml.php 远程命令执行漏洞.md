@@ -8,7 +8,7 @@
 
 <a-checkbox checked>百卓 Smart</a-checkbox></br>
 
-## FOFA
+## 网络测绘
 
 <a-checkbox checked>title="Smart管理平台"</a-checkbox></br>
 

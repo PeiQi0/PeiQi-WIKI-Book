@@ -8,7 +8,7 @@ SonicWall SSL-VPN 远程命令执行在1月24日被公开 EXP，此设备存在�
 
 <a-checkbox checked>SonicWall SSL-VPN</a-checkbox></br>
 
-## FOFA
+## 网络测绘
 
 <a-checkbox checked>app="SONICWALL-SSL-VPN"</a-checkbox></br>
 

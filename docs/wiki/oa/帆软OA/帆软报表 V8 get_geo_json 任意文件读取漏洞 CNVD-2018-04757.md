@@ -10,7 +10,7 @@ FineReport v8.0版本存在任意文件读取漏洞，攻击者可利用漏洞�
 
 <a-checkbox checked>FineReport < v8.0</a-checkbox></br>
 
-## FOFA
+## 网络测绘
 
 <a-checkbox checked>body="isSupportForgetPwd"</a-checkbox></br>
 

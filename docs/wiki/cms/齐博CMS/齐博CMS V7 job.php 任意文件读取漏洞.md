@@ -8,7 +8,7 @@ QiboCMS V7版本/do/job.php页面URL参数过滤不严，导致可以下载系�
 
 <a-checkbox checked>齐博CMS V7</a-checkbox></br>
 
-## FOFA
+## 网络测绘
 
 <a-checkbox checked>app="齐博软件-v7"</a-checkbox></br>
 

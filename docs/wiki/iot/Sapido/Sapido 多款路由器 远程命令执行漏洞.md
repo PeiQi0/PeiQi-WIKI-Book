@@ -14,7 +14,7 @@ Sapido多款路由器在未授权的情况下，导致任意访问者可以以Ro
 
 <a-checkbox checked>RB1732-v2.0.43</a-checkbox></br>
 
-## FOFA
+## 网络测绘
 
 <a-checkbox checked>app="Sapido-路由器"</a-checkbox></br>
 

@@ -8,7 +8,7 @@ H3C SecParh堡垒机 data_provider.php 存在远程命令执行漏洞，攻击�
 
 <a-checkbox checked>H3C SecParh堡垒机</a-checkbox></br>
 
-## FOFA
+## 网络测绘
 
 <a-checkbox checked>app="H3C-SecPath-运维审计系统" && body="2018"</a-checkbox></br>
 

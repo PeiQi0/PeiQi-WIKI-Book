@@ -8,7 +8,7 @@ rConfig useradmin.inc.php 存在信息泄露漏洞，通过访问文件获取用
 
 <a-checkbox checked>rConfig</a-checkbox></br>
 
-## FOFA
+## 网络测绘
 
 <a-checkbox checked>app="rConfig"</a-checkbox></br>
 

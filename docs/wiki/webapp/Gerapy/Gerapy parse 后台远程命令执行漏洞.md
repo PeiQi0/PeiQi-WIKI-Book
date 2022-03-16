@@ -8,7 +8,7 @@ Gerapy gerapy/server/core/views.py 中的方法存在任意命令执行，攻击
 
 <a-checkbox checked>Gerapy <= 0.9.7</a-checkbox></br>
 
-## FOFA
+## 网络测绘
 
 <a-checkbox checked>title="Gerapy"</a-checkbox></br>
 

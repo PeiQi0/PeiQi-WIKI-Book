@@ -14,7 +14,7 @@ JumpServer 是全球首款完全开源的堡垒机, 使用GNU GPL v2.0 开源协
 
 <a-checkbox checked>JumpServer = v1.5.9</a-checkbox></br>
 
-## FOFA
+## 网络测绘
 
 <a-checkbox checked>app="FIT2CLOUD-JumpServer-堡垒机"</a-checkbox></br>
 

@@ -18,7 +18,7 @@ Weiphp5.0 存在管理员用户Cookie伪造，通过泄露的密钥数据，可�
 
 
 
-## FOFA
+## 网络测绘
 
 <a-checkbox checked>app="WeiPHP"</a-checkbox></br>
 

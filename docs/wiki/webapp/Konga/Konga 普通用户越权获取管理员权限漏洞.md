@@ -8,7 +8,7 @@ Konga 普通用户通过发送特殊的请求可越权获取管理员权限
 
 <a-checkbox checked>Konga</a-checkbox></br>
 
-## FOFA
+## 网络测绘
 
 <a-checkbox checked>"konga"</a-checkbox></br>
 

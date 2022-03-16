@@ -8,7 +8,7 @@ Kyan 网络监控设备 存在账号密码泄露漏洞，攻击者通过漏洞�
 
 <a-checkbox checked>Kyan</a-checkbox></br>
 
-## FOFA
+## 网络测绘
 
 <a-checkbox checked>title="platform - Login"</a-checkbox></br>
 

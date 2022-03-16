@@ -8,7 +8,7 @@ iKuai 流控路由 存在SQL注入漏洞，可以通过SQL注入漏洞构造万�
 
 <a-checkbox checked>iKuai 流控路由</a-checkbox></br>
 
-## FOFA
+## 网络测绘
 
 <a-checkbox checked>title="登录爱快流控路由"</a-checkbox></br>
 

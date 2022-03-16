@@ -8,7 +8,7 @@ ACTI 视频监控 存在任意文件读取漏洞
 
 <a-checkbox checked>ACTI摄像头</a-checkbox></br>
 
-## FOFA
+## 网络测绘
 
 <a-checkbox checked>app="ACTi-视频监控"</a-checkbox></br>
 

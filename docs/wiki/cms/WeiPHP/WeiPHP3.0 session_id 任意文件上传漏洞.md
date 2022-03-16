@@ -8,7 +8,7 @@ WeiPHP3.0 session_id 存在任意文件上传漏洞，攻击者通过漏洞可�
 
 <a-checkbox checked>WeiPHP3.0</a-checkbox></br>
 
-## FOFA
+## 网络测绘
 
 <a-checkbox checked>app="weiphp"</a-checkbox></br>
 

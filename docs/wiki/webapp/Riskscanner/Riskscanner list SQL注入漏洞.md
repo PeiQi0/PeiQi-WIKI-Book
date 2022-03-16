@@ -8,7 +8,7 @@ Riskscanner list接口存在SQL注入漏洞，通过漏洞可获取服务器权�
 
 <a-checkbox checked>Riskscanner</a-checkbox></br>
 
-## FOFA
+## 网络测绘
 
 <a-checkbox checked>title="Riskscanner"</a-checkbox></br>
 

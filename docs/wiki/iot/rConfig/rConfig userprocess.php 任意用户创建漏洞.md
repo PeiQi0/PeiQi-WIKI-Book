@@ -8,7 +8,7 @@ rConfig userprocess.php 存在任意用户创建漏洞，发送特定的请求�
 
 <a-checkbox checked>rConfig</a-checkbox></br>
 
-## FOFA
+## 网络测绘
 
 <a-checkbox checked>app="rConfig"</a-checkbox></br>
 

@@ -8,7 +8,7 @@
 
 <a-checkbox checked>飞视美 视频会议系统</a-checkbox></br>
 
-## FOFA
+## 网络测绘
 
 <a-checkbox checked>app="飞视美-视频会议系统"</a-checkbox></br>
 

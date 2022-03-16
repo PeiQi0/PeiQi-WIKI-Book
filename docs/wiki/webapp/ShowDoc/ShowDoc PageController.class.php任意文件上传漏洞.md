@@ -8,7 +8,7 @@ ShowDoc 存在任意文件上传漏洞，攻击者通过构造特殊的数据包
 
   <a-checkbox checked>ShowDoc < V2.8.3</a-checkbox></br>
 
-## FOFA
+## 网络测绘
 
   <a-checkbox checked>app="ShowDoc"</a-checkbox></br>
 

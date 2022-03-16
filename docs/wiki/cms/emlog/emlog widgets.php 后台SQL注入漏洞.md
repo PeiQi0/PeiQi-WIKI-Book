@@ -8,7 +8,7 @@ emlog widgets.php文件在登录后通过构造特殊语句导致SQL注入，获
 
 <a-checkbox checked>emlog 6.0 </a-checkbox></br>
 
-## FOFA
+## 网络测绘
 
 <a-checkbox checked>app="EMLOG"</a-checkbox></br>
 
