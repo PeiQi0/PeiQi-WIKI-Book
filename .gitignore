@@ -41,38 +41,14 @@ typings/
 
 # Optional npm cache directory
 .npm
-
 # Optional eslint cache
 .eslintcache
-
-# Optional REPL history
 .node_repl_history
-
-# Output of 'npm pack'
-*.tgz
-
-# Yarn Integrity file
-.yarn-integrity
-
-# dotenv environment variables file
+*.zip
 .vscode
-#.env
 .idea
-dist
 .DS_Store
-lib
-es
-_site
 yarn.lock
-package-lock.json
-/coverage
-
-# bak files
-/components/test/*
-list.txt
-/pubilc
-
-site/dev.js
 
 # uesless file
 node_modules
