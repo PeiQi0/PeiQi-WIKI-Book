@@ -82,13 +82,6 @@ export default {
 <template>
   <a-row :gutter="16">
     <a-col :span="12">
-      <a-statistic title="Github星星" :value="120" style="margin-right: 50px">
-        <template #suffix>
-          <a-icon type="star" />
-        </template>
-      </a-statistic>
-    </a-col>
-    <a-col :span="12">
       <a-statistic title="RMB" :value="420" class="demo-class">
         <template #suffix>
           <a-icon type="fire" />
@@ -97,3 +90,6 @@ export default {
     </a-col>
   </a-row>
 </template>
+
+
+[![Stargazers over time](https://starchart.cc/PeiQi0/PeiQi-WIKI-Book.svg)](https://starchart.cc/PeiQi0/PeiQi-WIKI-Book)
