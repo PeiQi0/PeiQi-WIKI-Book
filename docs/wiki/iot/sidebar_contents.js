@@ -43,6 +43,13 @@ module.exports = [
 		]
 	},
 	{
+		title: "大华",
+		collapsable: true,
+		children:[
+			"/wiki/iot/大华/大华 城市安防监控系统平台管理 attachment_downloadByUrlAtt.action 任意文件下载漏洞",
+		]
+	},
+	{
 		title: "锐捷",
 		collapsable: true,
 		children:[

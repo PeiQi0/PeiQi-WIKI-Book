@@ -35,17 +35,17 @@ title: 合作伙伴
             </a-card-meta>
         </a-card>
       </a-col>
-      <!-- <a-col :span="6">
+      <a-col :span="6">
         <a-card hoverable style="width: 300px">
             <img
             slot="cover"
             alt="example"
-            src="../.vuepress/public/img/peiqi.png"
+            src="../.vuepress/public/img/WX20220317-211458@2x.png"
             />
-            <a-card-meta title="PeiQi文库">
+            <a-card-meta title="且听安全">
             <a-avatar
                 slot="avatar"
-                src="/img/home.svg"
+                src="/img/qtaq.svg"
             />
             </a-card-meta>
         </a-card>
@@ -55,16 +55,15 @@ title: 合作伙伴
             <img
             slot="cover"
             alt="example"
-            src="../.vuepress/public/img/peiqi.png"
+            src="../.vuepress/public/img/WX20220317-212458@2x.png"
             />
-            <a-card-meta title="PeiQi文库">
+            <a-card-meta title="阿乐你好">
             <a-avatar
                 slot="avatar"
-                src="/img/home.svg"
+                src="/img/alnh.svg"
             />
             </a-card-meta>
         </a-card>
-      </a-col> -->
+      </a-col>
   </a-row>
 </template>
-
