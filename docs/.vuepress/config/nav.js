@@ -103,15 +103,11 @@ module.exports = [
         },
         {
           text: "安全招聘",
-          link: "/cooperation/recruit",
+          link: "/cooperation/recruit/北京微步在线科技有限公司",
         },
         {
           text: "开源项目",
           link: "/cooperation/project/PeiQi0-PeiQi-WIKI-Book",
-        },
-        {
-          text: "交流论坛",
-          link: "/cooperation/communication",
         },
       ],
     }

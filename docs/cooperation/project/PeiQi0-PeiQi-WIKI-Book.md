@@ -2,8 +2,6 @@
 title: PeiQi0/PeiQi-WIKI-Book
 ---
 
-<!-- <center><p><img src="https://repobeats.axiom.co/api/embed/e4e9e5f7ae3c6d452c90e72fcb0f9314aabcb096.svg" width="100%" height="100%"></p></center> -->
-
 <template>
   <div style="background-color: #F5F5F5; padding: 24px;">
     <a-page-header

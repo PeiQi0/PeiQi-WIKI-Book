@@ -33,7 +33,7 @@ module.exports = {
     sidebarDepth: 0,
     lastUpdated: '上次更新',
     logo: '/img/home.svg',
-    repo: 'https://github.com/PeiQi0',
+    repo: 'https://github.com/PeiQi0/PeiQi-WIKI-Book',
     editLinks: true,
     ads:{
       style: 3, 
