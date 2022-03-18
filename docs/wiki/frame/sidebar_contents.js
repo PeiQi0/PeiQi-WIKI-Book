@@ -22,4 +22,11 @@ module.exports = [
 			"/wiki/frame/PHPUnit/PHPUnit eval-stdin.php 远程命令执行漏洞 CVE-2017-9841",
 		]
 	},
+	{
+		title: "Spring Cloud",
+		collapsable: true,
+		children:[
+			"/wiki/frame/Spring Cloud/Spring Cloud Gateway表达式注入 远程命令执行漏洞 CVE-2022-22947",
+		]
+	},
 ];

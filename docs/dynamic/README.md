@@ -11,6 +11,7 @@ title: 更新日志
     <a-timeline-item>
       2022.3.19
       <p>
+        - <a-tag color="red">漏洞相关</a-tag>Spring Cloud Gateway表达式注入 远程命令执行漏洞 CVE-2022-22947<br/>
         - <a-tag color="red">漏洞相关</a-tag>Redis Lua 沙箱绕过 远程命令执行 CVE-2022-0543<br/>
       </p>
     </a-timeline-item>
