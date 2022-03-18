@@ -12,6 +12,7 @@ module.exports = [
 		collapsable: true,
 		children:[
 			"/wiki/serverapp/Redis/Redis 小于5.0.5 主从复制远程命令执行漏洞",
+			"/wiki/serverapp/Redis/Redis Lua 沙箱绕过 远程命令执行 CVE-2022-0543",
 		]
 	},
 	{

@@ -9,6 +9,12 @@ title: 更新日志
 <template>
   <a-timeline>
     <a-timeline-item>
+      2022.3.19
+      <p>
+        - <a-tag color="red">漏洞相关</a-tag>Redis Lua 沙箱绕过 远程命令执行 CVE-2022-0543<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
       2022.3.18
       <p>
         - <a-tag color="red">漏洞相关</a-tag>大华 城市安防监控系统平台管理 attachment_downloadByUrlAtt.action 任意文件下载漏洞<br/>
