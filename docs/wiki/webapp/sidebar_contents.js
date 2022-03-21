@@ -518,7 +518,7 @@ module.exports = [
 			"/wiki/webapp/TerraMaster/TerraMaster TOS makecvs.php 远程命令执行漏洞 CVE-2020-28188",
 			"/wiki/webapp/TerraMaster/TerraMaster TOS exportUser.php 远程命令执行",
 			"/wiki/webapp/TerraMaster/TerraMaster TOS 信息泄漏漏洞 CVE-2022-24990",
-			"/wiki/webapp/TerraMaster/TerraMaster TOS createRaid 远程命令执行漏洞 CVE-2022-24990",
+			"/wiki/webapp/TerraMaster/TerraMaster TOS createRaid 远程命令执行漏洞 CVE-2022-24989",
 		]
 	},
 	{

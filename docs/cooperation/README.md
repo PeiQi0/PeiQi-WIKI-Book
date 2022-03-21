@@ -345,6 +345,21 @@ title: 合作伙伴
             </a-card-meta>
         </a-card>
       </a-col>
+      <a-col :span="6">
+        <a-card hoverable style="width: 300px">
+            <img
+            slot="cover"
+            alt="example"
+            src="../.vuepress/public/img/image-20220321140559227.png"
+            />
+            <a-card-meta title="微步在线研究响应中心">
+            <a-avatar
+                slot="avatar"
+                src="/img/wbzx.svg"
+            />
+            </a-card-meta>
+        </a-card>
+      </a-col>
   </a-row>
 </template>
 

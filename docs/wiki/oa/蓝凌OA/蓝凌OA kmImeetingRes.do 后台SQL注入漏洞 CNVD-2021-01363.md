@@ -24,7 +24,7 @@ https://xxx.xxx.xxx.xxx/km/imeeting/km_imeeting_res/kmImeetingRes.do?contentType
 
 ```sql
 GET /km/imeeting/km_imeeting_res/kmImeetingRes.do?contentType=json&method=listUse&orderby=1&ordertype=down&s_ajax=true HTTP/1.1
-Host: xxx.xxx.xxx.xxx
+Host: 
 Connection: close
 Pragma: no-cache
 Cache-Control: no-cache

@@ -28,7 +28,7 @@
 
 ```plain
 POST /webadm/?q=moni_detail.do&action=gragh HTTP/1.1
-Host: xxx.xxx.xxx.xxx
+Host: 
 Content-Length: 39
 Cache-Control: max-age=0
 Upgrade-Insecure-Requests: 1

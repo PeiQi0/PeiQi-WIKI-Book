@@ -29,7 +29,7 @@ require_once (dirname(__FILE__)."\\common\\HTTPrequest_SCpost.php");
 {
 "set_exportpdf_cmd" :
     {
-    "url" : "http://172.18.254.146/report/system/main.php?userSession=5784727B-7AEA-4EFE-B0CB-DDD6DA1CABD3&guid=1AC380D9-                580C-49A8-B6EC-787CF50FA928&VHierarchyID=ADMIN",
+    "url" : "http://xxx.xxx.xxx.xxx/report/system/main.php?userSession=5784727B-7AEA-4EFE-B0CB-DDD6DA1CABD3&guid=1AC380D9-                580C-49A8-B6EC-787CF50FA928&VHierarchyID=ADMIN",
     "fileName":"test.pdf"
     }
 }
@@ -41,7 +41,7 @@ require_once (dirname(__FILE__)."\\common\\HTTPrequest_SCpost.php");
 	/*
 	$post = array("kptl"=>
 			array("set_exportpdf_cmd"=>array(
-				"url"=>"http://172.18.254.146/report/system/main.php?userSession=5784727B-7AEA-4EFE-B0CB-DDD6DA1CABD3&guid=1AC380D9-580C-49A8-B6EC-787CF50FA928&VHierarchyID=ADMIN",
+				"url"=>"http://xxx.xxx.xxx.xxx/report/system/main.php?userSession=5784727B-7AEA-4EFE-B0CB-DDD6DA1CABD3&guid=1AC380D9-580C-49A8-B6EC-787CF50FA928&VHierarchyID=ADMIN",
 				"fileName"=>"test1234.pdf"
 				)
 			));
@@ -110,7 +110,7 @@ require_once (dirname(__FILE__)."\\common\\HTTPrequest_SCpost.php");
 
 ```plain
 POST /inter/pdf_maker.php HTTP/1.1
-Host: xxx.xxx.xxx.xxx
+Host: 
 Content-Length: 45
 Pragma: no-cache
 Cache-Control: no-cache

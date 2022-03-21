@@ -285,8 +285,6 @@ Accept: */*
 Connection: keep-alive
 Content-Type: multipart/form-data; boundary=b1467349fcce4aa0ae8d44439f4e06bc
 Upgrade-Insecure-Requests: 1
-Referer: http://194.149.41.11/useradmin.php
-Origin: http://194.149.41.11/
 Cookie: PHPSESSID=test
 Content-Length: 697
 

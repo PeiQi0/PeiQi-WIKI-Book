@@ -30,7 +30,6 @@ Accept: */*
 User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:5.0) Gecko/20100101 Firefox/5.0
 Accept-Charset: GBK,utf-8;q=0.7,*;q=0.3
 Connection: keep-alive
-Referer: http://www.baidu.com
 Cache-Control: max-age=0
 Content-Type: multipart/form-data; boundary=62907949903a4c499178971c9dab4ad9
 
