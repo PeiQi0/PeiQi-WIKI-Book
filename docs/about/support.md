@@ -29,10 +29,6 @@ title: 支持项目
 
 <br/>
 
-
-
-![image-20220312210631678](../.vuepress/public/img/image-20220312210631678.png)
-
 ## 赞助项目
 
 <a-alert type="success" message="对一直支持项目的师傅表示感谢啦，就好像偶尔给忙碌更新的我买杯奶茶～" description="" showIcon>
