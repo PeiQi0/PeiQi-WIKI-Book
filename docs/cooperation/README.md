@@ -241,12 +241,12 @@ title: 合作伙伴
             <img
             slot="cover"
             alt="example"
-            src="../.vuepress/public/img/image-20220318184615085.png"
+            src="../.vuepress/public/img/image-20220328194545533.png"
             />
-            <a-card-meta title="瓜神学习网络安全">
+            <a-card-meta title="GobySec">
             <a-avatar
                 slot="avatar"
-                src="/img/gswl.svg"
+                src="/img/goby.svg"
             />
             </a-card-meta>
         </a-card>
@@ -376,6 +376,114 @@ title: 合作伙伴
         </a-card>
       </a-col>
   </a-row>
+  <a-row :gutter="[32,16]">
+      <a-col :span="6">
+        <a-card hoverable style="width: 300px">
+            <img
+            slot="cover"
+            alt="example"
+            src="../.vuepress/public/img/image-20220328164729036.png"
+            />
+            <a-card-meta title="信安小屋">
+            <a-avatar
+                slot="avatar"
+                src="/img/xinanxiaowu.svg"
+            />
+            </a-card-meta>
+        </a-card>
+      </a-col>
+      <a-col :span="6">
+        <a-card hoverable style="width: 300px">
+            <img
+            slot="cover"
+            alt="example"
+            src="../.vuepress/public/img/image-20220328170822629.png"
+            />
+            <a-card-meta title="渗透小白帽">
+            <a-avatar
+                slot="avatar"
+                src="/img/xiaobaimao.svg"
+            />
+            </a-card-meta>
+        </a-card>
+      </a-col>
+      <a-col :span="6">
+        <a-card hoverable style="width: 300px">
+            <img
+            slot="cover"
+            alt="example"
+            src="../.vuepress/public/img/image-20220328171923568.png"
+            />
+            <a-card-meta title="深信服千里目安全实验室">
+            <a-avatar
+                slot="avatar"
+                src="/img/sxfqlm.svg"
+            />
+            </a-card-meta>
+        </a-card>
+      </a-col>
+      <a-col :span="6">
+        <a-card hoverable style="width: 300px">
+            <img
+            slot="cover"
+            alt="example"
+            src="../.vuepress/public/img/image-20220328180433502.png"
+            />
+            <a-card-meta title="流沙安全">
+            <a-avatar
+                slot="avatar"
+                src="/img/lsaq.svg"
+            />
+            </a-card-meta>
+        </a-card>
+      </a-col>
+  </a-row>
+  <a-row :gutter="[32,16]">
+      <a-col :span="6">
+        <a-card hoverable style="width: 300px">
+            <img
+            slot="cover"
+            alt="example"
+            src="../.vuepress/public/img/image-20220318184615085.png"
+            />
+            <a-card-meta title="瓜神学习网络安全">
+            <a-avatar
+                slot="avatar"
+                src="/img/gswl.svg"
+            />
+            </a-card-meta>
+        </a-card>
+      </a-col>
+      <a-col :span="6">
+        <a-card hoverable style="width: 300px">
+            <img
+            slot="cover"
+            alt="example"
+            src="../.vuepress/public/img/image-20220328195124937.png"
+            />
+            <a-card-meta title="thelostworld">
+            <a-avatar
+                slot="avatar"
+                src="/img/the.svg"
+            />
+            </a-card-meta>
+        </a-card>
+      </a-col>
+      <a-col :span="6">
+        <a-card hoverable style="width: 300px">
+            <img
+            slot="cover"
+            alt="example"
+            src="../.vuepress/public/img/image-20220328195729322.png"
+            />
+            <a-card-meta title="李白你好">
+            <a-avatar
+                slot="avatar"
+                src="/img/lblh.svg"
+            />
+            </a-card-meta>
+        </a-card>
+      </a-col>
+  </a-row>  
 </template>
-
 

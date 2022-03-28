@@ -15,6 +15,8 @@ module.exports = [
 		collapsable: true,
 		children:[
 			"/cooperation/project/PeiQi0-PeiQi-WIKI-Book",
+			"/cooperation/project/vulfocus",
+			"/cooperation/project/Goby",
 		]
 	},
 ];
