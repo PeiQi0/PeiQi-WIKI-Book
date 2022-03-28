@@ -23,10 +23,18 @@ module.exports = [
 		]
 	},
 	{
+		title: "MotionEye",
+		collapsable: true,
+		children:[
+			"/wiki/frame/MotionEye/MotionEye 视频监控组件 list 信息泄漏洞 CVE-2022-25568",
+		]
+	},
+	{
 		title: "Spring Cloud",
 		collapsable: true,
 		children:[
 			"/wiki/frame/Spring Cloud/Spring Cloud Gateway表达式注入 远程命令执行漏洞 CVE-2022-22947",
+			"/wiki/frame/Spring Cloud/Spring Cloud Function SPEL 远程命令执行漏洞",
 		]
 	},
 ];

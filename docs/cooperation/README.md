@@ -360,6 +360,22 @@ title: 合作伙伴
             </a-card-meta>
         </a-card>
       </a-col>
+      <a-col :span="6">
+        <a-card hoverable style="width: 300px">
+            <img
+            slot="cover"
+            alt="example"
+            src="../.vuepress/public/img/image-20220328140355907.png"
+            />
+            <a-card-meta title="DX安全实验室">
+            <a-avatar
+                slot="avatar"
+                src="/img/dxaqsys.svg"
+            />
+            </a-card-meta>
+        </a-card>
+      </a-col>
   </a-row>
 </template>
+
 

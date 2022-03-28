@@ -9,6 +9,13 @@ title: 更新日志
 <template>
   <a-timeline>
     <a-timeline-item>
+      2022.3.28
+      <p>
+        - <a-tag color="red">漏洞相关</a-tag>Spring Cloud Function SPEL 远程命令执行漏洞 <br/>
+        - <a-tag color="red">漏洞相关</a-tag>MotionEye 视频监控组件 list 信息泄漏洞 CVE-2022-25568 <br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
       2022.3.19
       <p>
         - <a-tag color="red">漏洞相关</a-tag>TerraMaster TOS createRaid 远程命令执行漏洞 CVE-2022-24989 <br/>
