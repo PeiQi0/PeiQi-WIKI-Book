@@ -484,6 +484,52 @@ title: 合作伙伴
             </a-card-meta>
         </a-card>
       </a-col>
+      <a-col :span="6">
+        <a-card hoverable style="width: 300px">
+            <img
+            slot="cover"
+            alt="example"
+            src="../.vuepress/public/img/image-20220328215851955.png"
+            />
+            <a-card-meta title="弱口令安全实验室">
+            <a-avatar
+                slot="avatar"
+                src="/img/rklaq.svg"
+            />
+            </a-card-meta>
+        </a-card>
+      </a-col>
+  </a-row>  
+  <a-row :gutter="[32,16]">
+      <a-col :span="6">
+        <a-card hoverable style="width: 300px">
+            <img
+            slot="cover"
+            alt="example"
+            src="../.vuepress/public/img/image-20220328232626583.png"
+            />
+            <a-card-meta title="渗透测试教程">
+            <a-avatar
+                slot="avatar"
+                src="/img/stcsjc.svg"
+            />
+            </a-card-meta>
+        </a-card>
+      </a-col>
+      <a-col :span="6">
+        <a-card hoverable style="width: 300px">
+            <img
+            slot="cover"
+            alt="example"
+            src="../.vuepress/public/img/image-20220328232804931.png"
+            />
+            <a-card-meta title="靶机狂魔">
+            <a-avatar
+                slot="avatar"
+                src="/img/bjkm.svg"
+            />
+            </a-card-meta>
+        </a-card>
+      </a-col>
   </a-row>  
 </template>
-
