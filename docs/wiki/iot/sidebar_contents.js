@@ -83,6 +83,7 @@ module.exports = [
 		collapsable: true,
 		children:[
 			"/wiki/iot/华为/Huawei HG659 lib 任意文件读取漏洞",
+			"/wiki/iot/华为/Huawei DG8045 deviceinfo 信息泄漏漏洞",
 		]
 	},
 	{

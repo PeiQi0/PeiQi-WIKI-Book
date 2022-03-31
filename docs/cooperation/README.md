@@ -531,5 +531,24 @@ title: 合作伙伴
             </a-card-meta>
         </a-card>
       </a-col>
+      <a-col :span="6">
+        <a-card hoverable style="width: 300px">
+            <img
+            slot="cover"
+            alt="example"
+            src="../.vuepress/public/img/image-20220331123021693.png"
+            />
+            <a-card-meta title="红队蓝军">
+            <a-avatar
+                slot="avatar"
+                src="/img/hdlj.svg"
+            />
+            </a-card-meta>
+        </a-card>
+      </a-col>
   </a-row>  
 </template>
+
+
+
+
