@@ -60,7 +60,8 @@ module.exports = [
 			"/wiki/webserver/Apache/Apache Cocoon XML注入 CVE-2020-11991",	
 			"/wiki/webserver/Apache/Apache Zeppelin 未授权任意命令执行漏洞",
 			"/wiki/webserver/Apache/Apache ZooKeeper 未授权访问漏洞 CVE-2014-085",
-			"/wiki/webserver/Apache/Apache ActiveMQ 反序列化漏洞 CVE-2015-5254",	
+			"/wiki/webserver/Apache/Apache ActiveMQ 反序列化漏洞 CVE-2015-5254",
+			"/wiki/webserver/Apache/Apache Spark create 未授权访问漏洞",	
 		]
 	},
 	{

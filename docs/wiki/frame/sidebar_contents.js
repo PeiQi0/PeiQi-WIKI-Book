@@ -30,11 +30,12 @@ module.exports = [
 		]
 	},
 	{
-		title: "Spring Cloud",
+		title: "SpringBoot",
 		collapsable: true,
 		children:[
-			"/wiki/frame/Spring Cloud/Spring Cloud Gateway表达式注入 远程命令执行漏洞 CVE-2022-22947",
-			"/wiki/frame/Spring Cloud/Spring Cloud Function SPEL 远程命令执行漏洞",
+			"/wiki/frame/SpringBoot/Spring Cloud Gateway表达式注入 远程命令执行漏洞 CVE-2022-22947",
+			"/wiki/frame/SpringBoot/Spring Cloud Function SPEL 远程命令执行漏洞",
+			"/wiki/frame/SpringBoot/Spring Core JDK9+ Spring4Shell远程命令执行漏洞",
 		]
 	},
 ];

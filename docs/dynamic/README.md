@@ -8,7 +8,13 @@ title: 更新日志
 
 <template>
   <a-timeline>
-     <a-timeline-item>
+    <a-timeline-item>
+      2022.4.1
+      <p>
+        - <a-tag color="red">漏洞相关</a-tag>Spring Core JDK9+ Spring4Shell远程命令执行漏洞 CVE-2022-22965<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
       2022.3.31
       <p>
         - <a-tag color="red">漏洞相关</a-tag>Huawei DG8045 deviceinfo 信息泄漏漏洞 <br/>
