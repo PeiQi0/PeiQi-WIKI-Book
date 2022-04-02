@@ -211,12 +211,12 @@ title: 合作伙伴
             <img
             slot="cover"
             alt="example"
-            src="../.vuepress/public/img/image-20220318182353865.png"
+            src="../.vuepress/public/img/image-20220321140559227.png"
             />
-            <a-card-meta title="开普勒安全团队">
+            <a-card-meta title="微步在线研究响应中心">
             <a-avatar
                 slot="avatar"
-                src="/img/kpl.svg"
+                src="/img/wbzx.svg"
             />
             </a-card-meta>
         </a-card>
@@ -350,12 +350,12 @@ title: 合作伙伴
             <img
             slot="cover"
             alt="example"
-            src="../.vuepress/public/img/image-20220321140559227.png"
+            src="../.vuepress/public/img/image-20220331123021693.png"
             />
-            <a-card-meta title="微步在线研究响应中心">
+            <a-card-meta title="红队蓝军">
             <a-avatar
                 slot="avatar"
-                src="/img/wbzx.svg"
+                src="/img/hdlj.svg"
             />
             </a-card-meta>
         </a-card>
@@ -527,21 +527,6 @@ title: 合作伙伴
             <a-avatar
                 slot="avatar"
                 src="/img/bjkm.svg"
-            />
-            </a-card-meta>
-        </a-card>
-      </a-col>
-      <a-col :span="6">
-        <a-card hoverable style="width: 300px">
-            <img
-            slot="cover"
-            alt="example"
-            src="../.vuepress/public/img/image-20220331123021693.png"
-            />
-            <a-card-meta title="红队蓝军">
-            <a-avatar
-                slot="avatar"
-                src="/img/hdlj.svg"
             />
             </a-card-meta>
         </a-card>
