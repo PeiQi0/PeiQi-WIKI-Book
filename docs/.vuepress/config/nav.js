@@ -67,7 +67,32 @@ module.exports = [
     },
     {
       text: 'CTF',
-      link: '/ctf/'
+      items: [
+        {
+            text: "Misc",
+            link: "/ctf/misc/",
+        },
+        {
+            text: "Web",
+            link: "/ctf/web/",
+        },
+        {
+            text: "Pwn",
+            link: "/ctf/pwn/",
+        },
+        {
+            text: "Crypto",
+            link: "/ctf/crypto/",
+        },
+        {
+            text: "Reverse",
+            link: "/ctf/reverse/",
+        },
+        {
+            text: "Blockchain",
+            link: "/ctf/blockchain/",
+        },
+      ],
     },
     {
       text: '红蓝对抗',

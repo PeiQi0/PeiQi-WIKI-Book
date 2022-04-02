@@ -8,6 +8,12 @@ title: 更新日志
 
 <template>
   <a-timeline>
+     <a-timeline-item>
+      2022.4.2
+      <p>
+        - <a-tag color="red">文库动态</a-tag>添加CTF分类：Misc,Web,Crypto,Pwn,Reverse,区块链<br/>
+      </p>
+    </a-timeline-item>
     <a-timeline-item>
       2022.4.1
       <p>

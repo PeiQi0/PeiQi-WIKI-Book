@@ -11,7 +11,12 @@ module.exports = {
     '/about/': require('../../about/sidebar_contents'),
     '/dynamic/': require('../../dynamic/sidebar_contents'),
     '/redteam/': require('../../redteam/sidebar_contents'),
-    '/ctf/': require('../../ctf/sidebar_contents'),
+    '/ctf/blockchain': require('../../ctf/blockchain/sidebar_contents'),
+    '/ctf/misc': require('../../ctf/misc/sidebar_contents'),
+    '/ctf/crypto': require('../../ctf/crypto/sidebar_contents'),
+    '/ctf/pwn': require('../../ctf/pwn/sidebar_contents'),
+    '/ctf/web': require('../../ctf/web/sidebar_contents'),
+    '/ctf/reverse': require('../../ctf/reverse/sidebar_contents'),
     '/cooperation/': require('../../cooperation/sidebar_contents'),
   };
   
