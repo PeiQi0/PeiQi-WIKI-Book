@@ -11,7 +11,8 @@ title: 更新日志
      <a-timeline-item>
       2022.4.2
       <p>
-        - <a-tag color="red">文库动态</a-tag>添加CTF分类：Misc,Web,Crypto,Pwn,Reverse,区块链<br/>
+        - <a-tag color="red">漏洞相关</a-tag>TOTOLink 多个设备 download.cgi 远程命令执行漏洞 CVE-2022-25084<br/>
+        - <a-tag color="purple">文库动态</a-tag>添加CTF分类：Misc,Web,Crypto,Pwn,Reverse,区块链<br/>
       </p>
     </a-timeline-item>
     <a-timeline-item>

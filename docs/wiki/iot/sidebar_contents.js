@@ -306,6 +306,13 @@ module.exports = [
 		]
 	},
 	{
+		title: "TOTOLink",
+		collapsable: true,
+		children:[
+			"/wiki/iot/TOTOLink/TOTOLink 多个设备 download.cgi 远程命令执行漏洞 CVE-2022-25084",
+		]
+	},
+	{
 		title: "SonicWall",
 		collapsable: true,
 		children:[
