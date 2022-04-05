@@ -96,7 +96,36 @@ module.exports = [
     },
     {
       text: '红蓝对抗',
-      link: '/redteam/'
+      items: [
+        {
+          text: "信息收集",
+          link: "/redteam/informationcollection/",
+        },
+        {
+          text: "漏洞挖掘",
+          link: "/redteam/vulnerability/",
+        },
+        {
+          text: "代码审计",
+          link: "/redteam/codeaudit/",
+        },
+        {
+          text: "防御规避",
+          link: "/redteam/defensetoevade/",
+        },
+        {
+          text: "权限提升",
+          link: "/redteam/privilegeescalation/",
+        },
+        {
+          text: "权限维持",
+          link: "/redteam/permissionstomaintain/",
+        },
+        {
+          text: "内网移动",
+          link: "/redteam/networkofmobile/",
+        },
+      ],
     },
     {
       text: '文库动态',

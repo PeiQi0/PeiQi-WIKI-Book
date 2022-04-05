@@ -83,4 +83,4 @@ await contract.password()
 await contract.authenticate('ethernaut0')
 ```
 
-![img](https://cdn.nlark.com/yuque/0/2022/png/2117730/1644591155092-0ca49f9f-8514-4b9d-aeca-4522435b7e0d.png)
+![img](../../../.vuepress/public/img/1644591155092-0ca49f9f-8514-4b9d-aeca-4522435b7e0d-9124779.png)

@@ -9,6 +9,12 @@ title: 更新日志
 <template>
   <a-timeline>
     <a-timeline-item>
+      2022.4.4
+      <p>
+        - <a-tag color="purple">红蓝对抗</a-tag>开始完善红蓝对抗模块(未完成)<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
       2022.4.3
       <p>
         - <a-tag color="blue">CTF夺旗</a-tag>开始完善区块链模块(未完成)<br/>
