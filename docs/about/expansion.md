@@ -29,12 +29,13 @@ yarn run dev
 <a-checkbox checked>Html源码搭建 (无需编译环境，使用编译好的Html文件直接部署)</a-checkbox></br>
 
 ```shell
-git clone https://github.com/PeiQi0/PeiQi-WIKI-Book.git
+git clone https://github.com/PeiQi0/PeiQi-WIKI-Book.git (Github,国外较快)
+git clone https://gitee.com/peiqi0/PeiQi-WIKI-Book.git (Gitee,国内较快)
 cd PeiQi-WIKI-Book/docs/.vuepress/dist
 mv * 你的服务器Web目录
 ```
 
-<a-checkbox checked>Docker搭建 (只需要Dokcer环境，快速搭建在各个环境中)</a-checkbox></br>
+<a-checkbox checked>Docker搭建 (只需要Dokcer环境，快速搭建在各个环境中，定时同步Gitee自动更新)</a-checkbox></br>
 
 ```shell
 docker search peiqipeiqi
