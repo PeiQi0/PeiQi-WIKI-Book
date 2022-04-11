@@ -39,8 +39,8 @@ mv * 你的服务器Web目录
 
 ```shell
 docker search peiqipeiqi
-docker pull peiqipeiqi/peiqi_wiki:220320
-docker run -t -d -p 65534:80 --name "PeiQi_Wiki" peiqipeiqi/peiqi_wiki:220320
+docker pull peiqipeiqi/peiqi_wiki:220420
+docker run -t -d -p 65534:80 --name "PeiQi_Wiki" peiqipeiqi/peiqi_wiki:220420
 User/Pass: peiqi:peiqi
 ```
 
