@@ -9,6 +9,12 @@ title: 更新日志
 <template>
   <a-timeline>
     <a-timeline-item>
+      2022.4.12
+      <p>
+         - <a-tag color="red">漏洞相关</a-tag>VMware Workspace ONE Access SSTI漏洞 CVE-2022-22954<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
       2022.4.4
       <p>
         - <a-tag color="purple">红蓝对抗</a-tag>开始完善红蓝对抗模块(未完成)<br/>

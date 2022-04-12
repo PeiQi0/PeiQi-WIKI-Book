@@ -56,6 +56,7 @@ module.exports = [
 		children:[
 			"/wiki/serverapp/VMware/VMware vRealize Operations Manager SSRF漏洞 CVE-2021-21975",
 			"/wiki/serverapp/VMware/VMware vCenter vid 任意文件读取漏洞",
+			"/wiki/serverapp/VMware/VMware Workspace ONE Access SSTI漏洞 CVE-2022-22954",
 		]
 	},
 	{
