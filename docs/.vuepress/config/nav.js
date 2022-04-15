@@ -125,6 +125,10 @@ module.exports = [
           text: "内网移动",
           link: "/redteam/networkofmobile/",
         },
+        {
+          text: "蓝队防守",
+          link: "/redteam/blueteam/",
+        },
       ],
     },
     {

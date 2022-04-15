@@ -82,6 +82,7 @@ module.exports = [
 			"/wiki/webserver/Weblogic/Weblogic XMLDecoder 远程代码执行漏洞 CVE-2017-10271",
 			"/wiki/webserver/Weblogic/Weblogic SSRF漏洞 CVE-2014-4210",
 			"/wiki/webserver/Weblogic/Weblogic LDAP 远程代码执行漏洞 CVE-2021-2109",
+			"/wiki/webserver/Weblogic/WebLogic Local File Inclusion 本地文件包含漏洞 CVE-2022-21371",
 		]
 	},
 	{

@@ -8,6 +8,13 @@ title: 更新日志
 
 <template>
   <a-timeline>
+     <a-timeline-item>
+      2022.4.15
+      <p>
+         - <a-tag color="purple">红蓝对抗</a-tag>未授权漏洞，验证码安全<br/>
+         - <a-tag color="red">漏洞相关</a-tag>WebLogic Local File Inclusion 本地文件包含漏洞 CVE-2022-21371<br/>
+      </p>
+    </a-timeline-item>
     <a-timeline-item>
       2022.4.12
       <p>

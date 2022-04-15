@@ -17,6 +17,7 @@ module.exports = {
     '/redteam/informationcollection/': require('../../redteam/informationcollection/sidebar_contents'),
     '/redteam/defensetoevade/': require('../../redteam/defensetoevade/sidebar_contents'),
     '/redteam/codeaudit/': require('../../redteam/codeaudit/sidebar_contents'),
+    '/redteam/blueteam/': require('../../redteam/blueteam/sidebar_contents'),
     '/ctf/blockchain': require('../../ctf/blockchain/sidebar_contents'),
     '/ctf/misc': require('../../ctf/misc/sidebar_contents'),
     '/ctf/crypto': require('../../ctf/crypto/sidebar_contents'),
