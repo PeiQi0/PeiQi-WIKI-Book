@@ -9,6 +9,12 @@ title: 更新日志
 <template>
   <a-timeline>
      <a-timeline-item>
+      2022.4.16
+      <p>
+         - <a-tag color="red">漏洞相关</a-tag>Apache Struts2 S2-062 远程代码执行漏洞 CVE-2021-31805<br/>
+      </p>
+    </a-timeline-item>
+     <a-timeline-item>
       2022.4.15
       <p>
          - <a-tag color="purple">红蓝对抗</a-tag>未授权漏洞，验证码安全<br/>

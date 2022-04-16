@@ -41,7 +41,7 @@ mv * 你的服务器Web目录
 docker search peiqipeiqi
 docker pull peiqipeiqi/peiqi_wiki:220420
 docker run -t -d -p 65534:80 --name "PeiQi_Wiki" peiqipeiqi/peiqi_wiki:220420
-User/Pass: peiqi:peiqi
+User/Pass: peiqi:peiqi (手动更新:进入Docker执行命令，/usr/share/nginx/html/synchronous.sh)
 ```
 
 <a-alert type="success" message="如果想要内部更新交流，需要打开插件添加评论插件密钥，生成方法见插件文档" description="" showIcon>
