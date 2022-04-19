@@ -78,7 +78,7 @@ export default {
 <template>
   <a-row :gutter="16">
     <a-col :span="12">
-      <a-statistic title="RMB" :value="560" class="demo-class">
+      <a-statistic title="RMB" :value="730" class="demo-class">
         <template #suffix>
           <a-icon type="fire" />
         </template>

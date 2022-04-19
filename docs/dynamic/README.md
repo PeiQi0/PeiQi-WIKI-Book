@@ -8,6 +8,13 @@ title: 更新日志
 
 <template>
   <a-timeline>
+    <a-timeline-item>
+      2022.4.19
+      <p>
+         - <a-tag color="purple">代码审计</a-tag>PHP: 命令行模式(register_argc_argv配置)<br/>
+         - <a-tag color="purple">代码审计</a-tag>PHP: 弱类型比较<br/>
+      </p>
+    </a-timeline-item>
      <a-timeline-item>
       2022.4.16
       <p>
