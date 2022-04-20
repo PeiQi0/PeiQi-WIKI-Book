@@ -11,6 +11,12 @@ title: 更新日志
     <a-timeline-item>
       2022.4.19
       <p>
+         - <a-tag color="red">漏洞相关</a-tag>Windows Win32k 内核提权漏洞 CVE-2022-21882<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
+      2022.4.19
+      <p>
          - <a-tag color="purple">代码审计</a-tag>PHP: 命令行模式(register_argc_argv配置)<br/>
          - <a-tag color="purple">代码审计</a-tag>PHP: 弱类型比较<br/>
       </p>
