@@ -11,6 +11,8 @@ title: 更新日志
     <a-timeline-item>
       2022.4.22
       <p>
+         - <a-tag color="red">漏洞相关</a-tag>朗视 TG400 GSM 网关目录遍历 CVE-2021-27328<br/>
+         - <a-tag color="red">漏洞相关</a-tag>Finetree 5MP 摄像机 user_pop.php 任意用户添加漏洞 CNVD-2021-42372<br/>
          - <a-tag color="red">漏洞相关</a-tag>Apache SkyWalking graphql SQL注入漏洞 CVE-2020-9483<br/>
       </p>
     </a-timeline-item>

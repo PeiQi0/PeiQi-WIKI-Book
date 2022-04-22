@@ -72,6 +72,13 @@ module.exports = [
 		]
 	},
 	{
+		title: "朗视",
+		collapsable: true,
+		children:[
+			"/wiki/iot/朗视/朗视 TG400 GSM 网关目录遍历 CVE-2021-27328",
+		]
+	},
+	{
 		title: "迈普",
 		collapsable: true,
 		children:[
@@ -228,6 +235,13 @@ module.exports = [
 		collapsable: true,
 		children:[
 			"/wiki/iot/DrayTek/DrayTek企业网络设备 远程命令执行 CVE-2020-8515",
+		]
+	},
+	{
+		title: "Finetree",
+		collapsable: true,
+		children:[
+			"/wiki/iot/Finetree/Finetree 5MP 摄像机 user_pop.php 任意用户添加漏洞 CNVD-2021-42372",
 		]
 	},
 	{

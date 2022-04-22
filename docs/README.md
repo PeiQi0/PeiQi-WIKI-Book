@@ -27,7 +27,7 @@ head: [
     ['meta', { name: 'keywords', content: '知识库,漏洞复现,PeiQi文库,代码审计,渗透测试' }],
     ['meta', { name: 'description', content: '如今漏洞的各种复现文章已经填满了互联网，但是每次去尝试漏洞复现时，总会纠结于环境搭建，POC和漏洞原理上。由于这些因素，通常都需要翻阅很多很多的文章才能理解这个漏洞，于是，便萌生了把环境搭建，POC，漏洞原理全部集合在一个文库的想法，PeiQI WiKi-POC文库便由此而来🐣' }],
   ]
-footer: Powered by PeiQi文库 | Copyright © 2020-2021 PeiQi文库
+footer: Powered by PeiQi文库 | Copyright © 2020-2022 PeiQi文库
 ---
 
 </br>
