@@ -480,6 +480,13 @@ module.exports = [
 		]
 	},
 	{
+		title: "LimeSurvey",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/LimeSurvey/LimeSurvey LimeSurveyFileManager.php 后台任意文件读取漏洞 CVE-2020-11455",
+		]
+	},
+	{
 		title: "SonarQube",
 		collapsable: true,
 		children:[

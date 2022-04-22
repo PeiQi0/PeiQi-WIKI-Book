@@ -1,4 +1,4 @@
-# H3C IMC dynamiccontent.properties.xhtm 远程命令执行
+# H3C IMC dynamiccontent.properties.xhtm 远程命令执行 CNVD-2021-39067
 
 ## 漏洞描述
 
@@ -35,4 +35,3 @@ pfdrt=sc&ln=primefaces&pfdrid=uMKljPgnOTVxmOB%2BH6%2FQEPW9ghJMGL3PRdkfmbiiPkUDzO
 
 
 
-## 

@@ -9,6 +9,18 @@ title: 更新日志
 <template>
   <a-timeline>
     <a-timeline-item>
+      2022.4.22
+      <p>
+         - <a-tag color="red">漏洞相关</a-tag>Apache SkyWalking graphql SQL注入漏洞 CVE-2020-9483<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
+      2022.4.20
+      <p>
+         - <a-tag color="red">漏洞相关</a-tag>LimeSurvey LimeSurveyFileManager.php 后台任意文件读取漏洞 CVE-2020-11455<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
       2022.4.19
       <p>
          - <a-tag color="red">漏洞相关</a-tag>Windows Win32k 内核提权漏洞 CVE-2022-21882<br/>
