@@ -9,6 +9,12 @@ title: 更新日志
 <template>
   <a-timeline>
     <a-timeline-item>
+      2022.4.24
+      <p>
+         - <a-tag color="red">漏洞相关</a-tag>WSO2 fileupload 任意文件上传漏洞 CVE-2022-29464<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
       2022.4.22
       <p>
          - <a-tag color="red">漏洞相关</a-tag>朗视 TG400 GSM 网关目录遍历 CVE-2021-27328<br/>

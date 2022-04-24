@@ -124,6 +124,13 @@ module.exports = [
 		]
 	},
 	{
+		title: "WSO2",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/WSO2/WSO2 fileupload 任意文件上传漏洞 CVE-2022-29464",
+		]
+	},
+	{
 		title: "Casbin",
 		collapsable: true,
 		children:[
