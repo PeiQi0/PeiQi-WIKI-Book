@@ -9,6 +9,12 @@ title: 更新日志
 <template>
   <a-timeline>
     <a-timeline-item>
+      2022.4.26
+      <p>
+         - <a-tag color="red">漏洞相关</a-tag>WSO2 proxy SSRF漏洞 WSO2-2019-0598<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
       2022.4.24
       <p>
          - <a-tag color="red">漏洞相关</a-tag>WSO2 fileupload 任意文件上传漏洞 CVE-2022-29464<br/>

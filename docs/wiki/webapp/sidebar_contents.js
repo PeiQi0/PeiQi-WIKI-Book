@@ -128,6 +128,7 @@ module.exports = [
 		collapsable: true,
 		children:[
 			"/wiki/webapp/WSO2/WSO2 fileupload 任意文件上传漏洞 CVE-2022-29464",
+			"/wiki/webapp/WSO2/WSO2 proxy SSRF漏洞 WSO2-2019-0598",
 		]
 	},
 	{
