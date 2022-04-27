@@ -213,6 +213,7 @@ module.exports = [
 		title: "Grafana",
 		collapsable: true,
 		children:[
+			"/wiki/webapp/Grafana/Grafana mysql 后台任意文件读取漏洞 CVE-2019-19499",
 			"/wiki/webapp/Grafana/Grafana plugins 任意文件读取漏洞 CVE-2021-43798",
 		]
 	},
