@@ -18,7 +18,7 @@
 
 ![img](../../../.vuepress/public/img/1628837615163-cf6222d5-9630-43d5-a1a9-5ede8f841c0b.png)
 
-访问 **/backup/config.xml，** 泄漏用户信息
+访问 `/backup/config.xml，` 泄漏用户信息
 
 ![img](../../../.vuepress/public/img/1628837652687-ff33f695-2d51-4770-84b2-97917a838569.png)
 

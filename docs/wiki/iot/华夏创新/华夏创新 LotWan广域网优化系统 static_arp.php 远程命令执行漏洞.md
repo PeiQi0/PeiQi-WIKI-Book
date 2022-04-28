@@ -26,7 +26,7 @@
 
 ![img](../../../.vuepress/public/img/1635942680846-eb442f59-4229-43ad-a133-5c5587d20774.png)
 
-再访问 **/acc/bindipmac/cmd.txt**
+再访问 `/acc/bindipmac/cmd.txt`
 
 ![img](../../../.vuepress/public/img/1635942700371-15189d95-a643-4b0d-95bb-14f6285796d2.png)
 

@@ -12,7 +12,7 @@
 
 这里使用的环境为通达 v11.6版本
 
-出现漏洞的文件为 **webroot/general/hr/manage/staff_info/update.php**
+出现漏洞的文件为 `webroot/general/hr/manage/staff_info/update.php`
 
 ```php
 <?php
@@ -59,9 +59,9 @@ if ($PHOTO_NAME0 != "") {
 
 ![img](../../../.vuepress/public/img/tongdaoa-30.png)
 
-在这里参数 **$USER_ID** 是可控的，并且无过滤危险符号就拼接进去了，那我们传入 **../../../** 我们就可以任意文件上传了
+在这里参数 `$USER_ID` 是可控的，并且无过滤危险符号就拼接进去了，那我们传入 `../../../` 我们就可以任意文件上传了
 
-由于通达OA 的文件上传限制的死死的，所以我们可以通过利用 PHP的 **.user.ini** 文件来包含其他文件，这里是可以用于包含PHP语句的文件的，所以我们上传文件内容为
+由于通达OA 的文件上传限制的死死的，所以我们可以通过利用 PHP的 `.user.ini` 文件来包含其他文件，这里是可以用于包含PHP语句的文件的，所以我们上传文件内容为
 
 ```plain
 auto_prepend_file=ttt.log
@@ -94,9 +94,9 @@ Content-Disposition: form-data; name="submit"
 -----------------------------17518323986548992951984057104--
 ```
 
-其中 **USER_ID=../../general/reportshop/workshop/report/attachment-remark/.user** 为上传路径
+其中 `USER_ID=../../general/reportshop/workshop/report/attachment-remark/.user` 为上传路径
 
-这里我们简单知道了上传方式，那我们就通过 **.user.ini文件** 包含恶意文件
+这里我们简单知道了上传方式，那我们就通过 `.user.ini文件` 包含恶意文件
 
 ![img](../../../.vuepress/public/img/tongdaoa-38.png)
 

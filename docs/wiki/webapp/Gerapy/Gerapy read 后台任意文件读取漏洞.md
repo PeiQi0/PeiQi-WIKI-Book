@@ -18,7 +18,7 @@ Gerapy gerapy/server/core/views.py 中的 project_file_read 方法存在任意�
 
 ![img](../../../.vuepress/public/img/1638069254477-82075ea9-6191-4ebd-8e92-bed0104a0942.png)
 
-出现漏洞的文件为 **gerapy/server/core/views.py**
+出现漏洞的文件为 `gerapy/server/core/views.py`
 
 ![img](../../../.vuepress/public/img/1638085009077-bf005982-09d5-45c8-9468-36c5e3204b00.png)
 

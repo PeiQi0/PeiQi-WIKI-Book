@@ -46,6 +46,6 @@ Content-Type: application/octet-stream
 
 ![img](../../../.vuepress/public/img/1630513044174-8139c404-4f11-404e-be04-42d86b407bdd.png)
 
-其中请求中对 2109 为 年月,路径为 **/fb6790f4.php,**
+其中请求中对 2109 为 年月,路径为 `/fb6790f4.php,`
 
 ![img](../../../.vuepress/public/img/1630513283771-36cc86c7-a150-4834-be64-243b20938165.png)

@@ -18,7 +18,7 @@ OpenSNS CurlModel.class.php文件中curl方法存在SSRF漏洞，通过漏洞攻
 
 ![img](../../../.vuepress/public/img/1634371874190-3653480e-380a-4cdc-81fc-7d560bc7d0dc-20220313235733223.png)
 
-存在漏洞的文件为 **Application/Admin/Model/CurlModel.class.php**
+存在漏洞的文件为 `Application/Admin/Model/CurlModel.class.php`
 
 ![img](../../../.vuepress/public/img/1634372194099-77c5fe31-6860-4f22-b7d8-4c7d7c5e1ecb.png)
 

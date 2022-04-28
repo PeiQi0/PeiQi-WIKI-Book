@@ -22,7 +22,7 @@ https://github.com/emlog/emlog
 
 ![img](../../../.vuepress/public/img/1634002177714-22159b01-c44f-476a-bb4f-8363cceb9460.png)
 
-存在漏洞的文件为 **admin/widgets.php**
+存在漏洞的文件为 `admin/widgets.php`
 
 ![img](../../../.vuepress/public/img/1634002231213-67b50259-52f0-4cf0-983b-fc1a88cc6471.png)
 
@@ -36,7 +36,7 @@ if ($action == 'compages') {
 }
 ```
 
-传参为 wgnum 和 widgets ，跟踪方法 **updateOption**
+传参为 wgnum 和 widgets ，跟踪方法 `updateOption`
 
 ![img](../../../.vuepress/public/img/1634002837216-c1000372-81ea-4671-bc5d-c378110d93db.png)
 

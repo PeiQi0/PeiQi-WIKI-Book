@@ -22,7 +22,7 @@ D-Link DAR-8000 importhtml.php文件存在SQL注入导致 远程命令执行漏�
 
 
 
-出现漏洞的文件 **importhtml.php**
+出现漏洞的文件 `importhtml.php`
 
 
 

@@ -28,7 +28,7 @@ CmsEasy 后台存在命令执行漏洞，通过文件 language_admin.php 对部�
 
 ![img](../../../.vuepress/public/img/1632722813176-a2c6d9c2-e5f5-483a-8448-775a9ce41d4a-20220313235034285.png)
 
-存在漏洞的文件为 **lib/admin/language_admin.php**
+存在漏洞的文件为 `lib/admin/language_admin.php`
 
 ![img](../../../.vuepress/public/img/1632731716459-d529c18d-4ef7-439d-8f89-67046487db78.png)
 
@@ -90,11 +90,11 @@ function add_action() {
 
 ![img](../../../.vuepress/public/img/1632731775416-f1f75d5f-ced3-4d63-8ecd-f9728e3e785c.png)
 
-其中参数有三个，分别为 **key , cnnote, val**
+其中参数有三个，分别为 `key , cnnote, val`
 
 ![img](../../../.vuepress/public/img/1632731945111-a0cb2f4a-4ab8-4f77-a026-368341754607.png)
 
-传入参数后,查看 **lang/cn/system_custom.php** 文件中
+传入参数后,查看 `lang/cn/system_custom.php` 文件中
 
 ```php
 <?php
@@ -147,7 +147,7 @@ test4  ,test5, 	,phpinfo());/*
 
 ![img](../../../.vuepress/public/img/1632732579899-4659ac1d-b516-4960-93ad-c4fdf4800db5.png)
 
-访问文件 **/lang/cn/system_custom.php**
+访问文件 `/lang/cn/system_custom.php`
 
 ![img](../../../.vuepress/public/img/1632732628987-af135049-37e0-4dcd-bad7-04d53985c677.png)
 

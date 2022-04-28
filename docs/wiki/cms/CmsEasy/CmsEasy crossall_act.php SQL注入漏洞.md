@@ -28,7 +28,7 @@ CmsEasy 存在SQL注入漏洞，通过文件 service.php 加密SQL语句执行�
 
 ![img](../../../.vuepress/public/img/1632722813176-a2c6d9c2-e5f5-483a-8448-775a9ce41d4a.png)
 
-存在漏洞的文件为 l**ib/default/crossall_act.php**
+存在漏洞的文件为 `lib/default/crossall_act.php`
 
 ![img](../../../.vuepress/public/img/1632722883793-c37ad1c9-a41a-4517-b82d-db490c7745c2.png)
 
@@ -63,7 +63,7 @@ function execsql_action(){
 
 代码中传入参数 sql， 然后使用方法 unlockString 解码执行 SQL语句
 
-查看文件 **lib/table/service.php**
+查看文件 `lib/table/service.php`
 
 ```php
 public static function lockString($txt,$key='cmseasy_sql')
@@ -110,7 +110,7 @@ public static function lockString($txt,$key='cmseasy_sql')
     }
 ```
 
-文件中得到了 **$key='cmseasy_sql'** 和加解密方法，构造请求获取账号密码md5
+文件中得到了 `$key='cmseasy_sql'` 和加解密方法，构造请求获取账号密码md5
 
 ![img](../../../.vuepress/public/img/1632723167407-5949ee21-ee19-48d0-ba5b-2561018e317c.png)
 

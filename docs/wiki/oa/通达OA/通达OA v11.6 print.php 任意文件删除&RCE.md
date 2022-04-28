@@ -16,7 +16,7 @@
 
 使用解密工具 SeayDzend(zend解密工具) 对通达OA的加密代码进行解密
 
-解密完成后查看 **webroot\general\data_center\utils\upload.php** 文件
+解密完成后查看 `webroot\general\data_center\utils\upload.php` 文件
 
 ```php
 <?php
@@ -152,7 +152,7 @@ echo "<body>\r\n</body>\r\n</html>";
 
 
 
-在第一行包含了文件 **auth.inc.php**
+在第一行包含了文件 `auth.inc.php`
 
 ```php
 include_once "inc/auth.inc.php";
@@ -166,7 +166,7 @@ include_once "inc/auth.inc.php";
 
 
 
-查看 **\webroot\module\appbuilder\assets\print.php**文件
+查看 `\webroot\module\appbuilder\assets\print.php`文件
 
 
 
@@ -194,9 +194,9 @@ else {
 
 
 这里可以看到 页面获取 guid参数的值
-使用**file_exists函数**判断文件是否存在 并未进行校验 就执行unlink删除文件
+使用`file_exists函数`判断文件是否存在 并未进行校验 就执行unlink删除文件
 
-可以本地在 **\webroot\inc** 目录创建 1.txt 文件
+可以本地在 `\webroot\inc` 目录创建 1.txt 文件
 
 然后访问
 
@@ -204,7 +204,7 @@ else {
 /module/appbuilder/assets/print.php?guid=../../../webroot/inc/1.txt
 ```
 
-就会删除这个 1.txt 文件，也代表可以删除 **auth.inc.php** 登录检验文件
+就会删除这个 1.txt 文件，也代表可以删除 `auth.inc.php` 登录检验文件
 
 回到 upload.php 文件进行代码审计
 
@@ -212,7 +212,7 @@ else {
 
 
 
-判断变量 **$action** 是否为 upload，再判断文件类型，如果不为 xls 和 img 则进入else分支
+判断变量 `$action` 是否为 upload，再判断文件类型，如果不为 xls 和 img 则进入else分支
 
 
 
@@ -271,7 +271,7 @@ else {
 }
 ```
 
-在这段代码中，如果不存在 **$from_rep** 变量则会跳到如下代码
+在这段代码中，如果不存在 `$from_rep` 变量则会跳到如下代码
 
 ```php
 else {
@@ -286,4 +286,4 @@ else {
 		}
 ```
 
-这里直接将 **$repkid** 变量进行拼接,也就是说可以通过目录穿越来上传恶意文件到指定目录
+这里直接将 `$repkid` 变量进行拼接,也就是说可以通过目录穿越来上传恶意文件到指定目录

@@ -10,11 +10,11 @@ OKLite v1.2.25 后台插件过滤不完善导致可以上传恶意木马文件
 
 ## 漏洞复现
 
-关于执行逻辑参照上一篇 **OKLite 1.2.25 后台模块导入 任意文件上传 CVE-2019-16131**
+关于执行逻辑参照上一篇`OKLite 1.2.25 后台模块导入 任意文件上传 CVE-2019-16131`
 
 
 
-出现漏洞的位置在于**framework/admin/plugin_control.php**
+出现漏洞的位置在于`framework/admin/plugin_control.php`
 
 
 
@@ -58,11 +58,11 @@ public function unzip_f()
 
 
 
-这里可以看到需要上传ZIP压缩包格式的插件，跟进**zip_info**函数
+这里可以看到需要上传ZIP压缩包格式的插件，跟进`zip_info`函数
 
 
 
-函数位置 **framework/libs/phpzip.php**
+函数位置 `framework/libs/phpzip.php`
 
 
 
@@ -95,7 +95,7 @@ $info = explode('/',$info['filename']);
 
 
 
-这里用 explode函数以 **/** 分隔返回两个值，也就是说格式应为 **AAA/BBB**这样的目录格式，直接上传ZIP文件则会报错 **插件打包模式有问题**
+这里用 explode函数以 `/` 分隔返回两个值，也就是说格式应为 `AAA/BBB`这样的目录格式，直接上传ZIP文件则会报错 `插件打包模式有问题`
 
 
 
@@ -114,7 +114,7 @@ $this->lib('phpzip')->unzip($this->dir_root.$rs['filename'],$this->dir_root.'plu
 
 
 
-最后两行告诉了文件解压的位置，上传的文件在 **plugins目录下**
+最后两行告诉了文件解压的位置，上传的文件在 `plugins目录下`
 
 
 

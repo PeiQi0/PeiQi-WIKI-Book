@@ -18,7 +18,7 @@ CMS产品页面
 
 ![img](../../../.vuepress/public/img/1634130579841-e981591e-46f6-4aa8-bc68-6fe39d1e4e35-20220313232823896.png)
 
-存在漏洞的文件为 **Application/Admin/Controller/AuthManagerController.class.php**
+存在漏洞的文件为 `Application/Admin/Controller/AuthManagerController.class.php`
 
 ![img](../../../.vuepress/public/img/1634142335709-0384ef5c-e05b-41af-b19d-a5b7864faaf3.png)
 

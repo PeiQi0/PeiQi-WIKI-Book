@@ -59,4 +59,6 @@ json={"url":"/general/../../nginx/logs/oa.access.log"}
 
 ![img](../../../.vuepress/public/img/1628304579748-4614da68-4756-43a6-b7c1-dc6e9e034819.png)
 
-访问写入的文件 **/mac/cmdshell.php**![img](../../../.vuepress/public/img/1628304836865-aee81900-a2a1-402c-9915-77a3d908e480.png)
+访问写入的文件 `/mac/cmdshell.php`
+
+![img](../../../.vuepress/public/img/1628304836865-aee81900-a2a1-402c-9915-77a3d908e480.png)

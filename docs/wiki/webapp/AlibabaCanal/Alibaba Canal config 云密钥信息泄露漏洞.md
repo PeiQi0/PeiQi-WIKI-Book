@@ -26,6 +26,6 @@
 
 其中泄露了 aliyun.access 密钥，可以控制密钥下的所有服务器
 
-其中还含有默认口令 **admin/123456**
+默认口令 `admin/123456`
 
 ![img](../../../.vuepress/public/img/can-2.png)

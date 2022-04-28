@@ -22,7 +22,7 @@
 
 
 
-漏洞文件为 **enable_tool_debug.php**
+漏洞文件为 `enable_tool_debug.php`
 
 ```php
 <?php
@@ -35,7 +35,7 @@ runTool($val,$tool,$par);
 ?>
 ```
 
-**commandWrapper.inc** 文件中的 **runTool**
+`commandWrapper.inc` 文件中的 `runTool`
 
 ```php
 function runTool($val,$tool,$par){

@@ -2,7 +2,7 @@
 
 ## 漏洞描述
 
-[YzmCMS内容管理系统](https://www.yzmcms.com/)是一款**轻量级开源内容管理系统**，它采用自主研发的框架**YZMPHP**开发。程序基于PHP+Mysql架构，并采用MVC框架式开发的一款高效开源的内容管理系统，可运行在Linux、Windows、MacOSX、Solaris等各种平台上。
+[YzmCMS内容管理系统](https://www.yzmcms.com/)是一款`轻量级开源内容管理系统`，它采用自主研发的框架`YZMPHP`开发。程序基于PHP+Mysql架构，并采用MVC框架式开发的一款高效开源的内容管理系统，可运行在Linux、Windows、MacOSX、Solaris等各种平台上。
 
 
 
@@ -62,7 +62,7 @@
 
 
 
-这里调用 ***url_check*** 函数
+这里调用 `*url_check`* 函数
 
 
 

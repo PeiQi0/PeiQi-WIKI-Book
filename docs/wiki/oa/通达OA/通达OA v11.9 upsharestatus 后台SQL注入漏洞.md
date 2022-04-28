@@ -22,7 +22,7 @@ https://cdndown.tongda2000.com/oa/2019/TDOA11.9.exe
 
 ## 漏洞复现
 
-漏洞文件位 **webroot/general/appbuilder/modules/portal/controllers/WorkbenchController.php**
+漏洞文件位 `webroot/general/appbuilder/modules/portal/controllers/WorkbenchController.php`
 
 ```php
 public function actionUpsharestatus()
@@ -55,9 +55,9 @@ public function actionUpsharestatus()
 
 
 
-其中 **updateAll()** 函数并没有使用防止 SQL注入的 **sql_injection()** 来防止注入
+其中 `updateAll()` 函数并没有使用防止 SQL注入的 `sql_injection()` 来防止注入
 
-**webroot/inc/conn.php**
+`webroot/inc/conn.php`
 
 ![img](../../../.vuepress/public/img/tongdaoa-43.png)
 

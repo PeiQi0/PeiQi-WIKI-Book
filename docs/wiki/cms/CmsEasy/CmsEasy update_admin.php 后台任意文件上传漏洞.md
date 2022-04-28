@@ -28,7 +28,7 @@ CmsEasy 后台存在任意文件上传漏洞，通过文件 service.php 加密Ur
 
 ![img](../../../.vuepress/public/img/1632722813176-a2c6d9c2-e5f5-483a-8448-775a9ce41d4a-20220313234958829.png)
 
-存在漏洞的文件为 **lib/admin/update_admin.php**
+存在漏洞的文件为 `lib/admin/update_admin.php`
 
 ![img](../../../.vuepress/public/img/1632745397516-acc4d6fe-182d-4a3a-87f3-8d9b8299e81d.png)
 

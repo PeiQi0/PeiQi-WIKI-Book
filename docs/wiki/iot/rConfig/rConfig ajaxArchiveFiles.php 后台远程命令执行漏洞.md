@@ -16,7 +16,7 @@ rConfig ajaxArchiveFiles.php文件中由于对path参数和ext参数进行命令
 
 存在漏洞的文件
 
-**/home/rconfig/www/lib/ajaxHandlers/ajaxArchiveFiles.php**
+`/home/rconfig/www/lib/ajaxHandlers/ajaxArchiveFiles.php`
 
 ```php
 <?php
@@ -81,7 +81,7 @@ $mainPath = $_GET['path'];
     exec($commandString);
 ```
 
-**ext参数** 用户可控
+`ext参数` 用户可控
 
 ```php
 $commandString = "sudo -u apache zip -r -j " . $archiveMainPath . "filename" . $today . ".zip " . $mainPath . $ext;
@@ -112,7 +112,7 @@ Content-Length: 2
 
 
 
-再请求 [**http://xxx.xxx.xxx.xxx/test.txt**](http://xxx.xxx.xxx.xxx/test.txt) 验证漏洞
+再请求 /test.txt 验证漏洞
 
 
 

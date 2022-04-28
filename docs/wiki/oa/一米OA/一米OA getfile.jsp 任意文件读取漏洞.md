@@ -103,7 +103,7 @@ if ("".equals(user)) {
     }
 ```
 
-接着接受3个参数 **filename, extname, prop**
+接着接受3个参数 `filename, extname, prop`
 
 ```php
 String filename = ParamUtil.get(request, "filename");

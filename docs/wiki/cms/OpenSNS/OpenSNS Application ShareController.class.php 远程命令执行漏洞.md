@@ -20,7 +20,7 @@ OpenSNS 存在远程命令执行漏洞，攻击者通过漏洞发送特定的请
 
 ![img](../../../.vuepress/public/img/image-20210629150345721.png)
 
-存在漏洞的文件 **Application/Weibo/Controller/ShareController.class.php**
+存在漏洞的文件 `Application/Weibo/Controller/ShareController.class.php`
 
 ![img](../../../.vuepress/public/img/1634372349493-09076c1f-7406-46af-b4b4-9cabb771a8ec.png)
 

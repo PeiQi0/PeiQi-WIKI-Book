@@ -18,7 +18,7 @@ DocCMS flink.php 文件存远程命令执行漏洞，攻击者通过漏洞可以
 
 ![img](../../../.vuepress/public/img/1633231738375-8b54ff36-5155-421a-aa24-4c89033cfe3a.png)
 
-查看文件 **include/common.func.php** 的 ShowMsg方法
+查看文件 `include/common.func.php` 的 ShowMsg方法
 
 ![img](../../../.vuepress/public/img/1633231813053-82d63b1c-5d89-4fa1-8d04-50fefc586ced.png)
 
@@ -133,7 +133,7 @@ $tpl->LoadString($msg);
 $tpl->Display();
 ```
 
-追踪方法来到 **include/dedetemplate.class.php** 文件
+追踪方法来到 `include/dedetemplate.class.php` 文件
 
 ![img](../../../.vuepress/public/img/1633235467775-2462bab3-0d80-4795-9e2f-c640086838cc.png)
 
@@ -149,7 +149,7 @@ public function Display()
     }
 ```
 
-追踪一下 **WriteCache()** 方法
+追踪一下 `WriteCache()` 方法
 
 ![img](../../../.vuepress/public/img/1633235811291-45805193-d5b0-4a77-8f5c-6aa028f2c5ec.png)
 
@@ -186,7 +186,7 @@ public function CheckDisabledFunctions($str, &$errmsg = '')
     }
 ```
 
-GetResult() 方法执行后返回的结果通过 CheckDisabledFunctions() 方法过滤后 经过Display() 的 **include $this->cacheFile;**
+GetResult() 方法执行后返回的结果通过 CheckDisabledFunctions() 方法过滤后 经过Display() 的 `include $this->cacheFile;`
 
 ```php
 public function Display()

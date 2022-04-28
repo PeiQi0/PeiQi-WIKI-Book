@@ -18,7 +18,7 @@ CMS产品页面
 
 ![img](../../../.vuepress/public/img/1634130579841-e981591e-46f6-4aa8-bc68-6fe39d1e4e35-20220313232948253.png)
 
-存在漏洞的文件为 **Application/Admin/Controller/MenuController.class.php**
+存在漏洞的文件为 `Application/Admin/Controller/MenuController.class.php`
 
 ![img](../../../.vuepress/public/img/1634136475760-256dded1-8bef-40a2-b391-e3a84bd7fcc2.png)
 

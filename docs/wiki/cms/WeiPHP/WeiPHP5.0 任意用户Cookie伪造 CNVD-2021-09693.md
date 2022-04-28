@@ -26,13 +26,13 @@ Weiphp5.0 存在管理员用户Cookie伪造，通过泄露的密钥数据，可�
 
 ## 漏洞复现
 
-首先需要得到数据库配置文件中的**data_auth_key**密钥
+首先需要得到数据库配置文件中的 `data_auth_key`密钥
 
 ![img](../../../.vuepress/public/img/weiphp-15.png)
 
 
 
-得到这个配置文件可参照上一篇**Weiphp5.0 前台文件任意读取**
+得到这个配置文件可参照上一篇 `Weiphp5.0 前台文件任意读取`
 
 
 
@@ -54,7 +54,7 @@ Weiphp5.0 存在管理员用户Cookie伪造，通过泄露的密钥数据，可�
 
 
 
-**加密方法 think_encrypt**
+`加密方法 think_encrypt`
 
 
 
@@ -97,7 +97,7 @@ function think_encrypt($data, $key = '', $expire = 0)
 
 
 
-**解密方法 think_decrypt**
+`解密方法 think_decrypt
 
 
 
@@ -154,7 +154,7 @@ function think_decrypt($data, $key = '')
 
 
 
-在文件 **application\common.php** 中含有使用解密方法的代码，用于做身份验证
+在文件 `application\common.php` 中含有使用解密方法的代码，用于做身份验证
 
 
 
@@ -182,11 +182,11 @@ function is_login()
 
 
 
-根据这里得到的代码，可以知道当**user_Id=1**时,会解密密钥后判断是否正确，如果正确则可以登录系统
+根据这里得到的代码，可以知道当`user_Id=1`时,会解密密钥后判断是否正确，如果正确则可以登录系统
 
 
 
-我们在本地使用加密代码加密**user_id=1**得到的cookie则可以登录系统
+我们在本地使用加密代码加密`user_id=1`得到的cookie则可以登录系统
 
 
 
@@ -239,7 +239,7 @@ echo 'user_id = ' . think_encrypt($_GET['user_id']);
 
 
 
-添加**cookie: user_id=xxxxxxxx**即可成功登录
+添加`cookie: user_id=xxxxxxxx`即可成功登录
 
 
 

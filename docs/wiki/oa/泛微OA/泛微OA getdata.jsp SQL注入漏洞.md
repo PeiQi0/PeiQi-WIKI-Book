@@ -16,7 +16,7 @@
 
 在getdata.jsp中，直接将request对象交给
 
-**weaver.hrm.common.AjaxManager.getData(HttpServletRequest, ServletContext) :** 
+`weaver.hrm.common.AjaxManager.getData(HttpServletRequest, ServletContext) :` 
 
 方法处理
 

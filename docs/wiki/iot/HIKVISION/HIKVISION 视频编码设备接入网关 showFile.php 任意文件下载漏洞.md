@@ -2,7 +2,7 @@
 
 ## 漏洞描述
 
-海康威视视频接入网关系统在页面/serverLog/**showFile.php**的参数fileName存在任意文件下载漏洞
+海康威视视频接入网关系统在页面`/serverLog/showFile.php`的参数fileName存在任意文件下载漏洞
 
 ## 漏洞影响
 
@@ -18,7 +18,7 @@
 
 ![img](../../../.vuepress/public/img/1630063019704-4b10f55b-d725-4866-b5aa-e73d638b2f27.png)
 
-漏洞文件为 **showFile.php**, 其中 **参数 fileName** 没有过滤危险字符，导致可文件遍历下载
+漏洞文件为 `showFile.php`, 其中 `参数 fileName` 没有过滤危险字符，导致可文件遍历下载
 
 
 

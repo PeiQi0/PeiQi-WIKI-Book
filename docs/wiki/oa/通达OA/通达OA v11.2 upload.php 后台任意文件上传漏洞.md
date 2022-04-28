@@ -18,21 +18,21 @@
 
 该漏洞存在于后台，需要通过登录后才能进行使用
 
-登录后点击 **菜单 -> 系统管理 -> 附件管理**
+登录后点击 `菜单 -> 系统管理 -> 附件管理`
 
 ![img](../../../.vuepress/public/img/tongdaoa-13.png)
 
 
 
-点击添加附录存储管理添加如下(存储目录为 webroot 目录，默认为 **D:/MYOA/webroot/**)
+点击添加附录存储管理添加如下(存储目录为 webroot 目录，默认为 `D:/MYOA/webroot/`)
 
 ![img](../../../.vuepress/public/img/tongdaoa-14.png)
 
-点击 **组织 -> 系统管理员 -> 上传附件**
+点击 `组织 -> 系统管理员 -> 上传附件`
 
 ![img](../../../.vuepress/public/img/tongdaoa-15.png)
 
-抓包使用 windows 的绕过方法 **shell.php -> shell.php.**
+抓包使用 windows 的绕过方法 `shell.php -> shell.php.`
 
 ![img](../../../.vuepress/public/img/tongdaoa-16.png)
 

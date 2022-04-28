@@ -18,7 +18,7 @@ Gerapy gerapy/server/core/views.py 中的方法存在任意命令执行，攻击
 
 ![img](../../../.vuepress/public/img/1638069254477-82075ea9-6191-4ebd-8e92-bed0104a0942-20220313132256739.png)
 
-出现漏洞的文件为 **gerapy/server/core/views.py**
+出现漏洞的文件为 `gerapy/server/core/views.py`
 
 ![img](../../../.vuepress/public/img/1638185162093-04fc1593-86b0-4c91-b8d3-32ae22fc224d.png)
 

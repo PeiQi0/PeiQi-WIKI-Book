@@ -10,7 +10,7 @@
 
 ## 环境搭建
 
-将 **upload**目录下的文件拷入**phpstudy**下的WWW目录打开网站按照步骤安装就行了
+将 `upload`目录下的文件拷入`phpstudy`下的WWW目录打开网站按照步骤安装就行了
 
 
 
@@ -26,7 +26,7 @@
 
 
 
-来到后台页面, 在 **UCenter 应用 ID** 位置的参数添加单引号并抓包
+来到后台页面, 在 `UCenter 应用 ID` 位置的参数添加单引号并抓包
 
 
 
@@ -54,7 +54,7 @@
 
 
 
-查看文件 **\source\admincp\admincp_setting.php**， 在2677行找到了输入点
+查看文件 `\source\admincp\admincp_setting.php`， 在2677行找到了输入点
 
 
 
@@ -62,7 +62,7 @@
 
 
 
-根据报错语句找到SQL语句执行点，在文件**uc_client\model\base.php** 中的 206行
+根据报错语句找到SQL语句执行点，在文件`uc_client\model\base.php` 中的 206行
 
 
 
@@ -70,7 +70,7 @@
 
 
 
-通过这里的语句可以看到我们可以使用 **union注入** 的方法来写入恶意文件(**secure_file_priv不能为Null**)
+通过这里的语句可以看到我们可以使用 `union注入` 的方法来写入恶意文件(`secure_file_priv不能为Null`)
 
 
 

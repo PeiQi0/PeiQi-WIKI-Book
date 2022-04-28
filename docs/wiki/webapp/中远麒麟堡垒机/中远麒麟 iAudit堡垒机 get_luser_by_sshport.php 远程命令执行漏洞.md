@@ -52,7 +52,7 @@ echo $row['luser'];
 
 其中 clientip存在命令拼接 使用 ; 分割命令就可以执行任意命令
 
-Web目录默认为 **/opt/freesvr/web/htdocs/freesvr/audit/**
+Web目录默认为 `/opt/freesvr/web/htdocs/freesvr/audit/`
 
 发送Payload
 

@@ -20,7 +20,7 @@
 
 
 
-存在漏洞的文件为 **upload_file.php**
+存在漏洞的文件为 `upload_file.php`
 
 ```python
 <?php

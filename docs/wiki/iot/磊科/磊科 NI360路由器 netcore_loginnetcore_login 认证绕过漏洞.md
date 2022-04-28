@@ -20,7 +20,7 @@
 
 
 
-添加 Cookie字段 : **netcore_login=guest:1**，刷新后登录后台
+添加 Cookie字段 : `netcore_login=guest:1`，刷新后登录后台
 
 ![img](../../../.vuepress/public/img/image-20210609175225486.png)
 

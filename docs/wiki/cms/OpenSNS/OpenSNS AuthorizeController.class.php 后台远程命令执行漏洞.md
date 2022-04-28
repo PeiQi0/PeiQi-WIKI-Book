@@ -18,7 +18,7 @@ OpenSNS AuthorizeController.class.php文件 ssoCallback() 函数存在命令执�
 
 ![img](../../../.vuepress/public/img/1634371874190-3653480e-380a-4cdc-81fc-7d560bc7d0dc-20220313235551772.png)
 
-存在漏洞的文件为 **Application/Admin/Controller/AuthorizeController.class.php**
+存在漏洞的文件为 `Application/Admin/Controller/AuthorizeController.class.php`
 
 ![img](../../../.vuepress/public/img/1634375559893-600bdee5-03fe-4da2-8762-c41ded4f3797.png)
 

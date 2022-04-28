@@ -18,7 +18,7 @@ OpenSNS ChinaCityController.class.php文件中，可通过拼接SQL语句执行�
 
 ![img](../../../.vuepress/public/img/1634371874190-3653480e-380a-4cdc-81fc-7d560bc7d0dc.png)
 
-存在漏洞的文件为 **Addons/ChinaCity/Controller/ChinaCityController.class.php**
+存在漏洞的文件为`Addons/ChinaCity/Controller/ChinaCityController.class.php`
 
 ![img](../../../.vuepress/public/img/1634530581898-96bfb012-9b06-4000-8688-3f60e59fe5af.png)
 

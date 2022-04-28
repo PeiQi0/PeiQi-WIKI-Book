@@ -18,7 +18,7 @@ CMS产品页面
 
 ![img](../../../.vuepress/public/img/1634130579841-e981591e-46f6-4aa8-bc68-6fe39d1e4e35-20220313232910449.png)
 
-存在漏洞的文件为 **Application/Admin/Controller/DistrictController.class.php**
+存在漏洞的文件为 `Application/Admin/Controller/DistrictController.class.php`
 
 ![img](../../../.vuepress/public/img/1634142045802-bdf21a65-a663-4f35-afc2-bc3e70d44309.png)
 

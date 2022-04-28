@@ -33,7 +33,7 @@ else {
 }
 ```
 
-跟踪 p3dlite_handle_upload 方法 **wp-content/plugins/3dprint-lite/includes/3dprint-lite-functions.php**
+跟踪 p3dlite_handle_upload 方法 `wp-content/plugins/3dprint-lite/includes/3dprint-lite-functions.php`
 
 ![image.png](../../../.vuepress/public/img/1638590604840-080502a2-0606-483c-b620-88ced836df9f.png)
 
@@ -41,7 +41,7 @@ else {
 
 ![img](../../../.vuepress/public/img/1638590633929-99afa9bf-aff5-41b2-a6be-02f10da4a2d4.png)
 
-通过调试可以找到上传路径 **/wp-content/uploads/p3d/**
+通过调试可以找到上传路径 `/wp-content/uploads/p3d/`
 
 ![img](../../../.vuepress/public/img/1638590688972-3b63dca0-8357-4456-8d6e-18bc21c476ac.png)
 

@@ -18,7 +18,7 @@
 
 ![img](../../../.vuepress/public/img/1629190834596-c2c639a7-1fb7-4934-95ad-1d571629e383.png)
 
-存在漏洞的文件为 **inc/group_user_list/group_xml.php**
+存在漏洞的文件为 `inc/group_user_list/group_xml.php`
 
 ```javascript
 session_start( );

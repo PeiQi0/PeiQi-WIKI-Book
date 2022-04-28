@@ -22,7 +22,7 @@
 
 
 
-存在漏洞的文件为 **server_ping.php**
+存在漏洞的文件为 `server_ping.php`
 
 ```php
 <?
@@ -56,7 +56,7 @@ $cmd = "ping -c 2 -s 65 $ip";
 $fp = popen($cmd, "r");
 ```
 
-GET传入 **$ip参数** 后直接命令执行，并且文件无权限要求
+GET传入 `$ip参数` 后直接命令执行，并且文件无权限要求
 
 请求包为
 

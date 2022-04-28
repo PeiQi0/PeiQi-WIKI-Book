@@ -59,7 +59,7 @@ Connection: close
 
 
 
-摄像头账号密码文件为 **mnt/data/auth/users.json**
+摄像头账号密码文件为 `mnt/data/auth/users.json`
 
 
 

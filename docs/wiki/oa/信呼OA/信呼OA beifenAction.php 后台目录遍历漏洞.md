@@ -22,11 +22,11 @@
 
 ![img](../../../.vuepress/public/img/1637826384345-ad90b308-7431-4a96-9baa-6808129967ea.png)
 
-存在漏洞的文件为 **webmain/system/beifen/beifenAction.php**
+存在漏洞的文件为 `webmain/system/beifen/beifenAction.php`
 
 ![img](../../../.vuepress/public/img/1637826483632-dc07740e-e0e5-4b6e-8ce3-e24ad1398db9.png)
 
-查看 **getfilerows()** 方法，在 **include/chajian/fileChajian.php**  
+查看 `getfilerows()` 方法，在 `include/chajian/fileChajian.php`  
 
 ![img](../../../.vuepress/public/img/1637826756244-21762aa4-adbe-453a-86e3-452e767df30e.png)
 

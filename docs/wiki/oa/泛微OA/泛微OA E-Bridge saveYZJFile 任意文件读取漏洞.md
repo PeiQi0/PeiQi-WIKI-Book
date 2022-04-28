@@ -24,7 +24,7 @@
 
 
 
-成功返回 **id值**,说明含有此漏洞
+成功返回 `id值`,说明含有此漏洞
 
 <a-alert type="success" message="调用查看文件接口访问 /file/fileNoLogin/id值" description="" showIcon>
 </a-alert>
@@ -46,8 +46,8 @@
 
 
 
-成功返回 **id值**,说明含有此漏洞
+成功返回 `id值`,说明含有此漏洞
 
-调用查看文件接口访问 **http://xxx.xxx.xxx.xxx/file/fileNoLogin/id值**
+调用查看文件接口访问 `/file/fileNoLogin/id值`
 
 ![img](../../../.vuepress/public/img/fanwei-4.png)

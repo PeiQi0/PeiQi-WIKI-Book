@@ -12,6 +12,6 @@
 
 ## 漏洞复现
 
-访问 [**http://xxx.xxx.xxx.xxx:888/pma**](http://xxx.xxx.xxx.xxx:888/pma) 即可
+访问 http://xxx.xxx.xxx.xxx:888/pma 即可
 
 ![img](../../../.vuepress/public/img/1627195785892-e09cd9d7-ec55-40b9-bd67-31a60daea697.png)

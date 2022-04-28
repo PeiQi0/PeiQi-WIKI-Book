@@ -18,7 +18,7 @@ OpenSNS ThemeController.class.php文件中存在文件下载，其中过滤不�
 
 ![img](../../../.vuepress/public/img/1634371874190-3653480e-380a-4cdc-81fc-7d560bc7d0dc-20220313235703575.png)
 
-存在漏洞的文件为 **Application/Admin/Model/ThemeController.class.php**
+存在漏洞的文件为 `Application/Admin/Model/ThemeController.class.php`
 
 ![img](../../../.vuepress/public/img/1634373152099-96ada529-b284-4aae-9a04-877693d8cfbf.png)	
 

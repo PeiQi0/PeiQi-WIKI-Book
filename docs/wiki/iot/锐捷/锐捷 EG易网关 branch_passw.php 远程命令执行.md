@@ -124,7 +124,7 @@ include_once dirname(dirname(__FILE__)) . '/init.php';     //mvc架构初始化
 
 
 
-**&pass**变量可控并且无过滤执行命令使用 **|** 即可绕过
+`&pass`变量可控并且无过滤执行命令使用 `|` 即可绕过
 
 
 

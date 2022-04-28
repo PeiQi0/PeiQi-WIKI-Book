@@ -14,7 +14,7 @@
 
 ## 漏洞复现
 
-漏洞有关文件 **MYOA\webroot\mobile\auth_mobi.php**
+漏洞有关文件 `MYOA\webroot\mobile\auth_mobi.php`
 
 ```php
 <?php

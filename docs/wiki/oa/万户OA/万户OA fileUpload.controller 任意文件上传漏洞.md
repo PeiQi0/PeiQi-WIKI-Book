@@ -41,7 +41,7 @@ Content-Transfer-Encoding: binary
 
 ![img](../../../.vuepress/public/img/1628348700247-9ac78c6c-b56f-4137-a0b3-ba3b13733c19.png)
 
-使用冰蝎连接木马 **/defaultroot/upload/html/xxxxxxxxxx.jsp**
+使用冰蝎连接木马 `/defaultroot/upload/html/xxxxxxxxxx.jsp`
 
 ![img](../../../.vuepress/public/img/1628349045223-89889c4f-c7e6-4a31-af77-5c58fa8749b4.png)
 

@@ -120,7 +120,7 @@ if ($username == FALSE || $password == FALSE) {
 
 
 
-发送请求包，拼接 CLI指令 **show webmaster user**
+发送请求包，拼接 CLI指令 `show webmaster user`
 
 
 

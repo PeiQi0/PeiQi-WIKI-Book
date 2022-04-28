@@ -14,7 +14,7 @@ SonicWall SSL-VPN 远程命令执行在1月24日被公开 EXP，此设备存在�
 
 ## 漏洞复现
 
-出现漏洞的文件为 **/cgi-bin/jarrewrite.sh**
+出现漏洞的文件为 `/cgi-bin/jarrewrite.sh`
 
 ```bash
 #!/bin/bash
@@ -145,7 +145,7 @@ exit 0;
 
 
 
-这个文件存在命令注入漏洞，漏洞触发在 **Usage-Agent**
+这个文件存在命令注入漏洞，漏洞触发在 `Usage-Agent`
 
 
 

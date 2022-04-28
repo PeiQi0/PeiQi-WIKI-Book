@@ -62,7 +62,7 @@ command=show version&strurl=exec%04&mode=%02PRIV_EXEC&signname=Red-Giant.
 
 
 
-登录后发送请求包，执行CLI命令 **(show webmaster user)** 查看用户配置账号密码
+登录后发送请求包，执行CLI命令 `(show webmaster user)` 查看用户配置账号密码
 
 
 

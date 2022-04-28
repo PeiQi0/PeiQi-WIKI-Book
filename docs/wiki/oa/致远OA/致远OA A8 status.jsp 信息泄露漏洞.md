@@ -24,7 +24,7 @@
 
 
 
-<a-checkbox checked>后台密码为 **WLCCYBD**[**@SEEYON** ]() </a-checkbox></br>
+<a-checkbox checked>后台密码为 WLCCYBD@SEEYON</a-checkbox></br>
 
 <a-checkbox checked>登录后通过如下url获得一些敏感信息</a-checkbox></br>
 

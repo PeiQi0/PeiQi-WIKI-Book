@@ -20,7 +20,7 @@
 https://xxx.xxx.xxx.xxx/km/imeeting/km_imeeting_res/kmImeetingRes.do?contentType=json&method=listUse&orderby=1&ordertype=down&s_ajax=true
 ```
 
-其中存在SQL注入的参数为 **ordeby** ， 数据包如下
+其中存在SQL注入的参数为 `ordeby` ， 数据包如下
 
 ```sql
 GET /km/imeeting/km_imeeting_res/kmImeetingRes.do?contentType=json&method=listUse&orderby=1&ordertype=down&s_ajax=true HTTP/1.1

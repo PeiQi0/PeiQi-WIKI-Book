@@ -18,11 +18,11 @@ OpenSNS ThemeController.class.php文件中存在文件上传载，其中过滤�
 
 ![img](../../../.vuepress/public/img/1634371874190-3653480e-380a-4cdc-81fc-7d560bc7d0dc-20220313235625660.png)
 
-登录后的上传页面 **/admin.php?s=/theme/add.html**
+登录后的上传页面`/admin.php?s=/theme/add.html`
 
 ![img](../../../.vuepress/public/img/1634375246360-20a15b56-e288-4148-a3e0-b7882cf24a8f.png)
 
-存在漏洞的文件为 **Application/Admin/Model/ThemeController.class.php**
+存在漏洞的文件为 `Application/Admin/Model/ThemeController.class.php`
 
 ![img](../../../.vuepress/public/img/1634375007934-e879d659-e3fd-4f35-83ea-055ff18a4142.png)
 

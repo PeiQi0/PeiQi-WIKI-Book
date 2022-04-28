@@ -18,7 +18,7 @@ CMS产品页面
 
 ![img](../../../.vuepress/public/img/1634130579841-e981591e-46f6-4aa8-bc68-6fe39d1e4e35.png)
 
-存在漏洞的文件为 **Application/Home/Controller/GoodsController.class.php**
+存在漏洞的文件为 `Application/Home/Controller/GoodsController.class.php`
 
 ![img](../../../.vuepress/public/img/1634173817836-6c70b428-ad33-4f61-9c5f-94728c906ff2.png)
 

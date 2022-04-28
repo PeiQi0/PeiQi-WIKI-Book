@@ -22,11 +22,11 @@
 
 
 
-默认存在 guest账户，账号密码为 **guest/guest**
+默认存在 guest账户，账号密码为 `guest/guest`
 
 
 
-其中登录的过程中搜索admin的数据后发现请求了一个文件 **/web/xml/webuser-auth.xml**，而且响应中包含了 admin密码的base64加密
+其中登录的过程中搜索admin的数据后发现请求了一个文件 `/web/xml/webuser-auth.xml`，而且响应中包含了 admin密码的base64加密
 
 
 

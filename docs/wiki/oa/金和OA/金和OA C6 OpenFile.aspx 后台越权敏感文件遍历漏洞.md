@@ -63,7 +63,7 @@ var MD = '';
 
 更改ID后发送请求包发现获得另一个文件的信息
 
-访问Url，注意 **type参数**  需要为正确的文件后缀才可以访问
+访问Url，注意 `type参数`  需要为正确的文件后缀才可以访问
 
 ```plain
 http://xxx.xxx.xxx.xxx/C6/control/OpenFile.aspx?id=1200&name=&type=pdf
@@ -83,11 +83,11 @@ http://xxx.xxx.xxx.xxx/C6/control/OpenFile.aspx?id=1200&name=&type=pdf
 
 
 
-存在 **strFilePath参数** 则是存在文件，为空则是文件已经不存在
+存在 `strFilePath参数` 则是存在文件，为空则是文件已经不存在
 
 同时抓包下载文件页面也可以看到可获取的参数
 
-**FileID 与 FileIDCode**
+`FileID 与 FileIDCode`
 
 
 

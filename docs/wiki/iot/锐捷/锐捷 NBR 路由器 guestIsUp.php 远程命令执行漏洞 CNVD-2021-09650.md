@@ -22,7 +22,7 @@
 
 
 
-出现漏洞的文件在 **/guest_auth/guestIsUp.php**
+出现漏洞的文件在 `/guest_auth/guestIsUp.php`
 
 
 
@@ -58,7 +58,7 @@ mac=1&ip=127.0.0.1|cat /etc/passwd > test.txt
 
 
 
-然后访问页面 **/guest_auth/test.txt** 就可以看到命令执行的结果
+然后访问页面 `/guest_auth/test.txt` 就可以看到命令执行的结果
 
 
 

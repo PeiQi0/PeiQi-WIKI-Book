@@ -18,17 +18,17 @@ Weiphp5.0 存在前台文件任意读取漏洞，可以读取数据库配置等�
 
 ## 网络测绘
 
-- ✅app="WeiPHP"
+<a-checkbox checked>app="WeiPHP"</a-checkbox></br>
 
 ## 漏洞复现
 
 
 
-漏洞函数文件:**application\material\controller\Material.php**
+漏洞函数文件:`application\material\controller\Material.php`
 
 
 
-漏洞函数:**_download_imgage**
+漏洞函数:`_download_imgage`
 
 
 
@@ -97,7 +97,7 @@ public function _download_imgage($media_id, $picUrl = '', $dd = null)
 
 
 
-首先注意到函数的标识为**public**，也就是这个函数是公共调用的，并且变量**picUrl**为可控变量
+首先注意到函数的标识为`public`，也就是这个函数是公共调用的，并且变量`picUrl`为可控变量
 
 
 
@@ -143,7 +143,7 @@ else {
 
 
 
-分析传入变量 **picUrl** 的 **wp_file_get_contents**方法
+分析传入变量 `picUrl` 的 `wp_file_get_contents`方法
 
 
 
@@ -153,7 +153,7 @@ $content = wp_file_get_contents($picUrl);
 
 
 
-函数文件位置 **application\common.php**
+函数文件位置 `application\common.php`
 
 
 
@@ -177,11 +177,11 @@ $res = file_put_contents($picPath, $content);
 
 
 
-这里创建了有关当前时间的图片文件，并写入文件夹**/public/uploads/picture/** 下
+这里创建了有关当前时间的图片文件，并写入文件夹`/public/uploads/picture/` 下
 
 
 
-我们先尝试控制变量 **$picUrl** 来写入数据库配置文件到图片中
+我们先尝试控制变量 `$picUrl` 来写入数据库配置文件到图片中
 
 
 
@@ -195,7 +195,7 @@ $res = file_put_contents($picPath, $content);
 
 
 
-查看目录**/public/uploads/picture/**，并用记事本打开写入的jpg文件
+查看目录`/public/uploads/picture/`，并用记事本打开写入的jpg文件
 
 
 
@@ -236,11 +236,11 @@ if ($res) {
 
 
 
-向下跟进 **addFile** 函数
+向下跟进 `addFile` 函数
 
 
 
-函数位置:**application\home\model\Picture.php**
+函数位置:`application\home\model\Picture.php`
 
 
 
@@ -316,7 +316,7 @@ function user_pics()
 
 
 
-跟进 **get_wpid** 函数
+跟进 `get_wpid` 函数
 
 
 
@@ -333,7 +333,7 @@ function get_wpid($wpid = '')
 
 
 
-查看 WPID 的定义，文件位置在**config\weiphp_define.php**
+查看 WPID 的定义，文件位置在`config\weiphp_define.php`
 
 
 
@@ -345,7 +345,7 @@ function get_wpid($wpid = '')
 
 
 
-访问地址: [**http://webphp/public/index.php/home/file/user_pids**](http://webphp/public/index.php/home/file/user_pids)
+访问地址: [http://webphp/public/index.php/home/file/user_pids](http://webphp/public/index.php/home/file/user_pids)
 
 
 

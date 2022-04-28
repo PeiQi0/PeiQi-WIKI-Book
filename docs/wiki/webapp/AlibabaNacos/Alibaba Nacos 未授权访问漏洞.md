@@ -24,7 +24,7 @@ tar -zxvf nacos-server-2.0.0-ALPHA.1.tar.gz
 ./startup.sh -m standalone
 ```
 
-默认账号密码 **nacos/nacos**
+默认账号密码 `nacos/nacos`
 
 ![img](../../../.vuepress/public/img/nacos-1.png)
 
@@ -66,7 +66,7 @@ https://github.com/alibaba/nacos/issues/1105
 
 
 
-可以发现以及泄露了 **ip节点** 等数据,同样我们查看用户列表的请求并在前台访问
+可以发现以及泄露了 `ip节点` 等数据,同样我们查看用户列表的请求并在前台访问
 
 ```
 /nacos/v1/auth/users?pageNo=1&pageSize=9

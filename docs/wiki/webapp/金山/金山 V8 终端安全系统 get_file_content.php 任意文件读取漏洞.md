@@ -18,7 +18,7 @@
 
 ![img](../../../.vuepress/public/img/1630284811305-903a9d36-0fe4-46b2-bc56-92f81c4c433c.png)
 
-存在漏洞的文件 **/Console/receive_file/get_file_content.php**
+存在漏洞的文件`/Console/receive_file/get_file_content.php`
 
 ```php {2-5}
 <?php  

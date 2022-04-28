@@ -14,7 +14,7 @@
 
 ## 漏洞复现
 
-存在漏洞的文件 **/Console/htmltopdf/downfile.php**
+存在漏洞的文件 `/Console/htmltopdf/downfile.php`
 
 ```php
 <?php	

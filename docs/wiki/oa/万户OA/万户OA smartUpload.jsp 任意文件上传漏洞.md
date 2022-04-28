@@ -60,6 +60,6 @@ Content-Disposition: form-data; name="submit"
 
 ![img](../../../.vuepress/public/img/1631201969026-5429e06f-9325-48aa-a730-9db081177c10.png)
 
-通过抓包可查看上传的文件名，上传的目录为 **/defaultroot/upload/information/**
+通过抓包可查看上传的文件名，上传的目录为 `/defaultroot/upload/information/`
 
 ![img](../../../.vuepress/public/img/1631202052399-23c860b4-fe4a-48b7-b284-9d5e8eb4c05c.png)

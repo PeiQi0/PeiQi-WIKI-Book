@@ -48,7 +48,7 @@ Cookie: JSESSIONID=2CF7A25EE7F77A064A9DA55456B6994D.server; JSESSIONID=0F83D6A0F
 Connection: close
 ```
 
-使用Sqlmap对**username参数** 进行SQL注入
+使用Sqlmap对`username参数` 进行SQL注入
 
 ```plain
 sqlmap -r sql.txt -p username

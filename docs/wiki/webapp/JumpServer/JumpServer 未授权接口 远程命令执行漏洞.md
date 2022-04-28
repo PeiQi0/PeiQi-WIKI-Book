@@ -41,25 +41,25 @@ cd /opt/jumpserver-installer-v2.6.1
 
 进入后台添加配置
 
-**资产管理 -->  系统用户**
+`资产管理 -->  系统用户`
 
 ![img](../../../.vuepress/public/img/watermark,image_c2h1aXlpbi9zdWkucG5nP3gtb3NzLXByb2Nlc3M9aW1hZ2UvcmVzaXplLFBfMTQvYnJpZ2h0LC0zOS9jb250cmFzdCwtNjQ,g_se,t_17,x_1,y_10-20220313161809662.png)
 
 
 
-**资产管理 --> 管理用户**
+`资产管理 --> 管理用户`
 
 ![img](../../../.vuepress/public/img/watermark,image_c2h1aXlpbi9zdWkucG5nP3gtb3NzLXByb2Nlc3M9aW1hZ2UvcmVzaXplLFBfMTQvYnJpZ2h0LC0zOS9jb250cmFzdCwtNjQ,g_se,t_17,x_1,y_10-20220313161809610.png)
 
 
 
-**用户管理 --> 用户列表**
+`用户管理 --> 用户列表`
 
 ![img](../../../.vuepress/public/img/watermark,image_c2h1aXlpbi9zdWkucG5nP3gtb3NzLXByb2Nlc3M9aW1hZ2UvcmVzaXplLFBfMTQvYnJpZ2h0LC0zOS9jb250cmFzdCwtNjQ,g_se,t_17,x_1,y_10-20220313161809603.png)
 
 
 
-**资产管理 --> 资产列表**
+`资产管理 --> 资产列表`
 
 ![img](../../../.vuepress/public/img/watermark,image_c2h1aXlpbi9zdWkucG5nP3gtb3NzLXByb2Nlc3M9aW1hZ2UvcmVzaXplLFBfMTQvYnJpZ2h0LC0zOS9jb250cmFzdCwtNjQ,g_se,t_17,x_1,y_10-20220313161809643.png)
 
@@ -172,7 +172,7 @@ class CeleryLogWebsocket(JsonWebsocketConsumer):
 
 
 
-可以看到这里调用时必须需要 **user asset system_user** 这三个值，再获取一个20秒的 **token**
+可以看到这里调用时必须需要 `user asset system_user` 这三个值，再获取一个20秒的 `token`
 
 访问web终端后查看日志的调用
 
@@ -195,7 +195,7 @@ user_id=efede3f4-8659-4daa-8e95-9a841dbe82a8
 
 
 
-可以看到在不同的时间访问这个接口的asset_id等都是一样的，所以只用在 **刚刚的未授权日志读取**里找到想要的这几个值就可以获得 token
+可以看到在不同的时间访问这个接口的asset_id等都是一样的，所以只用在 `刚刚的未授权日志读取`里找到想要的这几个值就可以获得 token
 
 ![img](../../../.vuepress/public/img/watermark,image_c2h1aXlpbi9zdWkucG5nP3gtb3NzLXByb2Nlc3M9aW1hZ2UvcmVzaXplLFBfMTQvYnJpZ2h0LC0zOS9jb250cmFzdCwtNjQ,g_se,t_17,x_1,y_10-20220313161810372.png)
 

@@ -18,7 +18,7 @@ Kyan 网络监控设备 module.php 可在身份验证的情况下执行任意命
 
 ![img](../../../.vuepress/public/img/1631179527807-e2a16825-af31-4f88-a5ef-32752795774b-20220314122650958.png)
 
-存在漏洞的文件: **/module.php**
+存在漏洞的文件: `/module.php`
 
 ```python
 <?php

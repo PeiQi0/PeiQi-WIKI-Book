@@ -18,7 +18,7 @@
 
 ![img](../../../.vuepress/public/img/1639811062327-96b5fa6b-d8d9-4c27-b3fd-19c7d85f0103.png)
 
-存在漏洞的页面为 **down.php**
+存在漏洞的页面为 `down.php`
 
 ![img](../../../.vuepress/public/img/1639811169613-674d18e2-55e3-47d8-a097-39236f952e01.png)
 

@@ -24,7 +24,7 @@
 /acc/check_instance_state.php?ins=;id>cmd.txt
 ```
 
-再访问 **/acc/cmd.txt**
+再访问 `/acc/cmd.txt`
 
 ![img](../../../.vuepress/public/img/1635943074087-b483f989-38e9-43fd-8e94-6de93605d4a7.png)
 

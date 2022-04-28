@@ -22,7 +22,7 @@
 
 ![img](../../../.vuepress/public/img/1628671069270-2a8e5aae-ad02-4773-b7f4-769978f212d9.png)
 
-存在漏洞的文件为 **/diagnostics/cmd.php**
+存在漏洞的文件为 `/diagnostics/cmd.php`
 
 ```php
 <?php

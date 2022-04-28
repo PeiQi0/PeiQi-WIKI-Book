@@ -51,4 +51,4 @@ Content-Type: image/jpeg
 
 ![img](../../../.vuepress/public/img/1629368525052-fffda86a-30fa-4dc0-a3a0-537a0be5b5c3.png)
 
-出现如图成功上传木马，密码为 **cmd**
+出现如图成功上传木马，密码为 `cmd`
