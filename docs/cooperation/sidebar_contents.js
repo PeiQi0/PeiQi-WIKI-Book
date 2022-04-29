@@ -19,6 +19,7 @@ module.exports = [
 			"/cooperation/project/vulfocus",
 			"/cooperation/project/Goby",
 			"/cooperation/project/PortBrute",
+			"/cooperation/project/afrog",
 		]
 	},
 ];
