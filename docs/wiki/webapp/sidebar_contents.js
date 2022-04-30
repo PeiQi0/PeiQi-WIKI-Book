@@ -559,6 +559,8 @@ module.exports = [
 			"/wiki/webapp/AtlassianJira/Atlassian Jira cfx 任意文件读取漏洞 CVE-2021-26086",
 			"/wiki/webapp/AtlassianJira/Atlassian Jira ViewUserHover.jspa 用户信息泄露漏洞 CVE-2020-14181",
 			"/wiki/webapp/AtlassianJira/Atlassian Jira com.atlassian.jira 敏感信息泄漏 CVE-2019-8442",
+			"/wiki/webapp/AtlassianJira/Atlassian Jira groupuserpicker 用户信息枚举漏洞 CVE-2019-8449",
+			"/wiki/webapp/AtlassianJira/Atlassian Jira makeRequest SSRF漏洞 CVE-2019-8451",
 		]
 	},
 	{
