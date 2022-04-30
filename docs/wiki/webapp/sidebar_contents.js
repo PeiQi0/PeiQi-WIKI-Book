@@ -371,14 +371,6 @@ module.exports = [
 		]
 	},
 	{
-		title: "Atlassian",
-		collapsable: true,
-		children:[
-			"/wiki/webapp/Atlassian/Atlassian Confluence doenterpagevariables.action 远程命令执行漏洞 CVE-2021-26084",
-			"/wiki/webapp/Atlassian/Atlassian Confluence preview SSTI模版注入漏洞 CVE-2019-3396",
-		]
-	},
-	{
 		title: "XXL-JOB",
 		collapsable: true,
 		children:[
@@ -566,6 +558,7 @@ module.exports = [
 		children:[
 			"/wiki/webapp/AtlassianJira/Atlassian Jira cfx 任意文件读取漏洞 CVE-2021-26086",
 			"/wiki/webapp/AtlassianJira/Atlassian Jira ViewUserHover.jspa 用户信息泄露漏洞 CVE-2020-14181",
+			"/wiki/webapp/AtlassianJira/Atlassian Jira com.atlassian.jira 敏感信息泄漏 CVE-2019-8442",
 		]
 	},
 	{
@@ -629,6 +622,14 @@ module.exports = [
 		collapsable: true,
 		children:[
 			"/wiki/webapp/Adobe ColdFusion/Adobe ColdFusion upload.cfm 任意文件上传漏洞 CVE-2018-15961",
+		]
+	},
+	{
+		title: "Atlassian Confluence",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/AtlassianConfluence/Atlassian Confluence doenterpagevariables.action 远程命令执行漏洞 CVE-2021-26084",
+			"/wiki/webapp/AtlassianConfluence/Atlassian Confluence preview SSTI模版注入漏洞 CVE-2019-3396",
 		]
 	},
 ];

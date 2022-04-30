@@ -11,6 +11,12 @@ title: 更新日志
     <a-timeline-item>
       2022.4.27
       <p>
+         - <a-tag color="red">漏洞相关</a-tag>Atlassian Jira com.atlassian.jira 敏感信息泄漏 CVE-2019-8442<br/> 
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
+      2022.4.27
+      <p>
          - <a-tag color="red">漏洞相关</a-tag>Grafana mysql 后台任意文件读取漏洞 CVE-2019-19499<br/> 
       </p>
     </a-timeline-item>
