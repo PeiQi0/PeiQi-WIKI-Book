@@ -11,6 +11,12 @@ title: 更新日志
     <a-timeline-item>
       2022.4.27
       <p>
+         - <a-tag color="red">漏洞相关</a-tag>ACME Mini_httpd 任意文件读取漏洞 CVE-2018-18778<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
+      2022.4.27
+      <p>
          - <a-tag color="red">漏洞相关</a-tag>Atlassian Jira com.atlassian.jira 敏感信息泄漏 CVE-2019-8442<br/> 
          - <a-tag color="red">漏洞相关</a-tag>Atlassian Jira groupuserpicker 用户信息枚举漏洞 CVE-2019-8449<br/> 
          - <a-tag color="red">漏洞相关</a-tag>Atlassian Jira makeRequest SSRF漏洞 CVE-2019-8451<br/> 

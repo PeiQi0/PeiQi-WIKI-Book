@@ -88,6 +88,13 @@ module.exports = [
 		]
 	},
 	{
+		title: "Mini_httpd",
+		collapsable: true,
+		children:[
+			"/wiki/webserver/Minihttpd/ACME Mini_httpd 任意文件读取漏洞 CVE-2018-18778",
+		]
+	},
+	{
 		title: "PayaraMicro",
 		collapsable: true,
 		children:[
