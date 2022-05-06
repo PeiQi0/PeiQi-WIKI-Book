@@ -8,6 +8,12 @@ title: 更新日志
 
 <template>
   <a-timeline>
+     <a-timeline-item>
+      2022.5.6
+      <p>
+         - <a-tag color="purple">红蓝对抗</a-tag>逻辑漏洞：邮箱轰炸<br/>
+      </p>
+    </a-timeline-item>
     <a-timeline-item>
       2022.4.27
       <p>
