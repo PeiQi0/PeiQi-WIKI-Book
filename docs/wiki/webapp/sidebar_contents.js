@@ -136,6 +136,7 @@ module.exports = [
 		collapsable: true,
 		children:[
 			"/wiki/webapp/Casbin/Casbin get-users 账号密码泄漏漏洞",
+			"/wiki/webapp/Casbin/Casdoor get-organizations SQL注入漏洞 CVE-2022-24124",
 		]
 	},
 	{
