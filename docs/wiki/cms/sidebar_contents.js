@@ -8,6 +8,7 @@ module.exports = [
 			"/wiki/cms/禅道/禅道 11.6 api-getModel-editor-save-filePath 任意文件写入漏洞",
 			"/wiki/cms/禅道/禅道 11.6 api-getModel-api-getMethod-filePath 任意文件读取漏洞",
 			"/wiki/cms/禅道/禅道 12.4.2 后台任意文件上传漏洞 CNVD-C-2020-121325",
+			"/wiki/cms/禅道/禅道 16.5 router.class.php SQL注入漏洞",
 		]
 	},
 	{
