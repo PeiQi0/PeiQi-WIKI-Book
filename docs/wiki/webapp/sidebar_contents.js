@@ -397,6 +397,7 @@ module.exports = [
 		title: "F5 BIG-IP",
 		collapsable: true,
 		children:[
+			"/wiki/webapp/F5-BIG-IP/F5 BIG-IP hop-by-hop 远程命令执行漏洞 CVE-2022-1388",
 			"/wiki/webapp/F5-BIG-IP/F5 BIG-IP 远程代码执行漏洞 CVE-2021-22986",
 			"/wiki/webapp/F5-BIG-IP/F5 BIG-IP 远程代码执行漏洞 CVE-2020-5902",
 		]
