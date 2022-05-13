@@ -149,6 +149,7 @@ module.exports = [
 		collapsable: true,
 		children:[
 			"/wiki/iot/Zyxel/Zyxel NBG2105 身份验证绕过 CVE-2021-3297",
+			"/wiki/iot/Zyxel/Zyxel USG FLEX handler 远程命令执行漏洞 CVE-2022-30525"
 		]
 	},
 	{
