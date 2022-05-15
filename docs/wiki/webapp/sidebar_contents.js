@@ -476,6 +476,13 @@ module.exports = [
 		]
 	},
 	{
+		title: "kkFileView",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/kkFileView/kkFileView getCorsFile 任意文件读取漏洞 CVE-2021-43734",
+		]
+	},
+	{
 		title: "SpiderFlow",
 		collapsable: true,
 		children:[

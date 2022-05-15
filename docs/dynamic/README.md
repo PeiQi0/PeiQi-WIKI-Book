@@ -9,6 +9,13 @@ title: 更新日志
 <template>
   <a-timeline>
     <a-timeline-item>
+      2022.5.15
+      <p>
+         - <a-tag color="red">漏洞相关</a-tag>Apache CouchDB epmd 远程命令执行漏洞 CVE-2022-24706<br/>
+         - <a-tag color="red">漏洞相关</a-tag>kkFileView getCorsFile 任意文件读取漏洞 CVE-2021-43734<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
       2022.5.13
       <p>
          - <a-tag color="red">漏洞相关</a-tag>Zyxel USG FLEX handler 远程命令执行漏洞 CVE-2022-30525<br/>
