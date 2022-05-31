@@ -9,6 +9,12 @@ title: 更新日志
 <template>
   <a-timeline>
     <a-timeline-item>
+      2022.5.31
+      <p>
+         - <a-tag color="purple">权限提升</a-tag>Linux: SUID提权<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
       2022.5.25
       <p>
          - <a-tag color="purple">代码审计</a-tag>PHP: 伪协议<br/>
