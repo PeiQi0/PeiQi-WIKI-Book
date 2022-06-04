@@ -8,6 +8,20 @@ title: 更新日志
 
 <template>
   <a-timeline>
+     <a-timeline-item>
+      2022.6.4
+      <p>
+         - <a-tag color="red">漏洞相关</a-tag>Atlassian Confluence OGNL注入漏洞 CVE-2022-26134<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
+      2022.6.2
+      <p>
+         - <a-tag color="red">漏洞相关</a-tag>SolarView Compact conf_mail.php 远程命令执行漏洞 CVE-2022-29303<br/>
+         - <a-tag color="red">漏洞相关</a-tag>Telesquare SDT-CW3B1 admin.cgi 远程命令执行漏洞 CVE-2021-46422<br/>
+         - <a-tag color="purple">权限提升</a-tag>Linux: SUDO提权<br/>
+      </p>
+    </a-timeline-item>
     <a-timeline-item>
       2022.5.31
       <p>

@@ -425,6 +425,13 @@ module.exports = [
 		]
 	},
 	{
+		title: "SolarView",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/SolarView/SolarView Compact conf_mail.php 远程命令执行漏洞 CVE-2022-29303",
+		]
+	},
+	{
 		title: "Appspace",
 		collapsable: true,
 		children:[
@@ -639,6 +646,7 @@ module.exports = [
 		title: "Atlassian Confluence",
 		collapsable: true,
 		children:[
+			"/wiki/webapp/AtlassianConfluence/Atlassian Confluence OGNL注入漏洞 CVE-2022-26134",
 			"/wiki/webapp/AtlassianConfluence/Atlassian Confluence doenterpagevariables.action 远程命令执行漏洞 CVE-2021-26084",
 			"/wiki/webapp/AtlassianConfluence/Atlassian Confluence preview SSTI模版注入漏洞 CVE-2019-3396",
 		]

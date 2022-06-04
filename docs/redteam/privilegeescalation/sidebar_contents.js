@@ -5,6 +5,7 @@ module.exports = [
 		collapsable: true,
 		children:[
 			"/redteam/privilegeescalation/Linux/SUID",
+			"/redteam/privilegeescalation/Linux/SUDO",
 		]
 	},
 ];

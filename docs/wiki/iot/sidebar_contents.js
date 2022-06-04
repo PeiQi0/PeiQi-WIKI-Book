@@ -349,6 +349,13 @@ module.exports = [
 		]
 	},
 	{
+		title: "Telesquare",
+		collapsable: true,
+		children:[
+			"/wiki/iot/Telesquare/Telesquare SDT-CW3B1 admin.cgi 远程命令执行漏洞 CVE-2021-46422",
+		]
+	},
+	{
 		title: "HIKVISION",
 		collapsable: true,
 		children:[
