@@ -8,6 +8,7 @@ module.exports = [
 			"/wiki/system/Linux/Linux sudo权限提升漏洞 CVE-2021-3156",
 			"/wiki/system/Linux/Linux kernel权限提升漏洞 CVE-2021-3493",
 			"/wiki/system/Linux/Linux DirtyPipe权限提升漏洞 CVE-2022-0847",
+			"/wiki/system/Linux/Linux eBPF权限提升漏洞 CVE-2022-23222",
 		]
 	},
 	{
