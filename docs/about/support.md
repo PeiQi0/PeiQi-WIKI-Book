@@ -47,9 +47,6 @@ title: 支持项目
       <a-tab-pane key="3" tab="知识星球">
        <img width="300" src="../.vuepress/public/img/image-20220312215812422.png" />
       </a-tab-pane>
-      <a-tab-pane key="4" tab="以太坊">
-       <img width="400" src="../.vuepress/public/img/image-20220312215201874.png" />
-      </a-tab-pane>
       <a-tab-pane key="5" tab="我没钱">
         <p>那就点击Star，给文库一个小星星吧✨</p>
         <img width="200" src="../.vuepress/public/img/image-20220312220155893.png" />
@@ -78,7 +75,7 @@ export default {
 <template>
   <a-row :gutter="16">
     <a-col :span="12">
-      <a-statistic title="RMB" :value="730" class="demo-class">
+      <a-statistic title="RMB" :value="1030" class="demo-class">
         <template #suffix>
           <a-icon type="fire" />
         </template>

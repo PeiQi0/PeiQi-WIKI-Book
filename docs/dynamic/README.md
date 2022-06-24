@@ -8,13 +8,20 @@ title: 更新日志
 
 <template>
   <a-timeline>
-     <a-timeline-item>
+    <a-timeline-item>
+      2022.6.24
+      <p>
+         - <a-tag color="red">漏洞相关</a-tag>Rails Accept 任意文件读取漏洞 CVE-2019-5418<br/>
+         - <a-tag color="red">漏洞相关</a-tag>Rails sprockets 任意文件读取漏洞 CVE-2018-3760<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
       2022.6.17
       <p>
          - <a-tag color="red">漏洞相关</a-tag>Linux eBPF权限提升漏洞 CVE-2022-23222<br/>
       </p>
     </a-timeline-item>
-     <a-timeline-item>
+    <a-timeline-item>
       2022.6.4
       <p>
          - <a-tag color="red">漏洞相关</a-tag>Atlassian Confluence OGNL注入漏洞 CVE-2022-26134<br/>

@@ -1,6 +1,14 @@
 module.exports = [
 	"/wiki/frame/",
 	{
+		title: "Rails",
+		collapsable: true,
+		children:[
+			"/wiki/frame/Rails/Rails sprockets 任意文件读取漏洞 CVE-2018-3760",
+			"/wiki/frame/Rails/Rails Accept 任意文件读取漏洞 CVE-2019-5418",
+		]
+	},
+	{
 		title: "jQuery",
 		collapsable: true,
 		children:[
