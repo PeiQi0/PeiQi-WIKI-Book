@@ -410,6 +410,14 @@ module.exports = [
 		]
 	},
 	{
+		title: "WiseGiga",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/WiseGiga/WiseGiga NAS down_data.php 任意文件下载漏洞",
+			"/wiki/webapp/WiseGiga/WiseGiga NAS group.php 远程命令执行漏洞",
+		]
+	},
+	{
 		title: "Evolucare",
 		collapsable: true,
 		children:[
@@ -530,6 +538,13 @@ module.exports = [
 		collapsable: true,
 		children:[
 			"/wiki/webapp/JumpServer/JumpServer 未授权接口 远程命令执行漏洞",
+		]
+	},
+	{
+		title: "nginxWebUI",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/nginxWebUI/nginxWebUI cmdOver 后台命令执行漏洞",
 		]
 	},
 	{
