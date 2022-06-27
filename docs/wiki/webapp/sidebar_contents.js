@@ -158,6 +158,13 @@ module.exports = [
 		]
 	},
 	{
+		title: "七牛云",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/七牛云/七牛云 logkit log_path 任意文件读取漏洞",
+		]
+	},
+	{
 		title: "天融信",
 		collapsable: true,
 		children:[

@@ -239,6 +239,13 @@ module.exports = [
 		]
 	},
 	{
+		title: "Fortinet",
+		collapsable: true,
+		children:[
+			"/wiki/iot/Fortinet/Fortinet FortiWeb sslvpn_websession 路径遍历漏洞 CVE-2018-13379",
+		]
+	},
+	{
 		title: "Finetree",
 		collapsable: true,
 		children:[

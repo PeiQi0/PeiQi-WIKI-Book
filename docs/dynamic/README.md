@@ -9,8 +9,15 @@ title: 更新日志
 <template>
   <a-timeline>
      <a-timeline-item>
+      2022.6.27
+      <p>
+         - <a-tag color="red">漏洞相关</a-tag>七牛云 logkit log_path 任意文件读取漏洞<br/>
+      </p>
+    </a-timeline-item>
+     <a-timeline-item>
       2022.6.26
       <p>
+         - <a-tag color="red">漏洞相关</a-tag>Fortinet FortiWeb sslvpn_websession 路径遍历漏洞 CVE-2018-13379<br/>
          - <a-tag color="red">漏洞相关</a-tag>nginxWebUI cmdOver 后台命令执行漏洞<br/>
          - <a-tag color="red">漏洞相关</a-tag>WiseGiga NAS down_data.php 任意文件下载漏洞<br/>
          - <a-tag color="red">漏洞相关</a-tag>WiseGiga NAS group.php 远程命令执行漏洞<br/>
