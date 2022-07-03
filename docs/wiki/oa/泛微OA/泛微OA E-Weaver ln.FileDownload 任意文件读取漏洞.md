@@ -1,4 +1,4 @@
-# 泛微OA ln.FileDownload 任意文件读取漏洞
+# 泛微OA E-Weaver ln.FileDownload 任意文件读取漏洞
 
 ## 漏洞描述
 

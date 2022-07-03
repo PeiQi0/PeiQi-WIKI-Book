@@ -1,6 +1,4 @@
-# 泛微OA weaver.common.Ctrl 任意文件上传漏洞
-
-## 漏洞描述
+# 泛微OA E-Weaver weaver.common.Ctrl 任意文件上传漏洞漏洞描述
 
 泛微OA weaver.common.Ctrl 存在任意文件上传漏洞，攻击者通过漏洞可以上传webshell文件控制服务器
 

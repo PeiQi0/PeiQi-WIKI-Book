@@ -8,13 +8,31 @@ title: 更新日志
 
 <template>
   <a-timeline>
-     <a-timeline-item>
+    <a-timeline-item>
+      2022.7.3
+      <p>
+         - <a-tag color="red">漏洞相关</a-tag>WordPress Simple File List ee-downloader.php 任意文件读取漏洞 CVE-2022-1119<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
+      2022.7.2
+      <p>
+         - <a-tag color="red">漏洞相关</a-tag>泛微OA E-Cology HrmCareerApplyPerView.jsp SQL注入漏洞<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
+      2022.7.1
+      <p>
+         - <a-tag color="red">漏洞相关</a-tag>泛微OA E-Weaver SignatureDownLoad 任意文件读取漏洞<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
       2022.6.27
       <p>
          - <a-tag color="red">漏洞相关</a-tag>七牛云 logkit log_path 任意文件读取漏洞<br/>
       </p>
     </a-timeline-item>
-     <a-timeline-item>
+    <a-timeline-item>
       2022.6.26
       <p>
          - <a-tag color="red">漏洞相关</a-tag>Fortinet FortiWeb sslvpn_websession 路径遍历漏洞 CVE-2018-13379<br/>
