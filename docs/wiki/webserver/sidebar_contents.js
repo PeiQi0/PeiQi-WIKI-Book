@@ -78,6 +78,14 @@ module.exports = [
 		]
 	},
 	{
+		title: "Goahead",
+		collapsable: true,
+		children:[
+			"/wiki/webserver/Goahead/Goahead LD_PRELOAD 远程命令执行漏洞 CVE-2021-42342",
+			"/wiki/webserver/Goahead/Goahead LD_PRELOAD 远程命令执行漏洞 CVE-2017-17562",
+		]
+	},
+	{
 		title: "Weblogic",
 		collapsable: true,
 		children:[
