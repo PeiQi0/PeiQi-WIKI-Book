@@ -233,6 +233,13 @@ module.exports = [
 		]
 	},
 	{
+		title: "Franklin",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/Franklin/Franklin Fueling Systems tsaupload.cgi 任意文件读取漏洞 CVE-2021-46417",
+		]
+	},
+	{
 		title: "ICEFlow",
 		collapsable: true,
 		children:[

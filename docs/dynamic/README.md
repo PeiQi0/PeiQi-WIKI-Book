@@ -12,6 +12,7 @@ title: 更新日志
       2022.7.10
       <p>
          - <a-tag color="red">漏洞相关</a-tag>D-LINK DAP-2020 webproc 任意文件读取漏洞 CVE-2021-27250<br/>
+         - <a-tag color="red">漏洞相关</a-tag>Franklin Fueling Systems tsaupload.cgi 任意文件读取漏洞 CVE-2021-46417<br/>
       </p>
     </a-timeline-item>
     <a-timeline-item>
