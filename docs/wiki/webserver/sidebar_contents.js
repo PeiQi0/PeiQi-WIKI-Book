@@ -32,6 +32,7 @@ module.exports = [
 		title: "Apache",
 		collapsable: true,
 		children:[
+			"/wiki/webserver/Apache/Apache Hadoop Yarn RPC 远程命令执行漏洞",
 			"/wiki/webserver/Apache/Apache Kylin config 未授权配置泄露 CVE-2020-13937",
 			"/wiki/webserver/Apache/Apache Kylin DiagnosisController.java 命令注入漏洞 CVE-2020-13925",
 			"/wiki/webserver/Apache/Apache Kylin CubeService.java 命令注入漏洞 CVE-2020-1956",

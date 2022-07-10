@@ -174,6 +174,7 @@ module.exports = [
 		title: "D-Link",
 		collapsable: true,
 		children:[
+			"/wiki/iot/D-Link/D-LINK DAP-2020 webproc 任意文件读取漏洞 CVE-2021-27250",
 			"/wiki/iot/D-Link/D-Link DSL-28881A 远程命令执行 CVE-2020-24581",
 			"/wiki/iot/D-Link/D-Link DSL-28881A 信息泄露 CVE-2020-24577",
 			"/wiki/iot/D-Link/D-Link DSL-28881A 未授权访问 CVE-2020-24579",

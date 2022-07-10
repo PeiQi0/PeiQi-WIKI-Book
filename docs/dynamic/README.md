@@ -9,6 +9,18 @@ title: 更新日志
 <template>
   <a-timeline>
     <a-timeline-item>
+      2022.7.10
+      <p>
+         - <a-tag color="red">漏洞相关</a-tag>D-LINK DAP-2020 webproc 任意文件读取漏洞 CVE-2021-27250<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
+      2022.7.9
+      <p>
+         - <a-tag color="red">漏洞相关</a-tag>Apache Hadoop Yarn RPC 远程命令执行漏洞<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
       2022.7.6
       <p>
          - <a-tag color="red">漏洞相关</a-tag>Goahead LD_PRELOAD 远程命令执行漏洞 CVE-2021-42342<br/>
