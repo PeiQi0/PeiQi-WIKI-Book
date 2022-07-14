@@ -9,8 +9,17 @@ title: 更新日志
 <template>
   <a-timeline>
     <a-timeline-item>
+      2022.7.12
+      <p>
+         - <a-tag color="red">漏洞相关</a-tag>通达OA v2017 video_file.php 任意文件下载漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>极限OA video_file.php 任意文件读取漏洞<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
       2022.7.10
       <p>
+         - <a-tag color="red">漏洞相关</a-tag>小米 路由器 extdisks 任意文件读取漏洞 CVE-2019-18371<br/>
+         - <a-tag color="red">漏洞相关</a-tag>小米 路由器 c_upload 远程命令执行漏洞 CVE-2019-18370<br/>
          - <a-tag color="red">漏洞相关</a-tag>D-LINK DAP-2020 webproc 任意文件读取漏洞 CVE-2021-27250<br/>
          - <a-tag color="red">漏洞相关</a-tag>Franklin Fueling Systems tsaupload.cgi 任意文件读取漏洞 CVE-2021-46417<br/>
       </p>

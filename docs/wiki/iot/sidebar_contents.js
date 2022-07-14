@@ -94,6 +94,14 @@ module.exports = [
 		]
 	},
 	{
+		title: "小米",
+		collapsable: true,
+		children:[
+			"/wiki/iot/小米/小米 路由器 c_upload 远程命令执行漏洞 CVE-2019-18370",
+			"/wiki/iot/小米/小米 路由器 extdisks 任意文件读取漏洞 CVE-2019-18371",
+		]
+	},
+	{
 		title: "百卓",
 		collapsable: true,
 		children:[

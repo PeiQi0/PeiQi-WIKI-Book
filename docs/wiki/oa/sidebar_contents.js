@@ -5,6 +5,7 @@ module.exports = [
 		collapsable: true,
 		children:[
             "/wiki/oa/通达OA/通达OA v2014 get_contactlist.php 敏感信息泄漏漏洞",
+			"/wiki/oa/通达OA/通达OA v2017 video_file.php 任意文件下载漏洞",
 			"/wiki/oa/通达OA/通达OA v2017 action_upload.php 任意文件上传漏洞",
 			"/wiki/oa/通达OA/通达OA v11.2 upload.php 后台任意文件上传漏洞",
 			"/wiki/oa/通达OA/通达OA v11.5 login_code.php 任意用户登录",
@@ -103,6 +104,13 @@ module.exports = [
 		children:[
 			"/wiki/oa/帆软OA/帆软报表 V8 get_geo_json 任意文件读取漏洞 CNVD-2018-04757",
 			"/wiki/oa/帆软OA/帆软报表 V9 design_save_svg 任意文件覆盖文件上传",
+		]
+	},
+	{
+		title: "极限OA",
+		collapsable: true,
+		children:[
+			"/wiki/oa/极限OA/极限OA video_file.php 任意文件读取漏洞",
 		]
 	},
 	{
