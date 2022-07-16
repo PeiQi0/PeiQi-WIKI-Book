@@ -9,6 +9,12 @@ title: 更新日志
 <template>
   <a-timeline>
     <a-timeline-item>
+      2022.7.13
+      <p>
+         - <a-tag color="red">漏洞相关</a-tag>蓝凌OA treexml.tmpl 远程命令执行漏洞<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
       2022.7.12
       <p>
          - <a-tag color="red">漏洞相关</a-tag>通达OA v2017 video_file.php 任意文件下载漏洞<br/>

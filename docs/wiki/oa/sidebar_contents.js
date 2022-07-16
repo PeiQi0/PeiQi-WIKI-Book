@@ -96,6 +96,7 @@ module.exports = [
 			"/wiki/oa/蓝凌OA/蓝凌OA admin.do JNDI远程命令执行",
 			"/wiki/oa/蓝凌OA/蓝凌OA kmImeetingRes.do 后台SQL注入漏洞 CNVD-2021-01363",
 			"/wiki/oa/蓝凌OA/蓝凌OA custom.jsp 任意文件读取漏洞",
+			"/wiki/oa/蓝凌OA/蓝凌OA treexml.tmpl 远程命令执行漏洞",
 		]
 	},
 	{
