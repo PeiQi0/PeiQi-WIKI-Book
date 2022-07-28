@@ -9,6 +9,12 @@ title: 更新日志
 <template>
   <a-timeline>
     <a-timeline-item>
+      2022.7.28
+      <p>
+         - <a-tag color="red">漏洞相关</a-tag>Roxy-Wi options.py 远程命令执行漏洞 CVE-2022-31137<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
       2022.7.13
       <p>
          - <a-tag color="red">漏洞相关</a-tag>蓝凌OA treexml.tmpl 远程命令执行漏洞<br/>

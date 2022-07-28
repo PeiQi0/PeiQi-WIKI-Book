@@ -201,6 +201,13 @@ module.exports = [
 		]
 	},
 	{
+		title: "RoxyWi",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/RoxyWi/Roxy-Wi options.py 远程命令执行漏洞 CVE-2022-31137",
+		]
+	},
+	{
 		title: "Gerapy",
 		collapsable: true,
 		children:[
