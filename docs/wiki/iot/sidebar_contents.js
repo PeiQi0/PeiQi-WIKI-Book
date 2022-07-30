@@ -43,6 +43,13 @@ module.exports = [
 		]
 	},
 	{
+		title: "安恒",
+		collapsable: true,
+		children:[
+			"/wiki/iot/安恒/安恒 明御WEB应用防火墙 report.php 任意用户登录漏洞",
+		]
+	},
+	{
 		title: "大华",
 		collapsable: true,
 		children:[

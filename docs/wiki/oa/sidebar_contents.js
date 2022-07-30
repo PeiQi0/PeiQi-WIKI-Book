@@ -29,6 +29,7 @@ module.exports = [
             "/wiki/oa/万户OA/万户OA download_ftp.jsp 任意文件下载漏洞",
 			"/wiki/oa/万户OA/万户OA download_old.jsp 任意文件下载漏洞",
 			"/wiki/oa/万户OA/万户OA downloadhttp.jsp 任意文件下载漏洞",
+			"/wiki/oa/万户OA/万户OA OfficeServer.jsp 任意文件上传漏洞",
 			"/wiki/oa/万户OA/万户OA smartUpload.jsp 任意文件上传漏洞",
 			"/wiki/oa/万户OA/万户OA showResult.action 后台SQL注入漏洞",
 			"/wiki/oa/万户OA/万户OA fileUpload.controller 任意文件上传漏洞",
@@ -45,6 +46,7 @@ module.exports = [
 			"/wiki/oa/用友OA/用友 NC bsh.servlet.BshServlet 远程命令执行漏洞",
 			"/wiki/oa/用友OA/用友 NCCloud FS文件管理SQL注入",
 			"/wiki/oa/用友OA/用友 GRP-U8 Proxy SQL注入 CNNVD-201610-923",
+			"/wiki/oa/用友OA/用友 GRP-U8 UploadFileData 任意文件上传漏洞",
 			"/wiki/oa/用友OA/用友 ERP-NC NCFindWeb 目录遍历漏洞",
 		]
 	},
@@ -75,6 +77,8 @@ module.exports = [
 		title: "致远OA",
 		collapsable: true,
 		children:[
+			"/wiki/oa/致远OA/致远OA 帆软组件 ReportServer 目录遍历漏洞",
+			"/wiki/oa/致远OA/致远OA wpsAssistServlet 任意文件上传漏洞",
 			"/wiki/oa/致远OA/致远OA webmail.do 任意文件下载 CNVD-2020-62422",
 			"/wiki/oa/致远OA/致远OA getSessionList.jsp Session泄漏漏洞",
 			"/wiki/oa/致远OA/致远OA ajax.do 任意文件上传 CNVD-2021-01627",

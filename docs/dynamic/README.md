@@ -9,6 +9,16 @@ title: 更新日志
 <template>
   <a-timeline>
     <a-timeline-item>
+      2022.8.1
+      <p>
+         - <a-tag color="red">漏洞相关</a-tag>安恒 明御WEB应用防火墙 report.php 任意用户登录漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>用友 GRP-U8 UploadFileData 任意文件上传漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>万户OA OfficeServer.jsp 任意文件上传漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>致远OA 帆软组件 ReportServer 目录遍历漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>致远OA wpsAssistServlet 任意文件上传漏洞<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
       2022.7.28
       <p>
          - <a-tag color="red">漏洞相关</a-tag>Roxy-Wi options.py 远程命令执行漏洞 CVE-2022-31137<br/>
