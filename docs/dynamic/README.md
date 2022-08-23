@@ -9,8 +9,23 @@ title: 更新日志
 <template>
   <a-timeline>
     <a-timeline-item>
+      2022.8.23 
+      <p>
+         - <a-tag color="red">漏洞相关</a-tag>HIKVISION 综合安防管理平台 applyCT Fastjson远程命令执行漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>Teleport堡垒机 do-login 任意用户登录漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>Teleport堡垒机 get-file 后台任意文件读取漏洞<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
+      2022.8.7
+      <p>
+         - <a-tag color="red">漏洞相关</a-tag>NPS auth_key 未授权访问漏洞<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
       2022.8.1
       <p>
+         - <a-tag color="red">漏洞相关</a-tag>泛微OA E-Cology VerifyQuickLogin.jsp 任意管理员登录漏洞<br/>
          - <a-tag color="red">漏洞相关</a-tag>安恒 明御WEB应用防火墙 report.php 任意用户登录漏洞<br/>
          - <a-tag color="red">漏洞相关</a-tag>用友 GRP-U8 UploadFileData 任意文件上传漏洞<br/>
          - <a-tag color="red">漏洞相关</a-tag>万户OA OfficeServer.jsp 任意文件上传漏洞<br/>

@@ -8,6 +8,13 @@ module.exports = [
 		]
 	},
 	{
+		title: "NPS",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/NPS/NPS auth_key 未授权访问漏洞",
+		]
+	},
+	{
 		title: "H3C",
 		collapsable: true,
 		children:[

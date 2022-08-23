@@ -388,6 +388,7 @@ module.exports = [
 			"/wiki/iot/HIKVISION/HIKVISION 视频编码设备接入网关 showFile.php 任意文件下载漏洞",
 			"/wiki/iot/HIKVISION/HIKVISION 流媒体管理服务器 user.xml 账号密码泄漏漏洞",
 			"/wiki/iot/HIKVISION/HIKVISION 流媒体管理服务器 后台任意文件读取漏洞 CNVD-2021-14544",
+			"/wiki/iot/HIKVISION/HIKVISION 综合安防管理平台 applyCT Fastjson远程命令执行漏洞",
 		]
 	},
 	{
@@ -395,6 +396,14 @@ module.exports = [
 		collapsable: true,
 		children:[
 			"/wiki/iot/TVT数码科技/TVT数码科技 NVMS-1000 路径遍历漏洞 CVE-2019-20085",
+		]
+	},
+	{
+		title: "Teleport堡垒机",
+		collapsable: true,
+		children:[
+			"/wiki/iot/Teleport堡垒机/Teleport堡垒机 get-file 后台任意文件读取漏洞",
+			"/wiki/iot/Teleport堡垒机/Teleport堡垒机 do-login 任意用户登录漏洞",
 		]
 	},
 ];
