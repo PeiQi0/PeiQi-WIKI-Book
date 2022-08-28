@@ -232,6 +232,15 @@ module.exports = [
 		]
 	},
 	{
+		title: "Webmin",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/Webmin/Webmin rpc.cgi 后台远程命令执行漏洞 CVE-2019-15642",
+			"/wiki/webapp/Webmin/Webmin update.cgi 后台远程命令执行漏洞 CVE-2022-0824",
+			"/wiki/webapp/Webmin/Webmin password_change.cgi 远程命令执行漏洞 CVE-2019-15107",
+		]
+	},
+	{
 		title: "Grafana",
 		collapsable: true,
 		children:[
@@ -411,6 +420,13 @@ module.exports = [
 		collapsable: true,
 		children:[
 			"/wiki/webapp/Lanproxy/Lanproxy 目录遍历漏洞 CVE-2021-3019",
+		]
+	},
+	{
+		title: "Webgrind",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/Webgrind/Webgrind fileviewer.phtml 任意文件读取漏洞 CVE-2018-12909",
 		]
 	},
 	{

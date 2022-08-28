@@ -9,6 +9,21 @@ title: 更新日志
 <template>
   <a-timeline>
     <a-timeline-item>
+      2022.8.28
+      <p>
+         - <a-tag color="red">漏洞相关</a-tag>O2OA invoke 后台远程命令执行漏洞 CNVD-2020-18740<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
+      2022.8.27
+      <p>
+         - <a-tag color="red">漏洞相关</a-tag>Webgrind fileviewer.phtml 任意文件读取漏洞 CVE-2018-12909<br/>
+         - <a-tag color="red">漏洞相关</a-tag>Webmin password_change.cgi 远程命令执行漏洞 CVE-2019-15107<br/>
+         - <a-tag color="red">漏洞相关</a-tag>Webmin rpc.cgi 后台远程命令执行漏洞 CVE-2019-15642<br/>
+         - <a-tag color="red">漏洞相关</a-tag>Webmin update.cgi 后台远程命令执行漏洞 CVE-2022-0824<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
       2022.8.23 
       <p>
          - <a-tag color="red">漏洞相关</a-tag>HIKVISION 综合安防管理平台 applyCT Fastjson远程命令执行漏洞<br/>

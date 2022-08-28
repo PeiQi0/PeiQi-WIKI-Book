@@ -1,5 +1,12 @@
 module.exports = [
 	"/wiki/oa/",
+	{
+		title: "O2OA",
+		collapsable: true,
+		children:[
+			"/wiki/oa/O2OA/O2OA invoke 后台远程命令执行漏洞 CNVD-2020-18740",
+		]
+	},
     {
 		title: "通达OA",
 		collapsable: true,
