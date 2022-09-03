@@ -64,6 +64,7 @@ module.exports = [
 			"/wiki/webserver/Apache/Apache ActiveMQ 反序列化漏洞 CVE-2015-5254",
 			"/wiki/webserver/Apache/Apache Spark create 未授权访问漏洞",
 			"/wiki/webserver/Apache/Apache Spark unTarUsingTar 命令注入漏洞 SPARK-38631",
+			"/wiki/webserver/Apache/Apache Spark doAs 远程命令执行漏洞 CVE-2022-33891",
 			"/wiki/webserver/Apache/Apache Struts2 S2-062 远程代码执行漏洞 CVE-2021-31805",		
 			"/wiki/webserver/Apache/Apache SkyWalking graphql SQL注入漏洞 CVE-2020-9483",
 			"/wiki/webserver/Apache/Apache CouchDB epmd 远程命令执行漏洞 CVE-2022-24706",

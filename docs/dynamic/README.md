@@ -9,6 +9,14 @@ title: 更新日志
 <template>
   <a-timeline>
     <a-timeline-item>
+      2022.9.3
+      <p>
+         - <a-tag color="red">漏洞相关</a-tag>Apache Spark doAs 远程命令执行漏洞 CVE-2022-33891<br/>
+         - <a-tag color="red">漏洞相关</a-tag>用友 畅捷通T+ DownloadProxy.aspx 任意文件读取漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>用友 畅捷通T+ RecoverPassword.aspx 管理员密码修改漏洞<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
       2022.8.28
       <p>
          - <a-tag color="red">漏洞相关</a-tag>O2OA invoke 后台远程命令执行漏洞 CNVD-2020-18740<br/>
