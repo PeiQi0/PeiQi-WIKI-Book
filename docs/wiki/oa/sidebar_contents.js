@@ -33,6 +33,9 @@ module.exports = [
 		title: "万户OA",
 		collapsable: true,
 		children:[
+			"/wiki/oa/万户OA/万户OA DocumentEdit.jsp SQL注入漏洞",
+			"/wiki/oa/万户OA/万户OA TeleConferenceService XXE注入漏洞",
+			"/wiki/oa/万户OA/万户OA DownloadServlet 任意文件读取漏洞",
             "/wiki/oa/万户OA/万户OA download_ftp.jsp 任意文件下载漏洞",
 			"/wiki/oa/万户OA/万户OA download_old.jsp 任意文件下载漏洞",
 			"/wiki/oa/万户OA/万户OA downloadhttp.jsp 任意文件下载漏洞",
@@ -61,6 +64,7 @@ module.exports = [
 		title: "泛微OA",
 		collapsable: true,
 		children:[
+			"/wiki/oa/泛微OA/泛微OA E-Cology jqueryFileTree.jsp 目录遍历漏洞",
 			"/wiki/oa/泛微OA/泛微OA E-Cology VerifyQuickLogin.jsp 任意管理员登录漏洞",
 			"/wiki/oa/泛微OA/泛微OA E-Cology WorkflowCenterTreeData SQL注入漏洞",
 			"/wiki/oa/泛微OA/泛微OA E-Cology uploadOperation.jsp 任意文件上传",

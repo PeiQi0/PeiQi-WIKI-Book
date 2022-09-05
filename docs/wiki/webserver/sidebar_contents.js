@@ -80,6 +80,13 @@ module.exports = [
 		]
 	},
 	{
+		title: "muhttpd",
+		collapsable: true,
+		children:[
+			"/wiki/webserver/muhttpd/muhttpd 任意文件读取漏洞 CVE-2022-31793",
+		]
+	},
+	{
 		title: "Goahead",
 		collapsable: true,
 		children:[

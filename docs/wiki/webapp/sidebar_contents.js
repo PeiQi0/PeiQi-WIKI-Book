@@ -43,6 +43,7 @@ module.exports = [
 		children:[
 			"/wiki/webapp/用友/用友 畅捷通T+ DownloadProxy.aspx 任意文件读取漏洞",
 			"/wiki/webapp/用友/用友 畅捷通T+ RecoverPassword.aspx 管理员密码修改漏洞",
+			"/wiki/webapp/用友/用友 畅捷通T+ Upload.aspx 任意文件上传漏洞"
 		]
 	},
 	{

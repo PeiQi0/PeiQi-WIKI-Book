@@ -9,6 +9,17 @@ title: 更新日志
 <template>
   <a-timeline>
     <a-timeline-item>
+      2022.9.5
+      <p>
+         - <a-tag color="red">漏洞相关</a-tag>泛微OA E-Cology jqueryFileTree.jsp 目录遍历漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>万户OA DocumentEdit.jsp SQL注入漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>万户OA TeleConferenceService XXE注入漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>万户OA DownloadServlet 任意文件读取漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>muhttpd 任意文件读取漏洞 CVE-2022-31793<br/>
+         - <a-tag color="red">漏洞相关</a-tag>用友 畅捷通T+ Upload.aspx 任意文件上传漏洞<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
       2022.9.3
       <p>
          - <a-tag color="red">漏洞相关</a-tag>Apache Spark doAs 远程命令执行漏洞 CVE-2022-33891<br/>
