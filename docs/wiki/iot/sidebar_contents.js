@@ -212,6 +212,7 @@ module.exports = [
 		collapsable: true,
 		children:[
 			"/wiki/iot/菲力尔/FLIR-AX8 download.php 任意文件下载",
+			"/wiki/iot/菲力尔/FLIR-AX8 res.php 后台命令执行漏洞",
 		]
 	},
 	{

@@ -18,7 +18,7 @@
 
 ![img](../../../.vuepress/public/img/1662017510454-8bb328d0-35ee-42f9-a36a-625e95a5cfc2-2353804.png)
 
-存在漏洞的接口为 /tplus/SM/SetupAccount/Upload.aspx , 对应文件 App_Web_upload.aspx.9475d17f.dll
+存在漏洞的接口为` /tplus/SM/SetupAccount/Upload.aspx `, 对应文件 `App_Web_upload.aspx.9475d17f.dll`
 
 ![img](../../../.vuepress/public/img/1662034256298-447ab241-2def-46e0-a97d-9dae60549044.png)
 
@@ -42,11 +42,11 @@ Content-Type: image/jpeg
 ------WebKitFormBoundaryVXR9biLu--
 ```
 
-由于应用为预编译的，直接上传的 aspx木马无法直接利用，需要通过上传 dll 与 compiled 文件后利用Webshell
+由于应用为预编译的，直接上传的 `aspx木马`无法直接利用，需要通过上传 `dll 与 compiled `文件后利用Webshell
 
 ![img](../../../.vuepress/public/img/1662034644623-835164ab-e259-41ab-9999-2a5ef462a462.png)
 
-将 dll 与 compiled 文件上传至 Web应用的 bin目录上，aspx上传至 Web根目录下
+将 `dll 与 compiled` 文件上传至 Web应用的 bin目录上，aspx上传至 Web根目录下
 
 ![img](../../../.vuepress/public/img/1662037558563-ffb9835f-fc57-4d45-bc08-dfdf5cb2892d.png)
 

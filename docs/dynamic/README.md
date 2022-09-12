@@ -11,6 +11,13 @@ title: 更新日志
     <a-timeline-item>
       2022.9.5
       <p>
+         - <a-tag color="red">漏洞相关</a-tag>FLIR-AX8 res.php 后台命令执行漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>Linux openvswitch权限提升漏洞 CVE-2022-2639<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
+      2022.9.5
+      <p>
          - <a-tag color="red">漏洞相关</a-tag>泛微OA E-Cology jqueryFileTree.jsp 目录遍历漏洞<br/>
          - <a-tag color="red">漏洞相关</a-tag>万户OA DocumentEdit.jsp SQL注入漏洞<br/>
          - <a-tag color="red">漏洞相关</a-tag>万户OA TeleConferenceService XXE注入漏洞<br/>

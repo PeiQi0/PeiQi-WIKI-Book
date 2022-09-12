@@ -4,6 +4,7 @@ module.exports = [
 		title: "Linux",
 		collapsable: true,
 		children:[
+			"/wiki/system/Linux/Linux openvswitch权限提升漏洞 CVE-2022-2639",
             "/wiki/system/Linux/Linux Polkit权限提升漏洞 CVE-2021-4034",
 			"/wiki/system/Linux/Linux sudo权限提升漏洞 CVE-2021-3156",
 			"/wiki/system/Linux/Linux kernel权限提升漏洞 CVE-2021-3493",
