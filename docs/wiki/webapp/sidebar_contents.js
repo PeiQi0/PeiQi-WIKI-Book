@@ -710,6 +710,13 @@ module.exports = [
 			"/wiki/webapp/Adobe ColdFusion/Adobe ColdFusion upload.cfm 任意文件上传漏洞 CVE-2018-15961",
 		]
 	},
+		{
+		title: "Atlassian Bitbucket",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/Atlassian Bitbucket/Atlassian Bitbucket archive 远程命令执行漏洞 CVE-2022-36804",
+		]
+	},
 	{
 		title: "Atlassian Confluence",
 		collapsable: true,

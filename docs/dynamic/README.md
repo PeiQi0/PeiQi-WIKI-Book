@@ -9,6 +9,20 @@ title: 更新日志
 <template>
   <a-timeline>
     <a-timeline-item>
+      2022.9.21
+      <p>
+         - <a-tag color="red">漏洞相关</a-tag>Atlassian Bitbucket archive 远程命令执行漏洞 CVE-2022-36804<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
+      2022.9.18
+      <p>
+         - <a-tag color="blue">CTF夺旗</a-tag>区块链: 工具安装与使用<br/>
+         - <a-tag color="blue">CTF夺旗</a-tag>区块链: 关于区块链<br/>
+         - <a-tag color="blue">CTF夺旗</a-tag>区块链: Solidity语言<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
       2022.9.5
       <p>
          - <a-tag color="red">漏洞相关</a-tag>FLIR-AX8 res.php 后台命令执行漏洞<br/>
