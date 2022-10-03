@@ -21,6 +21,7 @@ module.exports = [
 		children:[
 			"/wiki/frame/Laravel/Laravel Debug模式 _ignition 远程代码执行漏洞 CVE-2021-3129",
 			"/wiki/frame/Laravel/Laravel env 配置文件泄露 CVE-2017-16894",
+			"/wiki/frame/Laravel/Laravel Filemanager插件 download 任意文件读取漏洞 CVE-2022-40734",
 		]
 	},
 	{

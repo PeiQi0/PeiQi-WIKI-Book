@@ -27,6 +27,7 @@ module.exports = [
 			"/wiki/oa/通达OA/通达OA v11.8 api.ali.php 任意文件上传漏洞",
 			"/wiki/oa/通达OA/通达OA v11.8 getway.php 远程文件包含漏洞",
 			"/wiki/oa/通达OA/通达OA v11.9 upsharestatus 后台SQL注入漏洞",
+			"/wiki/oa/通达OA/通达OA v11.9 getdata 任意命令执行漏洞",
 		]
 	},
 	{
@@ -80,6 +81,7 @@ module.exports = [
 			"/wiki/oa/泛微OA/泛微OA E-Office UploadFile.php 任意文件上传漏洞 CNVD-2021-49104",
 			"/wiki/oa/泛微OA/泛微OA E-Office group_xml.php SQL注入漏洞",
 			"/wiki/oa/泛微OA/泛微OA E-Office officeserver.php 任意文件读取漏洞",
+			"/wiki/oa/泛微OA/泛微OA E-Office OfficeServer.php 任意文件上传漏洞",
 			"/wiki/oa/泛微OA/泛微OA E-Office UserSelect 未授权访问漏洞",
 			"/wiki/oa/泛微OA/泛微OA E-Office mysql_config.ini 数据库信息泄漏漏洞",
 			"/wiki/oa/泛微OA/泛微OA E-Bridge saveYZJFile 任意文件读取漏洞",
@@ -136,6 +138,13 @@ module.exports = [
 		children:[
 			"/wiki/oa/金蝶OA/金蝶OA Apusic应用服务器-中间件 server_file 目录遍历漏洞",
 			"/wiki/oa/金蝶OA/金蝶OA server_file 目录遍历漏洞",
+		]
+	},
+	{
+		title: "源天OA",
+		collapsable: true,
+		children:[
+			"/wiki/oa/源天OA/源天OA GetDataAction SQL注入漏洞",
 		]
 	},
 	{
