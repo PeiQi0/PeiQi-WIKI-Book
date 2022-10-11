@@ -9,6 +9,15 @@ title: 更新日志
 <template>
   <a-timeline>
     <a-timeline-item>
+      2022.10.11
+      <p>
+         - <a-tag color="red">漏洞相关</a-tag>用友 畅捷通远程通 GNRemote.dll SQL注入漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>AVEVA InTouch安全网关 AccessAnywhere 任意文件读取漏洞 CVE-2022-23854<br/>
+         - <a-tag color="red">漏洞相关</a-tag>Dapr Dashboard configurations 未授权访问漏洞 CVE-2022-38817<br/>
+         - <a-tag color="red">漏洞相关</a-tag>WordPress All-in-One Video Gallery video.php 任意文件读取漏洞 CVE-2022-2633<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
       2022.10.3
       <p>
          - <a-tag color="red">漏洞相关</a-tag>GLPI htmLawedTest.php 远程命令执行漏洞 CVE-2022-35914<br/>

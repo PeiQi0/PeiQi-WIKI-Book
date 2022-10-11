@@ -43,7 +43,8 @@ module.exports = [
 		children:[
 			"/wiki/webapp/用友/用友 畅捷通T+ DownloadProxy.aspx 任意文件读取漏洞",
 			"/wiki/webapp/用友/用友 畅捷通T+ RecoverPassword.aspx 管理员密码修改漏洞",
-			"/wiki/webapp/用友/用友 畅捷通T+ Upload.aspx 任意文件上传漏洞"
+			"/wiki/webapp/用友/用友 畅捷通T+ Upload.aspx 任意文件上传漏洞",
+			"/wiki/webapp/用友/用友 畅捷通远程通 GNRemote.dll SQL注入漏洞"
 		]
 	},
 	{
@@ -120,6 +121,20 @@ module.exports = [
 			"/wiki/webapp/浪潮/浪潮ClusterEngineV4.0 远程命令执行漏洞 CVE-2020-21224",
 			"/wiki/webapp/浪潮/浪潮ClusterEngineV4.0 任意用户登录漏洞",
 			"/wiki/webapp/浪潮/浪潮ClusterEngineV4.0 sysShell 任意命令执行漏洞",
+		]
+	},
+	{
+		title: "Dapr",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/Dapr/Dapr Dashboard configurations 未授权访问漏洞 CVE-2022-38817",
+		]
+	},
+	{
+		title: "GLPI",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/GLPI/GLPI htmLawedTest.php 远程命令执行漏洞 CVE-2022-35914",
 		]
 	},
 	{
@@ -207,6 +222,13 @@ module.exports = [
 		collapsable: true,
 		children:[
 			"/wiki/webapp/Konga/Konga 普通用户越权获取管理员权限漏洞",
+		]
+	},
+	{
+		title: "AVEVA",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/AVEVA/AVEVA InTouch安全网关 AccessAnywhere 任意文件读取漏洞 CVE-2022-23854",
 		]
 	},
 	{
