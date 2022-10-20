@@ -9,6 +9,14 @@ title: 更新日志
 <template>
   <a-timeline>
     <a-timeline-item>
+      2022.10.18
+      <p>
+         - <a-tag color="red">漏洞相关</a-tag>Dogtag PKI XML实体注入漏洞 CVE-2022-2414<br/>
+         - <a-tag color="red">漏洞相关</a-tag>Dolibarr edit.php 远程命令执行漏洞 CVE-2022-40871<br/>
+         - <a-tag color="red">漏洞相关</a-tag>Fortinet FortiOS admin 远程命令执行漏洞 CVE-2022-40684<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
       2022.10.11
       <p>
          - <a-tag color="red">漏洞相关</a-tag>用友 畅捷通远程通 GNRemote.dll SQL注入漏洞<br/>

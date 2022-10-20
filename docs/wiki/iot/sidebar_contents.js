@@ -260,6 +260,7 @@ module.exports = [
 		collapsable: true,
 		children:[
 			"/wiki/iot/Fortinet/Fortinet FortiWeb sslvpn_websession 路径遍历漏洞 CVE-2018-13379",
+			"/wiki/iot/Fortinet/Fortinet FortiOS admin 远程命令执行漏洞 CVE-2022-40684",
 		]
 	},
 	{

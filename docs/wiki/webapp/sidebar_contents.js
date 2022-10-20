@@ -263,6 +263,13 @@ module.exports = [
 		]
 	},
 	{
+		title: "Dogtag",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/Dogtag/Dogtag PKI XML实体注入漏洞 CVE-2022-2414",
+		]
+	},
+	{
 		title: "Webmin",
 		collapsable: true,
 		children:[
@@ -320,6 +327,13 @@ module.exports = [
 		collapsable: true,
 		children:[
 			"/wiki/webapp/IceWarp/IceWarp WebClient basic 远程命令执行漏洞",
+		]
+	},
+	{
+		title: "Dolibarr",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/Dolibarr/Dolibarr edit.php 远程命令执行漏洞 CVE-2022-40871",
 		]
 	},
 	{
