@@ -9,6 +9,12 @@ title: 更新日志
 <template>
   <a-timeline>
     <a-timeline-item>
+      2022.11.8
+      <p>
+         - <a-tag color="blue">CTF夺旗</a-tag>Misc: 文件修复,压缩包破解,图片隐写,音频隐写<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
       2022.10.18
       <p>
          - <a-tag color="red">漏洞相关</a-tag>Dogtag PKI XML实体注入漏洞 CVE-2022-2414<br/>
