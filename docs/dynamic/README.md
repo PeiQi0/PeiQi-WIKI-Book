@@ -9,6 +9,27 @@ title: 更新日志
 <template>
   <a-timeline>
     <a-timeline-item>
+      2022.12.17
+      <p>
+         - <a-tag color="red">漏洞相关</a-tag>V2Board Admin.php 越权访问漏洞<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
+      2022.12.16
+      <p>
+         - <a-tag color="red">漏洞相关</a-tag>Cacti remote_agent.php 远程命令执行漏洞 CVE-2022-46169<br/>
+         - <a-tag color="red">漏洞相关</a-tag>ThinkPHP LoadLangPack lang 任意文件包含漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>YApi 接口管理平台 up SQL注入漏洞<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
+      2022.12.4
+      <p>
+         - <a-tag color="red">漏洞相关</a-tag>WordPress Welcart e-Commerce progress-check.php 任意文件读取漏洞 CVE-2022-41840<br/>
+         - <a-tag color="red">漏洞相关</a-tag>SolarView network_test.php 远程命令执行漏洞 CVE-2022-40881<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
       2022.11.8
       <p>
          - <a-tag color="blue">CTF夺旗</a-tag>Misc: 文件修复,压缩包破解,图片隐写,音频隐写<br/>

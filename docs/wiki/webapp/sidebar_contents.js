@@ -28,6 +28,7 @@ module.exports = [
 		collapsable: true,
 		children:[
 			"/wiki/webapp/YApi/YApi 接口管理平台 后台命令执行漏洞",
+			"/wiki/webapp/YApi/YApi 接口管理平台 up SQL注入漏洞",
 		]
 	},
 	{
@@ -142,6 +143,13 @@ module.exports = [
 		collapsable: true,
 		children:[
 			"/wiki/webapp/Fhem/Fhem FileLog_logWrapper 任意文件读取漏洞 CVE-2020-19360",
+		]
+	},
+	{
+		title: "Cacti",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/Cacti/Cacti remote_agent.php 远程命令执行漏洞 CVE-2022-46169",
 		]
 	},
 	{
@@ -447,6 +455,13 @@ module.exports = [
 		]
 	},
 	{
+		title: "V2Board",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/V2Board/V2Board Admin.php 越权访问漏洞",
+		]
+	},
+	{
 		title: "OneBlog",
 		collapsable: true,
 		children:[
@@ -526,6 +541,7 @@ module.exports = [
 		collapsable: true,
 		children:[
 			"/wiki/webapp/SolarView/SolarView Compact conf_mail.php 远程命令执行漏洞 CVE-2022-29303",
+			"/wiki/webapp/SolarView/SolarView network_test.php 远程命令执行漏洞 CVE-2022-40881",
 		]
 	},
 	{

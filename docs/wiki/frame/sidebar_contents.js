@@ -32,6 +32,13 @@ module.exports = [
 		]
 	},
 	{
+		title: "ThinkPHP",
+		collapsable: true,
+		children:[
+			"/wiki/frame/ThinkPHP/ThinkPHP LoadLangPack lang 任意文件包含漏洞",
+		]
+	},
+	{
 		title: "MotionEye",
 		collapsable: true,
 		children:[
