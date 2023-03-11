@@ -233,6 +233,13 @@ module.exports = [
 		]
 	},
 	{
+		title: "Joomla",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/Joomla/Joomla application 未授权访问漏洞 CVE-2023-23752",
+		]
+	},
+	{
 		title: "AVEVA",
 		collapsable: true,
 		children:[
@@ -394,6 +401,7 @@ module.exports = [
 		collapsable: true,
 		children:[
 			"/wiki/webapp/紫光软件/紫光档案管理系统 editPass.html SQL注入漏洞 CNVD-2021-41638",
+			"/wiki/webapp/紫光软件/紫光档案管理系统 upload.html 后台文件上传漏洞",
 		]
 	},
 	{

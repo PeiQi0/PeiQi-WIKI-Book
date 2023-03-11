@@ -5,6 +5,7 @@ module.exports = [
 		collapsable: true,
 		children:[
 			"/wiki/oa/O2OA/O2OA invoke 后台远程命令执行漏洞 CNVD-2020-18740",
+			"/wiki/oa/O2OA/O2OA open 后台任意文件读取漏洞",
 		]
 	},
     {

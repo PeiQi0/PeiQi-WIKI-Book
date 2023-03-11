@@ -50,6 +50,13 @@ module.exports = [
 		]
 	},
 	{
+		title: "金山",
+		collapsable: true,
+		children:[
+			"/wiki/iot/金山/金山 VGM防毒墙 downFile.php 任意文件读取漏洞",
+		]
+	},
+	{
 		title: "大华",
 		collapsable: true,
 		children:[
@@ -124,6 +131,13 @@ module.exports = [
 			"/wiki/iot/宏电/宏电 H8922 后台命令执行漏洞 CVE-2021-28150",
 			"/wiki/iot/宏电/宏电 H8922 后台管理员信息泄露漏洞 CVE-2021-28151",
 			"/wiki/iot/宏电/宏电 H8922 Telnet后门漏洞 CVE-2021-28149",
+		]
+	},
+	{
+		title: "联软",
+		collapsable: true,
+		children:[
+			"/wiki/iot/联软/联软安界 UniSDP 软件定义边界系统 commondRetSt 命令执行漏洞",
 		]
 	},
 	{
@@ -232,6 +246,15 @@ module.exports = [
 		]
 	},
 	{
+		title: "奇安信",
+		collapsable: true,
+		children:[
+			"/wiki/iot/奇安信/网康 下一代防火墙 HeartBeat.php 远程命令执行漏洞",
+			"/wiki/iot/奇安信/网康 NS-ASG安全网关 index.php 远程命令执行漏洞",
+			"/wiki/iot/奇安信/网神 SecIPS 3600 debug_info_export 任意文件下载漏洞",
+		]
+	},
+	{
 		title: "Sapido",
 		collapsable: true,
 		children:[
@@ -246,6 +269,14 @@ module.exports = [
 			"/wiki/iot/rConfig/rConfig useradmin.inc.php 信息泄露漏洞",
 			"/wiki/iot/rConfig/rConfig ajaxEditTemplate.php 后台远程命令执行漏洞",
 			"/wiki/iot/rConfig/rConfig ajaxArchiveFiles.php 后台远程命令执行漏洞",
+		]
+	},
+	{
+		title: "Panabit",
+		collapsable: true,
+		children:[
+			"/wiki/iot/Panabit/Panabit Panalog sy_addmount.php 远程命令执行漏洞",
+			"/wiki/iot/Panabit/Panabit iXCache date_config 后台命令执行漏洞",
 		]
 	},
 	{
@@ -270,6 +301,7 @@ module.exports = [
 			"/wiki/iot/Finetree/Finetree 5MP 摄像机 user_pop.php 任意用户添加漏洞 CNVD-2021-42372",
 		]
 	},
+
 	{
 		title: "Amcrest",
 		collapsable: true,
