@@ -20,6 +20,7 @@ module.exports = [
 		collapsable: true,
 		children:[
 			"/wiki/serverapp/MinIO/MinIO SSRF漏洞 CVE-2021-21287",
+			"/wiki/serverapp/MinIO/MinIO verify 敏感信息泄漏漏洞 CVE-2023-28432",
 		]
 	},
 	{

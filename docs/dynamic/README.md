@@ -9,6 +9,31 @@ title: 更新日志
 <template>
   <a-timeline>
     <a-timeline-item>
+      2022.4.15
+      <p>
+         - <a-tag color="red">漏洞相关</a-tag>瑞友 应用虚拟化系统 GetBSAppUrl SQL注入漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>才茂通信 网关  formping 远程命令执行漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>Go-fastdfs upload 任意文件上传漏洞 CVE-2023-1800<br/>
+         - <a-tag color="red">漏洞相关</a-tag>Go-fastdfs GetClientIp 未授权访问漏洞<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
+      2022.4.6
+      <p>
+         - <a-tag color="red">漏洞相关</a-tag>EasyImage manager.php 后台任意文件上传漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>EasyImage down.php 任意文件读取漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>MLflow get-artifact 任意文件读取漏洞 CVE-2023-1177<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
+      2022.3.28
+      <p>
+         - <a-tag color="red">漏洞相关</a-tag>Alibaba Nacos secret.key默认密钥 未授权访问漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>泛微OA E-Cology browser.jsp SQL注入漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>MinIO verify 敏感信息泄漏漏洞 CVE-2023-28432<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
       2022.3.11
       <p>
          - <a-tag color="red">漏洞相关</a-tag>紫光档案管理系统 upload.html 后台文件上传漏洞<br/>

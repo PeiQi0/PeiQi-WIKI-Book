@@ -39,6 +39,13 @@ module.exports = [
 		]
 	},
 	{
+		title: "瑞友",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/瑞友/瑞友 应用虚拟化系统 GetBSAppUrl SQL注入漏洞",
+		]
+	},
+	{
 		title: "用友",
 		collapsable: true,
 		children:[
@@ -330,6 +337,13 @@ module.exports = [
 		]
 	},
 	{
+		title: "MLflow",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/MLflow/MLflow get-artifact 任意文件读取漏洞 CVE-2023-1177",
+		]
+	},
+	{
 		title: "Crawlab",
 		collapsable: true,
 		children:[
@@ -604,10 +618,26 @@ module.exports = [
 		]
 	},
 	{
+		title: "Go-fastdfs",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/Go-fastdfs/Go-fastdfs GetClientIp 未授权访问漏洞",
+			"/wiki/webapp/Go-fastdfs/Go-fastdfs upload 任意文件上传漏洞 CVE-2023-1800",
+		]
+	},
+	{
 		title: "kkFileView",
 		collapsable: true,
 		children:[
 			"/wiki/webapp/kkFileView/kkFileView getCorsFile 任意文件读取漏洞 CVE-2021-43734",
+		]
+	},
+	{
+		title: "EasyImage",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/EasyImage/EasyImage down.php 任意文件读取漏洞",
+			"/wiki/webapp/EasyImage/EasyImage manager.php 后台任意文件上传漏洞",
 		]
 	},
 	{
@@ -718,7 +748,8 @@ module.exports = [
 		title: "Alibaba Nacos",
 		collapsable: true,
 		children:[
-			"/wiki/webapp/AlibabaNacos/Alibaba Nacos 未授权访问漏洞",
+			"/wiki/webapp/AlibabaNacos/Alibaba Nacos user 未授权访问漏洞",
+			"/wiki/webapp/AlibabaNacos/Alibaba Nacos secret.key默认密钥 未授权访问漏洞",
 		]
 	},
 	{

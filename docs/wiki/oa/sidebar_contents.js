@@ -76,6 +76,7 @@ module.exports = [
 			"/wiki/oa/泛微OA/泛微OA E-Cology getSqlData SQL注入漏洞",
 			"/wiki/oa/泛微OA/泛微OA E-Cology users.data 敏感信息泄漏",
 			"/wiki/oa/泛微OA/泛微OA E-Cology BshServlet 远程代码执行漏洞 CNVD-2019-32204",
+			"/wiki/oa/泛微OA/泛微OA E-Cology browser.jsp SQL注入漏洞",
 			"/wiki/oa/泛微OA/泛微OA E-Weaver ln.FileDownload 任意文件读取漏洞",
 			"/wiki/oa/泛微OA/泛微OA E-Weaver weaver.common.Ctrl 任意文件上传漏洞",
 			"/wiki/oa/泛微OA/泛微OA E-Weaver SignatureDownLoad 任意文件读取漏洞",
