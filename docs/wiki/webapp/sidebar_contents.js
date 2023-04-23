@@ -574,6 +574,13 @@ module.exports = [
 		]
 	},
 	{
+		title: "PowerJob",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/PowerJob/PowerJob list 信息泄漏漏洞 CVE-2023-29923",
+		]
+	},
+	{
 		title: "TamronOS",
 		collapsable: true,
 		children:[
@@ -724,6 +731,14 @@ module.exports = [
 		collapsable: true,
 		children:[
 			"/wiki/webapp/若依管理系统/若依管理系统 后台任意文件读取 CNVD-2021-01931",
+		]
+	},
+	{
+		title: "MeterSphere",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/MeterSphere/MeterSphere customMethod 远程命令执行漏洞",
+			"/wiki/webapp/MeterSphere/Metersphere file 任意文件读取漏洞 CVE-2023-25573",
 		]
 	},
 	{

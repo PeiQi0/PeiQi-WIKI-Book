@@ -9,6 +9,14 @@ title: 更新日志
 <template>
   <a-timeline>
     <a-timeline-item>
+      2022.4.23
+      <p>
+         - <a-tag color="red">漏洞相关</a-tag>Metersphere file 任意文件读取漏洞 CVE-2023-25573<br/>
+         - <a-tag color="red">漏洞相关</a-tag>MeterSphere customMethod 远程命令执行漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>PowerJob list 信息泄漏漏洞 CVE-2023-29923<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
       2022.4.15
       <p>
          - <a-tag color="red">漏洞相关</a-tag>瑞友 应用虚拟化系统 GetBSAppUrl SQL注入漏洞<br/>
