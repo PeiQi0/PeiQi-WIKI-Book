@@ -9,7 +9,15 @@ title: 更新日志
 <template>
   <a-timeline>
     <a-timeline-item>
-      2022.4.23
+      2023.4.26
+      <p>
+         - <a-tag color="red">漏洞相关</a-tag>JeecgBoot 企业级低代码平台 qurestSql SQL注入漏洞 CVE-2023-1454<br/>
+         - <a-tag color="red">漏洞相关</a-tag>KubeOperator kubeconfig 未授权访问漏洞 CVE-2023-22480<br/>
+         - <a-tag color="red">漏洞相关</a-tag>KubePi LoginLogsSearch 未授权访问漏洞 CVE-2023-22478<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
+      2023.4.23
       <p>
          - <a-tag color="red">漏洞相关</a-tag>Metersphere file 任意文件读取漏洞 CVE-2023-25573<br/>
          - <a-tag color="red">漏洞相关</a-tag>MeterSphere customMethod 远程命令执行漏洞<br/>
@@ -17,7 +25,7 @@ title: 更新日志
       </p>
     </a-timeline-item>
     <a-timeline-item>
-      2022.4.15
+      2023.4.15
       <p>
          - <a-tag color="red">漏洞相关</a-tag>瑞友 应用虚拟化系统 GetBSAppUrl SQL注入漏洞<br/>
          - <a-tag color="red">漏洞相关</a-tag>才茂通信 网关  formping 远程命令执行漏洞<br/>
@@ -26,7 +34,7 @@ title: 更新日志
       </p>
     </a-timeline-item>
     <a-timeline-item>
-      2022.4.6
+      2023.4.6
       <p>
          - <a-tag color="red">漏洞相关</a-tag>EasyImage manager.php 后台任意文件上传漏洞<br/>
          - <a-tag color="red">漏洞相关</a-tag>EasyImage down.php 任意文件读取漏洞<br/>
@@ -34,7 +42,7 @@ title: 更新日志
       </p>
     </a-timeline-item>
     <a-timeline-item>
-      2022.3.28
+      2023.3.28
       <p>
          - <a-tag color="red">漏洞相关</a-tag>Alibaba Nacos secret.key默认密钥 未授权访问漏洞<br/>
          - <a-tag color="red">漏洞相关</a-tag>泛微OA E-Cology browser.jsp SQL注入漏洞<br/>
@@ -42,7 +50,7 @@ title: 更新日志
       </p>
     </a-timeline-item>
     <a-timeline-item>
-      2022.3.11
+      2023.3.11
       <p>
          - <a-tag color="red">漏洞相关</a-tag>紫光档案管理系统 upload.html 后台文件上传漏洞<br/>
          - <a-tag color="red">漏洞相关</a-tag>拓尔思 MAS testCommandExecutor.jsp 远程命令执行漏洞<br/>
@@ -55,7 +63,7 @@ title: 更新日志
       </p>
     </a-timeline-item>
     <a-timeline-item>
-      2022.3.8
+      2023.3.8
       <p>
          - <a-tag color="red">漏洞相关</a-tag>Joomla application 未授权访问漏洞 CVE-2023-23752<br/>
          - <a-tag color="red">漏洞相关</a-tag>Panabit iXCache date_config 后台命令执行漏洞<br/>

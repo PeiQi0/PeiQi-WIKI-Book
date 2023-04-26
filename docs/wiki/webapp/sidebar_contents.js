@@ -337,6 +337,13 @@ module.exports = [
 		]
 	},
 	{
+		title: "KubePi",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/KubePi/KubePi LoginLogsSearch 未授权访问漏洞 CVE-2023-22478",
+		]
+	},
+	{
 		title: "MLflow",
 		collapsable: true,
 		children:[
@@ -670,6 +677,13 @@ module.exports = [
 		]
 	},
 	{
+		title: "JeecgBoot",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/JeecgBoot/JeecgBoot 企业级低代码平台 qurestSql SQL注入漏洞 CVE-2023-1454",
+		]
+	},
+	{
 		title: "极通EWEBS",
 		collapsable: true,
 		children:[
@@ -739,6 +753,13 @@ module.exports = [
 		children:[
 			"/wiki/webapp/MeterSphere/MeterSphere customMethod 远程命令执行漏洞",
 			"/wiki/webapp/MeterSphere/Metersphere file 任意文件读取漏洞 CVE-2023-25573",
+		]
+	},
+	{
+		title: "KubeOperator",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/KubeOperator/KubeOperator kubeconfig 未授权访问漏洞 CVE-2023-22480",
 		]
 	},
 	{
