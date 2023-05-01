@@ -48,6 +48,7 @@ module.exports = [
 			"/wiki/webserver/Apache/Apache Flink jobmanager 目录遍历漏洞 CVE-2020-17519",
 			"/wiki/webserver/Apache/Apache Druid LoadData 任意文件读取漏洞 CVE-2021-36749",
 			"/wiki/webserver/Apache/Apache Druid sampler 远程代码执行漏洞 CVE-2021-25646",
+			"/wiki/webserver/Apache/Apache Druid sampler kafka 远程命令执行漏洞",
 			"/wiki/webserver/Apache/Apache OFBiz RMI反序列化漏洞 CVE-2021-26295",
 			"/wiki/webserver/Apache/Apache Log4j2 JNDI 远程命令执行漏洞 CVE-2021-44228",
 			"/wiki/webserver/Apache/Apache HTTPd 换行解析漏洞 CVE-2017-15715",
@@ -68,6 +69,7 @@ module.exports = [
 			"/wiki/webserver/Apache/Apache Struts2 S2-062 远程代码执行漏洞 CVE-2021-31805",		
 			"/wiki/webserver/Apache/Apache SkyWalking graphql SQL注入漏洞 CVE-2020-9483",
 			"/wiki/webserver/Apache/Apache CouchDB epmd 远程命令执行漏洞 CVE-2022-24706",
+			"/wiki/webserver/Apache/Apache Superset SECRET_KEY 未授权访问漏洞 CVE-2023-27524",
 		]
 	},
 	{
