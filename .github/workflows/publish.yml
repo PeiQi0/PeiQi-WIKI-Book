@@ -28,7 +28,7 @@ jobs:
     - run: yarn install
     # - run: sed -i 's/GITHUB_ClientId/${{ secrets.CLIENTID }}/g' docs/.vuepress/config.js
     # - run: sed -i 's/GITHUB_ClientSecret/${{ secrets.CLIENTSECRET }}/g' docs/.vuepress/config.js
-    - run: yarn run build
+    - run: yarn build dev
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
