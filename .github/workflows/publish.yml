@@ -35,4 +35,4 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         user_name: 'WgpSec Continuous Integration' 
         user_email: 'ci@wgpsec.org'  
-        cname: poc.wgpsec.org
+        cname: peiqi.wgpsec.org
