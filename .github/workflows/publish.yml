@@ -22,6 +22,7 @@ jobs:
     - uses: actions/cache@v3
       id: yarn-cache # use this to check for `cache-hit` (`steps.yarn-cache.outputs.cache-hit != 'true'`)
       with:
+        NODE_OPTIONS: "--max_old_space_size=4096"
         path: ${{ steps.yarn-cache-dir-path.outputs.dir }}
         key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
         restore-keys: |
