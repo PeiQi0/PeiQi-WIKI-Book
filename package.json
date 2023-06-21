@@ -5,7 +5,7 @@
   "license": "MIT",
   "scripts": {
     "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "docs:build": "vuepress build docs  --max-concurrency"
   },
   "dependencies": {
     "vuepress-theme-antdocs": "^1.3.5"
