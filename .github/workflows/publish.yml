@@ -35,7 +35,7 @@ jobs:
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
-        publish_dir: ./public
+        publish_dir: ./docs/.vuepress/public
         github_token: ${{ secrets.GITHUB_TOKEN }}
         user_name: 'WgpSec Continuous Integration' 
         user_email: 'ci@wgpsec.org'  
