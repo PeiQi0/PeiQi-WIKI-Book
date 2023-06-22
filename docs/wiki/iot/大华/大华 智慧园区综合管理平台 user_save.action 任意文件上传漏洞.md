@@ -22,7 +22,7 @@
 
 ```javascript
 POST /admin/user_save.action HTTP/1.1
-Host: 58.57.20.54:8443
+Host: 
 Accept-Encoding: gzip
 Content-Length: 914
 Content-Type: multipart/form-data; boundary=----fxwrpqcy
