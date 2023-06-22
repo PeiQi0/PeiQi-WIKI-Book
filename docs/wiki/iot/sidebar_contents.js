@@ -423,6 +423,8 @@ module.exports = [
 			"/wiki/iot/HIKVISION/HIKVISION 流媒体管理服务器 user.xml 账号密码泄漏漏洞",
 			"/wiki/iot/HIKVISION/HIKVISION 流媒体管理服务器 后台任意文件读取漏洞 CNVD-2021-14544",
 			"/wiki/iot/HIKVISION/HIKVISION 综合安防管理平台 applyCT Fastjson远程命令执行漏洞",
+			"/wiki/iot/HIKVISION/HIKVISION iVMS-8700综合安防管理平台 download 任意文件下载漏洞",
+			"/wiki/iot/HIKVISION/HIKVISION iVMS-8700综合安防管理平台 upload.action 任意文件上传",
 		]
 	},
 	{

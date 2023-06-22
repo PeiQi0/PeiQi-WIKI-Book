@@ -9,6 +9,23 @@ title: 更新日志
 <template>
   <a-timeline>
     <a-timeline-item>
+      2023.6.22
+      <p>
+         - <a-tag color="red">漏洞相关</a-tag>用友 畅捷通T+ GetStoreWarehouseByStore 远程命令执行漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>HIKVISION iVMS-8700综合安防管理平台 download 任意文件下载漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>HIKVISION iVMS-8700综合安防管理平台 upload.action 任意文件上传<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
+      2023.6.6
+      <p>
+         - <a-tag color="red">漏洞相关</a-tag>宏景 HCM codesettree SQL注入漏洞 CNVD-2023-08743<br/>
+         - <a-tag color="red">漏洞相关</a-tag>大华 智慧园区综合管理平台 user_save.action 任意文件上传漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>nginxWebUI runCmd 远程命令执行漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>霆智科技 VA虚拟应用平台 任意文件读取漏洞<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
       2023.5.1
       <p>
          - <a-tag color="red">漏洞相关</a-tag>Apache Superset SECRET_KEY 未授权访问漏洞 CVE-2023-27524<br/>
