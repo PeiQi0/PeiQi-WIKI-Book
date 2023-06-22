@@ -24,5 +24,9 @@ jobs:
         key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
         restore-keys: |
           ${{ runner.os }}-yarn-
+    - run: yarn add vuepress-theme-antdocs -d
     - run: yarn install
-    - run: yarn run build
+    - run: export NODE_OPTIONS=--max_old_space_size=8193
+    # - run: sed -i 's/GITHUB_ClientId/${{ secrets.CLIENTID }}/g' docs/.vuepress/config.js
+    # - run: sed -i 's/GITHUB_ClientSecret/${{ secrets.CLIENTSECRET }}/g' docs/.vuepress/config.js
+    - run: yarn docs:build
