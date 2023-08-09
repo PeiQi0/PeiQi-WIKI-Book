@@ -56,10 +56,12 @@ module.exports = [
 			"/wiki/oa/用友OA/用友 U8 OA test.jsp SQL注入漏洞",
 			"/wiki/oa/用友OA/用友 NC NCFindWeb 任意文件读取漏洞",
 			"/wiki/oa/用友OA/用友 NC bsh.servlet.BshServlet 远程命令执行漏洞",
+			"/wiki/oa/用友OA/用友 NC Cloud jsinvoke 任意文件上传漏洞",
 			"/wiki/oa/用友OA/用友 NCCloud FS文件管理SQL注入",
 			"/wiki/oa/用友OA/用友 GRP-U8 Proxy SQL注入 CNNVD-201610-923",
 			"/wiki/oa/用友OA/用友 GRP-U8 UploadFileData 任意文件上传漏洞",
 			"/wiki/oa/用友OA/用友 ERP-NC NCFindWeb 目录遍历漏洞",
+			"/wiki/oa/用友OA/用友 移动管理系统 uploadApk.do 任意文件上传漏洞",
 		]
 	},
 	{

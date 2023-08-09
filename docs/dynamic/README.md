@@ -9,6 +9,27 @@ title: 更新日志
 <template>
   <a-timeline>
     <a-timeline-item>
+      2023.8.9
+      <p>
+         - <a-tag color="red">漏洞相关</a-tag>HiKVISION 综合安防管理平台 files 任意文件上传漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>HiKVISION 综合安防管理平台 report 任意文件上传漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>用友 移动管理系统 uploadApk.do 任意文件上传漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>用友 NC Cloud jsinvoke 任意文件上传漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>辰信领创 辰信景云终端安全管理系统 login SQL注入漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>汉得SRM tomcat.jsp 登陆绕过漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>深信服 应用交付管理系统 login 远程命令执行漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>网神 SecGate 3600 防火墙 obj_app_upfile 任意文件上传漏洞<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
+      2023.6.29
+      <p>
+         - <a-tag color="red">漏洞相关</a-tag>金蝶OA 云星空 kdsvc 远程命令执行漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>网神 SecSSL 3600安全接入网关系统 未授权访问漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>HIKVISION iVMS-8700综合安防管理平台 upload.action 任意文件上传<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
       2023.6.22
       <p>
          - <a-tag color="red">漏洞相关</a-tag>用友 畅捷通T+ GetStoreWarehouseByStore 远程命令执行漏洞<br/>

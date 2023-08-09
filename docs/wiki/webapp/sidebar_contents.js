@@ -71,6 +71,13 @@ module.exports = [
 		]
 	},
 	{
+		title: "汉得",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/汉得/汉得SRM tomcat.jsp 登陆绕过漏洞",
+		]
+	},
+	{
 		title: "亿邮",
 		collapsable: true,
 		children:[
@@ -199,6 +206,7 @@ module.exports = [
 		collapsable: true,
 		children:[
 			"/wiki/webapp/深信服/深信服 应用交付管理系统 sys_user.conf 账号密码泄漏漏洞",
+			"/wiki/webapp/深信服/深信服 应用交付管理系统 login 远程命令执行漏洞",
 			"/wiki/webapp/深信服/深信服 应用交付报表系统 download.php 任意文件读取漏洞",
 			"/wiki/webapp/深信服/深信服 行为感知系统 c.php 远程命令执行漏洞",
 			"/wiki/webapp/深信服/深信服 日志中心 c.php 远程命令执行漏洞",
@@ -452,6 +460,13 @@ module.exports = [
 		collapsable: true,
 		children:[
 			"/wiki/webapp/中科网威/中科网威 NPFW防火墙 CommandsPolling.php 任意文件读取漏洞",
+		]
+	},
+	{
+		title: "辰信领创",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/辰信领创/辰信领创 辰信景云终端安全管理系统 login SQL注入漏洞",
 		]
 	},
 	{

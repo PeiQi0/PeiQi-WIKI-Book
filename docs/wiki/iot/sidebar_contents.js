@@ -252,6 +252,7 @@ module.exports = [
 			"/wiki/iot/奇安信/网康 下一代防火墙 HeartBeat.php 远程命令执行漏洞",
 			"/wiki/iot/奇安信/网康 NS-ASG安全网关 index.php 远程命令执行漏洞",
 			"/wiki/iot/奇安信/网神 SecIPS 3600 debug_info_export 任意文件下载漏洞",
+			"/wiki/iot/奇安信/网神 SecGate 3600 防火墙 obj_app_upfile 任意文件上传漏洞",
 		]
 	},
 	{
@@ -423,8 +424,11 @@ module.exports = [
 			"/wiki/iot/HIKVISION/HIKVISION 流媒体管理服务器 user.xml 账号密码泄漏漏洞",
 			"/wiki/iot/HIKVISION/HIKVISION 流媒体管理服务器 后台任意文件读取漏洞 CNVD-2021-14544",
 			"/wiki/iot/HIKVISION/HIKVISION 综合安防管理平台 applyCT Fastjson远程命令执行漏洞",
+			"/wiki/iot/HIKVISION/HiKVISION 综合安防管理平台 files 任意文件上传漏洞",
+			"/wiki/iot/HIKVISION/HiKVISION 综合安防管理平台 report 任意文件上传漏洞",
 			"/wiki/iot/HIKVISION/HIKVISION iVMS-8700综合安防管理平台 download 任意文件下载漏洞",
 			"/wiki/iot/HIKVISION/HIKVISION iVMS-8700综合安防管理平台 upload.action 任意文件上传",
+
 		]
 	},
 	{
