@@ -10,7 +10,7 @@
 
 ## 网络测绘
 
-<a-checkbox checked>body="'/needUsbkey.php?username='"</a-checkbox></br>
+body="'/needUsbkey.php?username='"</a-checkbox></br>
 
 ## 漏洞复现
 

