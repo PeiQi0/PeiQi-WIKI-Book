@@ -10,9 +10,9 @@ HiKVISION 综合安防管理平台
 
 ## 网络测绘
 
-app="HIKVISION-综合安防管理平台" 
+<a-checkbox checked>app="HIKVISION-综合安防管理平台" </a-checkbox></br>
 
-web.title=="综合安防管理平台"  
+<a-checkbox checked>web.title=="综合安防管理平台"  </a-checkbox></br>
 
 ## 漏洞复现
 

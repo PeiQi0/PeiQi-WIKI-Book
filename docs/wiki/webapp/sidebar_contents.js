@@ -128,6 +128,9 @@ module.exports = [
 		children:[
 			"/wiki/webapp/绿盟/绿盟 UTS综合威胁探针 信息泄露登陆绕过漏洞",
 			"/wiki/webapp/绿盟/绿盟 BAS日志数据安全性分析系统 accountmanage 未授权访问漏洞",
+			"/wiki/webapp/绿盟/绿盟 SAS堡垒机 local_user.php 任意用户登录漏洞",
+			"/wiki/webapp/绿盟/绿盟 SAS堡垒机 GetFile 任意文件读取漏洞",
+			"/wiki/webapp/绿盟/绿盟 SAS堡垒机 Exec 远程命令执行漏洞",
 		]
 	},
 	{

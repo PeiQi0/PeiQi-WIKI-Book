@@ -47,6 +47,7 @@ module.exports = [
 		collapsable: true,
 		children:[
 			"/wiki/iot/安恒/安恒 明御WEB应用防火墙 report.php 任意用户登录漏洞",
+			"/wiki/iot/安恒/安恒 明御运维审计与风险控制系统 xmlrpc.sock 任意用户添加漏洞",
 		]
 	},
 	{
@@ -70,6 +71,7 @@ module.exports = [
 			"/wiki/iot/锐捷/锐捷 Smartweb管理系统 密码信息泄露漏洞",
 			"/wiki/iot/锐捷/锐捷 RG-UAC 账号密码信息泄露 CNVD-2021-14536",
 			"/wiki/iot/锐捷/锐捷 NBR 路由器 guestIsUp.php 远程命令执行漏洞 CNVD-2021-09650",
+			"/wiki/iot/锐捷/锐捷 NBR 路由器 fileupload.php 任意文件上传漏洞",
 			"/wiki/iot/锐捷/锐捷 NBR 1300G路由器 越权CLI命令执行漏洞",
 			"/wiki/iot/锐捷/锐捷 EG易网关 login.php 管理员账号密码泄露漏洞",
 			"/wiki/iot/锐捷/锐捷 EG易网关 phpinfo.view.php 信息泄露漏洞",
@@ -426,6 +428,7 @@ module.exports = [
 			"/wiki/iot/HIKVISION/HIKVISION 综合安防管理平台 applyCT Fastjson远程命令执行漏洞",
 			"/wiki/iot/HIKVISION/HiKVISION 综合安防管理平台 files 任意文件上传漏洞",
 			"/wiki/iot/HIKVISION/HiKVISION 综合安防管理平台 report 任意文件上传漏洞",
+			"/wiki/iot/HIKVISION/HiKVISION 综合安防管理平台 env 信息泄漏漏洞",
 			"/wiki/iot/HIKVISION/HIKVISION iVMS-8700综合安防管理平台 download 任意文件下载漏洞",
 			"/wiki/iot/HIKVISION/HIKVISION iVMS-8700综合安防管理平台 upload.action 任意文件上传",
 
