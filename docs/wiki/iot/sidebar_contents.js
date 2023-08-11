@@ -255,6 +255,7 @@ module.exports = [
 			"/wiki/iot/奇安信/网康 NS-ASG安全网关 index.php 远程命令执行漏洞",
 			"/wiki/iot/奇安信/网神 SecIPS 3600 debug_info_export 任意文件下载漏洞",
 			"/wiki/iot/奇安信/网神 SecGate 3600 防火墙 obj_app_upfile 任意文件上传漏洞",
+			"/wiki/iot/奇安信/网御 ACM上网行为管理系统 bottomframe.cgi SQL注入漏洞",
 		]
 	},
 	{
@@ -406,6 +407,13 @@ module.exports = [
 		collapsable: true,
 		children:[
 			"/wiki/iot/MagicFlow/MagicFlow 防火墙网关 main.xp 任意文件读取漏洞",
+		]
+	},
+	{
+		title: "Milesight",
+		collapsable: true,
+		children:[
+			"/wiki/iot/Milesight/Milesight VPN server.js 任意文件读取漏洞",
 		]
 	},
 	{

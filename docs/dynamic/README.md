@@ -9,6 +9,18 @@ title: 更新日志
 <template>
   <a-timeline>
     <a-timeline-item>
+      2023.8.11
+      <p>
+         - <a-tag color="red">漏洞相关</a-tag>Milesight VPN server.js 任意文件读取漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>PigCMS action_flashUpload 任意文件上传漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>网御 ACM上网行为管理系统 bottomframe.cgi SQL注入漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>绿盟 NF下一代防火墙 任意文件上传漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>金盘 微信管理平台 getsysteminfo 未授权访问漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>1Panel loadfile 后台文件读取漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>广联达 Linkworks GetIMDictionary SQL注入漏洞<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
       2023.8.10
       <p>
          - <a-tag color="red">漏洞相关</a-tag>绿盟 SAS堡垒机 local_user.php 任意用户登录漏洞<br/>

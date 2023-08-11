@@ -56,6 +56,13 @@ module.exports = [
 		]
 	},
 	{
+		title: "PigCMS",
+		collapsable: true,
+		children:[
+			"/wiki/cms/PigCMS/PigCMS action_flashUpload 任意文件上传漏洞",
+		]
+	},
+	{
 		title: "Pd-CMS",
 		collapsable: true,
 		children:[

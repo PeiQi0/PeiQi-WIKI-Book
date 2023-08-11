@@ -71,6 +71,13 @@ module.exports = [
 		]
 	},
 	{
+		title: "金盘",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/金盘/金盘 微信管理平台 getsysteminfo 未授权访问漏洞",
+		]
+	},
+	{
 		title: "汉得",
 		collapsable: true,
 		children:[
@@ -131,6 +138,7 @@ module.exports = [
 			"/wiki/webapp/绿盟/绿盟 SAS堡垒机 local_user.php 任意用户登录漏洞",
 			"/wiki/webapp/绿盟/绿盟 SAS堡垒机 GetFile 任意文件读取漏洞",
 			"/wiki/webapp/绿盟/绿盟 SAS堡垒机 Exec 远程命令执行漏洞",
+			"/wiki/webapp/绿盟/绿盟 NF下一代防火墙 任意文件上传漏洞",
 		]
 	},
 	{
@@ -197,6 +205,13 @@ module.exports = [
 		]
 	},
 	{
+		title: "1Panel",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/1Panel/1Panel loadfile 后台文件读取漏洞",
+		]
+	},
+	{
 		title: "GitLab",
 		collapsable: true,
 		children:[
@@ -213,6 +228,13 @@ module.exports = [
 			"/wiki/webapp/深信服/深信服 应用交付报表系统 download.php 任意文件读取漏洞",
 			"/wiki/webapp/深信服/深信服 行为感知系统 c.php 远程命令执行漏洞",
 			"/wiki/webapp/深信服/深信服 日志中心 c.php 远程命令执行漏洞",
+		]
+	},
+	{
+		title: "广联达",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/广联达/广联达 Linkworks GetIMDictionary SQL注入漏洞",
 		]
 	},
 	{
