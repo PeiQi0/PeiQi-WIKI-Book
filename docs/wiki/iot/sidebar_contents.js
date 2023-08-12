@@ -77,7 +77,8 @@ module.exports = [
 			"/wiki/iot/锐捷/锐捷 EG易网关 phpinfo.view.php 信息泄露漏洞",
 			"/wiki/iot/锐捷/锐捷 EG易网关 download.php 任意文件读取漏洞",
 			"/wiki/iot/锐捷/锐捷 EG易网关 cli.php 远程命令执行漏洞",
-			"/wiki/iot/锐捷/锐捷 EG易网关 branch_passw.php 远程命令执行"
+			"/wiki/iot/锐捷/锐捷 EG易网关 branch_passw.php 远程命令执行",
+			"/wiki/iot/锐捷/锐捷 BCR商业无线云网关 后台命令执行漏洞"
 		]
 	},
 	{

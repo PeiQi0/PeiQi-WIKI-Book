@@ -235,6 +235,7 @@ module.exports = [
 		collapsable: true,
 		children:[
 			"/wiki/webapp/广联达/广联达 Linkworks GetIMDictionary SQL注入漏洞",
+			"/wiki/webapp/广联达/广联达 Linkworks msgbroadcastuploadfile.aspx 后台文件上传漏洞",
 		]
 	},
 	{

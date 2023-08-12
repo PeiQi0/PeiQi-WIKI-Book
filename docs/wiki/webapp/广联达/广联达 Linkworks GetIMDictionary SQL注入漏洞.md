@@ -18,6 +18,36 @@
 
 ![img](../../../.vuepress/public/img/1691730736125-bbb199fa-01fb-4790-b2a7-d813481d8d88.png)
 
+```c
+// GTP.IM.Services.Config.WebSite.WebService.IM.Config.ConfigService
+// Token: 0x06000018 RID: 24 RVA: 0x00004148 File Offset: 0x00002348
+[WebMethod(Description = "得到IM系统配置")]
+public string GetIMDictionary(string key)
+{
+	string str = string.Empty;
+	ISysConfigService service = ServiceFactory.GetService<ISysConfigService>();
+	StringBuilder stringBuilder = new StringBuilder();
+	stringBuilder.AppendFormat("select F_VALUE from T_IM_DICTIONARY where f_key='{0}';", key);
+	DataSet dataSet = GSqlDataAccess.SelectDataSet(service.DataSourceName, stringBuilder.ToString(), new DataParameter[0]);
+	if (dataSet != null && dataSet.Tables.Count > 0 && dataSet.Tables[0] != null)
+	{
+		foreach (object obj in dataSet.Tables[0].Rows)
+		{
+			DataRow dataRow = (DataRow)obj;
+			str = dataRow["F_VALUE"].ToString();
+		}
+	}
+	StringBuilder stringBuilder2 = new StringBuilder();
+	stringBuilder2.Append("<?xml version=\"1.0\" encoding=\"utf-8\"?>");
+	stringBuilder2.Append("<result  value=\"" + str + "\" >");
+	stringBuilder2.Append("</result>");
+	return stringBuilder2.ToString();
+}
+
+```
+
+![image.png](../../../.vuepress/public/img/1691802569740-77f284a9-b794-4a09-a5fb-1191f5d1ae60.png)
+
 验证POC
 
 ```php

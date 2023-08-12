@@ -9,6 +9,17 @@ title: 更新日志
 <template>
   <a-timeline>
     <a-timeline-item>
+      2023.8.12
+      <p>
+         - <a-tag color="red">漏洞相关</a-tag>广联达 Linkworks msgbroadcastuploadfile.aspx 后台文件上传漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>广联达 Linkworks GetIMDictionary SQL注入漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>泛微OA E-Office uploadify 任意文件上传漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>锐捷 BCR商业无线云网关 后台命令执行漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>用友 U8 CRM客户关系管理系统 getemaildata.php 任意文件读取漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>用友 U8 CRM客户关系管理系统 getemaildata.php 任意文件上传漏洞<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
       2023.8.11
       <p>
          - <a-tag color="red">漏洞相关</a-tag>Milesight VPN server.js 任意文件读取漏洞<br/>
@@ -17,7 +28,6 @@ title: 更新日志
          - <a-tag color="red">漏洞相关</a-tag>绿盟 NF下一代防火墙 任意文件上传漏洞<br/>
          - <a-tag color="red">漏洞相关</a-tag>金盘 微信管理平台 getsysteminfo 未授权访问漏洞<br/>
          - <a-tag color="red">漏洞相关</a-tag>1Panel loadfile 后台文件读取漏洞<br/>
-         - <a-tag color="red">漏洞相关</a-tag>广联达 Linkworks GetIMDictionary SQL注入漏洞<br/>
       </p>
     </a-timeline-item>
     <a-timeline-item>

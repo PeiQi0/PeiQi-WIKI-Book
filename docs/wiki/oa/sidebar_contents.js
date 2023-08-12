@@ -62,6 +62,9 @@ module.exports = [
 			"/wiki/oa/用友OA/用友 GRP-U8 UploadFileData 任意文件上传漏洞",
 			"/wiki/oa/用友OA/用友 ERP-NC NCFindWeb 目录遍历漏洞",
 			"/wiki/oa/用友OA/用友 移动管理系统 uploadApk.do 任意文件上传漏洞",
+			"/wiki/oa/用友OA/用友 ERP-NC NCFindWeb 目录遍历漏洞",
+			"/wiki/oa/用友OA/用友 U8 CRM客户关系管理系统 getemaildata.php 任意文件读取漏洞",
+			"/wiki/oa/用友OA/用友 U8 CRM客户关系管理系统 getemaildata.php 任意文件上传漏洞",
 		]
 	},
 	{
@@ -89,6 +92,7 @@ module.exports = [
 			"/wiki/oa/泛微OA/泛微OA E-Office UserSelect 未授权访问漏洞",
 			"/wiki/oa/泛微OA/泛微OA E-Office mysql_config.ini 数据库信息泄漏漏洞",
 			"/wiki/oa/泛微OA/泛微OA E-Bridge saveYZJFile 任意文件读取漏洞",
+			"/wiki/oa/泛微OA/泛微OA E-Office uploadify 任意文件上传漏洞",
 		]
 	},
 	{
