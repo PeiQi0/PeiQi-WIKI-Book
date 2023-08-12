@@ -9,6 +9,16 @@ title: 更新日志
 <template>
   <a-timeline>
     <a-timeline-item>
+      2023.8.13
+      <p>
+         - <a-tag color="red">漏洞相关</a-tag>腾讯 企业微信 agentinfo 信息泄漏漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>大华 智慧园区综合管理平台 video 任意文件上传漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>大华 智慧园区综合管理平台 getFaceCapture SQL注入漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>任我行 CRM SmsDataList SQL注入漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>企望制造 ERP comboxstore.action 远程命令执行漏洞<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
       2023.8.12
       <p>
          - <a-tag color="red">漏洞相关</a-tag>广联达 Linkworks msgbroadcastuploadfile.aspx 后台文件上传漏洞<br/>

@@ -62,6 +62,9 @@ module.exports = [
 		collapsable: true,
 		children:[
 			"/wiki/iot/大华/大华 城市安防监控系统平台管理 attachment_downloadByUrlAtt.action 任意文件下载漏洞",
+			"/wiki/iot/大华/大华 智慧园区综合管理平台 video 任意文件上传漏洞",
+			"/wiki/iot/大华/大华 智慧园区综合管理平台 getFaceCapture SQL注入漏洞",
+			"/wiki/iot/大华/大华 智慧园区综合管理平台 user_save.action 任意文件上传漏洞",
 		]
 	},
 	{

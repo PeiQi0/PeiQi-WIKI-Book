@@ -32,6 +32,13 @@ module.exports = [
 		]
 	},
 	{
+		title: "企望",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/企望/企望制造 ERP comboxstore.action 远程命令执行漏洞",
+		]
+	},
+	{
 		title: "三汇",
 		collapsable: true,
 		children:[
@@ -105,6 +112,13 @@ module.exports = [
 		collapsable: true,
 		children:[
 			"/wiki/webapp/安天/安天 高级可持续威胁安全检测系统 越权访问漏洞",
+		]
+	},
+	{
+		title: "腾讯",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/腾讯/腾讯 企业微信 agentinfo 信息泄漏漏洞",
 		]
 	},
 	{
@@ -243,6 +257,13 @@ module.exports = [
 		collapsable: true,
 		children:[
 			"/wiki/webapp/七牛云/七牛云 logkit log_path 任意文件读取漏洞",
+		]
+	},
+	{
+		title: "任我行",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/任我行/任我行 CRM SmsDataList SQL注入漏洞",
 		]
 	},
 	{
