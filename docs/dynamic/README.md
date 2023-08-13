@@ -9,6 +9,14 @@ title: 更新日志
 <template>
   <a-timeline>
     <a-timeline-item>
+      2023.8.14
+      <p>
+         - <a-tag color="red">漏洞相关</a-tag>Metabase validate 远程命令执行漏洞 CVE-2023-38646<br/>
+         - <a-tag color="red">漏洞相关</a-tag>飞企互联 FE业务协作平台 ShowImageServlet 任意文件读取漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>KubePi JwtSigKey 登陆绕过漏洞 CVE-2023-22463<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
       2023.8.13
       <p>
          - <a-tag color="red">漏洞相关</a-tag>腾讯 企业微信 agentinfo 信息泄漏漏洞<br/>

@@ -397,6 +397,7 @@ module.exports = [
 		collapsable: true,
 		children:[
 			"/wiki/webapp/KubePi/KubePi LoginLogsSearch 未授权访问漏洞 CVE-2023-22478",
+			"/wiki/webapp/KubePi/KubePi JwtSigKey 登陆绕过漏洞 CVE-2023-22463",
 		]
 	},
 	{
@@ -517,6 +518,13 @@ module.exports = [
 		]
 	},
 	{
+		title: "飞企互联",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/飞企互联/飞企互联 FE业务协作平台 ShowImageServlet 任意文件读取漏洞",
+		]
+	},
+	{
 		title: "中创视迅",
 		collapsable: true,
 		children:[
@@ -626,6 +634,7 @@ module.exports = [
 		collapsable: true,
 		children:[
 			"/wiki/webapp/Metabase/Metabase geojson 任意文件读取漏洞 CVE-2021-41277",
+			"/wiki/webapp/Metabase/Metabase validate 远程命令执行漏洞 CVE-2023-38646",
 		]
 	},
 	{
