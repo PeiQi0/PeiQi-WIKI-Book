@@ -65,6 +65,7 @@ module.exports = [
 			"/wiki/iot/大华/大华 智慧园区综合管理平台 video 任意文件上传漏洞",
 			"/wiki/iot/大华/大华 智慧园区综合管理平台 getFaceCapture SQL注入漏洞",
 			"/wiki/iot/大华/大华 智慧园区综合管理平台 user_save.action 任意文件上传漏洞",
+			"/wiki/iot/大华/大华 智慧园区综合管理平台 user_getUserInfoByUserName.action 账号密码泄漏漏洞",
 		]
 	},
 	{
@@ -360,6 +361,13 @@ module.exports = [
 		collapsable: true,
 		children:[
 			"/wiki/iot/通力电梯/KONE 通力电梯管理系统 app_show_log_lines.php 任意文件读取漏洞",
+		]
+	},
+	{
+		title: "启明星辰",
+		collapsable: true,
+		children:[
+			"/wiki/iot/启明星辰/启明星辰 4A统一安全管控平台 getMaster.do 信息泄漏漏洞",
 		]
 	},
 	{

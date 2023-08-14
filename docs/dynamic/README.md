@@ -11,6 +11,8 @@ title: 更新日志
     <a-timeline-item>
       2023.8.14
       <p>
+         - <a-tag color="red">漏洞相关</a-tag>启明星辰 4A统一安全管控平台 getMaster.do 信息泄漏漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>大华 智慧园区综合管理平台 user_getUserInfoByUserName.action 账号密码泄漏漏洞<br/>
          - <a-tag color="red">漏洞相关</a-tag>Metabase validate 远程命令执行漏洞 CVE-2023-38646<br/>
          - <a-tag color="red">漏洞相关</a-tag>飞企互联 FE业务协作平台 ShowImageServlet 任意文件读取漏洞<br/>
          - <a-tag color="red">漏洞相关</a-tag>KubePi JwtSigKey 登陆绕过漏洞 CVE-2023-22463<br/>
