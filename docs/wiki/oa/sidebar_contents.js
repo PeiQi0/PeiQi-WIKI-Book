@@ -100,6 +100,7 @@ module.exports = [
 		collapsable: true,
 		children:[
 			"/wiki/oa/致远OA/致远OA 帆软组件 ReportServer 目录遍历漏洞",
+			"/wiki/oa/致远OA/致远OA M1Server userTokenService 远程命令执行漏洞",
 			"/wiki/oa/致远OA/致远OA wpsAssistServlet 任意文件上传漏洞",
 			"/wiki/oa/致远OA/致远OA webmail.do 任意文件下载 CNVD-2020-62422",
 			"/wiki/oa/致远OA/致远OA getSessionList.jsp Session泄漏漏洞",
@@ -131,6 +132,7 @@ module.exports = [
 		children:[
 			"/wiki/oa/帆软OA/帆软报表 V8 get_geo_json 任意文件读取漏洞 CNVD-2018-04757",
 			"/wiki/oa/帆软OA/帆软报表 V9 design_save_svg 任意文件覆盖文件上传",
+			"/wiki/oa/帆软OA/帆软报表 channel 远程命令执行漏洞",
 		]
 	},
 	{
@@ -145,6 +147,8 @@ module.exports = [
 		collapsable: true,
 		children:[
 			"/wiki/oa/金蝶OA/金蝶OA Apusic应用服务器-中间件 server_file 目录遍历漏洞",
+			"/wiki/oa/金蝶OA/金蝶OA 云星空 kdsvc 远程命令执行漏洞",
+			"/wiki/oa/金蝶OA/金蝶OA 云星空 CommonFileServer 任意文件读取漏洞",
 			"/wiki/oa/金蝶OA/金蝶OA server_file 目录遍历漏洞",
 		]
 	},

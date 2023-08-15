@@ -48,6 +48,7 @@ module.exports = [
 		children:[
 			"/wiki/iot/安恒/安恒 明御WEB应用防火墙 report.php 任意用户登录漏洞",
 			"/wiki/iot/安恒/安恒 明御运维审计与风险控制系统 xmlrpc.sock 任意用户添加漏洞",
+			"/wiki/iot/安恒/安恒 明御安全网关 aaa_portal_auth_local_submit 远程命令执行漏洞",
 		]
 	},
 	{

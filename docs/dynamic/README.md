@@ -9,6 +9,19 @@ title: 更新日志
 <template>
   <a-timeline>
     <a-timeline-item>
+      2023.8.15
+      <p>
+         - <a-tag color="red">漏洞相关</a-tag>明源云 ERP系统 接口管家 ApiUpdate.ashx 任意文件上传漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>新开普 前置服务管理平台 service.action 远程命令执行漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>致远OA M1Server userTokenService 远程命令执行漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>金蝶OA 云星空 CommonFileServer 任意文件读取漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>OfficeWeb365 SaveDraw 任意文件上传漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>深信服 DC数据中心管理系统 sangforindex XML实体注入漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>安恒 明御安全网关 aaa_portal_auth_local_submit 远程命令执行漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>帆软报表 channel 远程命令执行漏洞<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
       2023.8.14
       <p>
          - <a-tag color="red">漏洞相关</a-tag>启明星辰 4A统一安全管控平台 getMaster.do 信息泄漏漏洞<br/>
