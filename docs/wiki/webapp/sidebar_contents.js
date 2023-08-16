@@ -261,6 +261,13 @@ module.exports = [
 		]
 	},
 	{
+		title: "亿赛通",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/亿赛通/亿赛通 电子文档安全管理系统 UploadFileFromClientServiceForClient 任意文件上传漏洞",
+		]
+	},
+	{
 		title: "任我行",
 		collapsable: true,
 		children:[
@@ -428,6 +435,13 @@ module.exports = [
 		children:[
 			"/wiki/webapp/Crawlab/Crawlab file 任意文件读取漏洞",
 			"/wiki/webapp/Crawlab/Crawlab users 任意用户添加漏洞",
+		]
+	},
+	{
+		title: "LiveBOS",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/LiveBOS/LiveBOS ShowImage.do 任意文件读取漏洞",
 		]
 	},
 	{

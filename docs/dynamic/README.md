@@ -9,6 +9,14 @@ title: 更新日志
 <template>
   <a-timeline>
     <a-timeline-item>
+      2023.8.16
+      <p>
+         - <a-tag color="red">漏洞相关</a-tag>深信服 SG上网优化管理系统 catjs.php 任意文件读取漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>亿赛通 电子文档安全管理系统 UploadFileFromClientServiceForClient 任意文件上传漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>LiveBOS ShowImage.do 任意文件读取漏洞<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
       2023.8.15
       <p>
          - <a-tag color="red">漏洞相关</a-tag>明源云 ERP系统 接口管家 ApiUpdate.ashx 任意文件上传漏洞<br/>
