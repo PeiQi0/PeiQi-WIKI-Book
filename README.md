@@ -1,6 +1,6 @@
  
 
-![PeiQi-WIKI-Book](https://socialify.git.ci/PeiQi0/PeiQi-WIKI-Book/image?description=1&font=Bitter&forks=1&issues=1&logo=http%3A%2F%2Fpeiqi-wiki-exp.oss-cn-beijing.aliyuncs.com%2Fhome.png&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
+![PeiQi-WIKI-Book](https://socialify.git.ci/PeiQi0/PeiQi-WIKI-Book/image?description=1&font=KoHo&forks=1&issues=1&language=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
 
 ## 0x01 关于文库
 
