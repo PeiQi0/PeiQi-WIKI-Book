@@ -52,6 +52,7 @@ module.exports = [
 		collapsable: true,
 		children:[
 			"/wiki/oa/用友OA/用友 FE协作办公平台 templateOfTaohong_manager.jsp 目录遍历漏洞",
+			"/wiki/oa/用友OA/用友 U8 cloud upload.jsp 任意文件上传漏洞",
 			"/wiki/oa/用友OA/用友 U8 OA getSessionList.jsp 敏感信息泄漏漏洞",
 			"/wiki/oa/用友OA/用友 U8 OA test.jsp SQL注入漏洞",
 			"/wiki/oa/用友OA/用友 NC NCFindWeb 任意文件读取漏洞",
@@ -124,6 +125,7 @@ module.exports = [
 			"/wiki/oa/蓝凌OA/蓝凌OA kmImeetingRes.do 后台SQL注入漏洞 CNVD-2021-01363",
 			"/wiki/oa/蓝凌OA/蓝凌OA custom.jsp 任意文件读取漏洞",
 			"/wiki/oa/蓝凌OA/蓝凌OA treexml.tmpl 远程命令执行漏洞",
+			"/wiki/oa/蓝凌OA/蓝凌EIS 智慧协同平台 api.aspx 任意文件上传漏洞",
 		]
 	},
 	{
@@ -150,6 +152,8 @@ module.exports = [
 			"/wiki/oa/金蝶OA/金蝶OA 云星空 kdsvc 远程命令执行漏洞",
 			"/wiki/oa/金蝶OA/金蝶OA 云星空 CommonFileServer 任意文件读取漏洞",
 			"/wiki/oa/金蝶OA/金蝶OA server_file 目录遍历漏洞",
+			"/wiki/oa/金蝶OA/金蝶OA 云星空 ScpSupRegHandler 任意文件上传漏洞",
+			"/wiki/oa/金蝶OA/金蝶OA EAS系统 uploadLogo.action 任意文件上传漏洞",
 		]
 	},
 	{

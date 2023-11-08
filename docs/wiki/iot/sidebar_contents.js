@@ -67,6 +67,7 @@ module.exports = [
 			"/wiki/iot/大华/大华 智慧园区综合管理平台 getFaceCapture SQL注入漏洞",
 			"/wiki/iot/大华/大华 智慧园区综合管理平台 user_save.action 任意文件上传漏洞",
 			"/wiki/iot/大华/大华 智慧园区综合管理平台 user_getUserInfoByUserName.action 账号密码泄漏漏洞",
+			"/wiki/iot/大华/大华 ICC智能物联综合管理平台 readPic 任意文件读取漏洞",
 		]
 	},
 	{
@@ -83,7 +84,8 @@ module.exports = [
 			"/wiki/iot/锐捷/锐捷 EG易网关 download.php 任意文件读取漏洞",
 			"/wiki/iot/锐捷/锐捷 EG易网关 cli.php 远程命令执行漏洞",
 			"/wiki/iot/锐捷/锐捷 EG易网关 branch_passw.php 远程命令执行",
-			"/wiki/iot/锐捷/锐捷 BCR商业无线云网关 后台命令执行漏洞"
+			"/wiki/iot/锐捷/锐捷 BCR商业无线云网关 后台命令执行漏洞",
+			"/wiki/iot/锐捷/锐捷 校园网自助服务系统 login_judge.jsf 任意文件读取漏洞"
 		]
 	},
 	{
@@ -254,6 +256,13 @@ module.exports = [
 		]
 	},
 	{
+		title: "思福迪",
+		collapsable: true,
+		children:[
+			"/wiki/iot/思福迪/思福迪 运维安全管理系统 test_qrcode_b 远程命令执行漏洞",
+		]
+	},
+	{
 		title: "奇安信",
 		collapsable: true,
 		children:[
@@ -365,6 +374,13 @@ module.exports = [
 		]
 	},
 	{
+		title: "百为通达",
+		collapsable: true,
+		children:[
+			"/wiki/iot/百为通达/百为通达 智能流控路由器 open 远程命令执行漏洞",
+		]
+	},
+	{
 		title: "启明星辰",
 		collapsable: true,
 		children:[
@@ -376,6 +392,14 @@ module.exports = [
 		collapsable: true,
 		children:[
 			"/wiki/iot/蜂网互联/蜂网互联 企业级路由器v4.31 密码泄露漏洞 CVE-2019-16313",
+		]
+	},
+	{
+		title: "Milesight",
+		collapsable: true,
+		children:[
+			"/wiki/iot/Milesight/Milesight VPN server.js 任意文件读取漏洞",
+			"/wiki/iot/Milesight/Milesight Router httpd.log 信息泄漏漏洞 CVE-2023-4714",
 		]
 	},
 	{
@@ -420,13 +444,6 @@ module.exports = [
 		collapsable: true,
 		children:[
 			"/wiki/iot/MagicFlow/MagicFlow 防火墙网关 main.xp 任意文件读取漏洞",
-		]
-	},
-	{
-		title: "Milesight",
-		collapsable: true,
-		children:[
-			"/wiki/iot/Milesight/Milesight VPN server.js 任意文件读取漏洞",
 		]
 	},
 	{

@@ -216,6 +216,7 @@ module.exports = [
 		children:[
 			"/wiki/webapp/Casbin/Casbin get-users 账号密码泄漏漏洞",
 			"/wiki/webapp/Casbin/Casdoor get-organizations SQL注入漏洞 CVE-2022-24124",
+			"/wiki/webapp/Casbin/Casdoor static 任意文件读取漏洞",
 		]
 	},
 	{
@@ -243,6 +244,8 @@ module.exports = [
 			"/wiki/webapp/深信服/深信服 行为感知系统 c.php 远程命令执行漏洞",
 			"/wiki/webapp/深信服/深信服 日志中心 c.php 远程命令执行漏洞",
 			"/wiki/webapp/深信服/深信服 DC数据中心管理系统 sangforindex XML实体注入漏洞",
+			"/wiki/webapp/深信服/深信服 NGAF下一代防火墙 loadfile.php 任意文件读取漏洞",
+			"/wiki/webapp/深信服/深信服 NGAF下一代防火墙 login.cgi 远程命令执行漏洞",
 		]
 	},
 	{
@@ -254,10 +257,25 @@ module.exports = [
 		]
 	},
 	{
+		title: "锐起云",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/锐起云/锐起云 xiazai 任意文件读取漏洞",
+			"/wiki/webapp/锐起云/锐起云 resetPwd 登陆绕过漏洞",
+		]
+	},
+	{
 		title: "七牛云",
 		collapsable: true,
 		children:[
 			"/wiki/webapp/七牛云/七牛云 logkit log_path 任意文件读取漏洞",
+		]
+	},
+	{
+		title: "管家婆",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/管家婆/管家婆 订货易在线商城 SelectImage.aspx 任意文件上传漏洞",
 		]
 	},
 	{
@@ -308,6 +326,13 @@ module.exports = [
 		collapsable: true,
 		children:[
 			"/wiki/webapp/飞视美/飞视美 视频会议系统 Struts2 远程命令执行漏洞",
+		]
+	},
+	{
+		title: "smartbi",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/smartbi/smartbi RMIServlet 登陆绕过漏洞",
 		]
 	},
 	{
@@ -384,6 +409,13 @@ module.exports = [
 		children:[
 			"/wiki/webapp/Grafana/Grafana mysql 后台任意文件读取漏洞 CVE-2019-19499",
 			"/wiki/webapp/Grafana/Grafana plugins 任意文件读取漏洞 CVE-2021-43798",
+		]
+	},
+	{
+		title: "EduSoho",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/EduSoho/EduSoho 教培系统 app_dev.php 任意读取漏洞",
 		]
 	},
 	{
@@ -584,6 +616,13 @@ module.exports = [
 		]
 	},
 	{
+		title: "Richmail",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/Richmail/Richmail 企业邮箱 noCookiesMail 登陆绕过漏洞",
+		]
+	},
+	{
 		title: "V2Board",
 		collapsable: true,
 		children:[
@@ -778,6 +817,13 @@ module.exports = [
 		]
 	},
 	{
+		title: "cloudpanel",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/cloudpanel/cloudpanel makefile 任意文件上传漏洞 CVE-2023-35885",
+		]
+	},
+	{
 		title: "JeecgBoot",
 		collapsable: true,
 		children:[
@@ -959,6 +1005,7 @@ module.exports = [
 			"/wiki/webapp/AtlassianConfluence/Atlassian Confluence OGNL注入漏洞 CVE-2022-26134",
 			"/wiki/webapp/AtlassianConfluence/Atlassian Confluence doenterpagevariables.action 远程命令执行漏洞 CVE-2021-26084",
 			"/wiki/webapp/AtlassianConfluence/Atlassian Confluence preview SSTI模版注入漏洞 CVE-2019-3396",
+			"/wiki/webapp/AtlassianConfluence/Atlassian Confluence server-info.action 登陆绕过漏洞 CVE-2023-22515",
 		]
 	},
 ];

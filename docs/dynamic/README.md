@@ -9,6 +9,31 @@ title: 更新日志
 <template>
   <a-timeline>
     <a-timeline-item>
+      2023.11.5
+      <p>
+         - <a-tag color="red">漏洞相关</a-tag>Atlassian Confluence server-info.action 登陆绕过漏洞 CVE-2023-22515<br/>
+         - <a-tag color="red">漏洞相关</a-tag>用友 U8 cloud upload.jsp 任意文件上传漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>金蝶OA 云星空 ScpSupRegHandler 任意文件上传漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>大华 ICC智能物联综合管理平台 readPic 任意文件读取漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>Richmail 企业邮箱 noCookiesMail 登陆绕过漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>蓝凌EIS 智慧协同平台 api.aspx 任意文件上传漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>smartbi RMIServlet 登陆绕过漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>cloudpanel makefile 任意文件上传漏洞 CVE-2023-35885<br/>
+         - <a-tag color="red">漏洞相关</a-tag>锐捷 校园网自助服务系统 login_judge.jsf 任意文件读取漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>Milesight Router httpd.log 信息泄漏漏洞 CVE-2023-4714<br/>
+         - <a-tag color="red">漏洞相关</a-tag>思福迪 运维安全管理系统 test_qrcode_b 远程命令执行漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>管家婆 订货易在线商城 SelectImage.aspx 任意文件上传漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>百为通达 智能流控路由器 open 远程命令执行漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>深信服 NGAF下一代防火墙 loadfile.php 任意文件读取漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>深信服 NGAF下一代防火墙 login.cgi 远程命令执行漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>金蝶OA EAS系统 uploadLogo.action 任意文件上传漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>锐起云 xiazai 任意文件读取漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>锐起云 resetPwd 登陆绕过漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>EduSoho 教培系统 app_dev.php 任意读取漏洞<br/>
+         - <a-tag color="red">漏洞相关</a-tag>Casdoor static 任意文件读取漏洞<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
       2023.8.16
       <p>
          - <a-tag color="red">漏洞相关</a-tag>深信服 SG上网优化管理系统 catjs.php 任意文件读取漏洞<br/>
